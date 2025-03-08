@@ -13,6 +13,7 @@ class manualdata_loader:
     _TITLE_REPLACE_LIST = []
     _SPECIAL_BPM = []
     _isinitialized = False
+    _logging = None
 
     # 特殊文字を置き換えたタイトルの取得
     @classmethod
@@ -30,11 +31,6 @@ class manualdata_loader:
         if not cls._isinitialized:
             cls._initialize()
         id_str = str(id)
-        if id_str == "2044":
-            print("2044")
-            print(cls._SPECIAL_BPM)
-            print(cls._SPECIAL_BPM[id_str])
-            pass
         if id_str in cls._SPECIAL_BPM:
             bpm = {
                 'sp': [base_bpm for i in range(5)],
@@ -74,4 +70,10 @@ class manualdata_loader:
                 cls._SPECIAL_BPM = json.loads(f.read())
             cls._isinitialized = True
         except:
-            pass
+            if cls._logging:
+                cls._logging.error()
+    
+    # loggingのset
+    @classmethod
+    def set_logging(cls, logging):
+        cls._logging = logging
