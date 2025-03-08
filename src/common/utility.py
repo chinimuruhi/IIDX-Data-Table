@@ -1,4 +1,5 @@
 from datetime import datetime, timezone, timedelta
+import requests
 
 class utility:
     GMT = timezone(timedelta(hours=0))
@@ -19,3 +20,8 @@ class utility:
     # 文字列からIf-Modified-Sinceの形式に変換
     def datetime_to_string(cls, dt):
         return datetime.strftime(dt, '%a, %d %b %Y %I:%M:%S GMT')
+
+    @classmethod
+    # asyncのrequest.get
+    async def requests_get(cls, url, headers):
+        return requests.get(url, headers)

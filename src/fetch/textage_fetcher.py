@@ -70,9 +70,12 @@ class textage_data:
     def __init__(self, logging):
         # Loggingオブジェクトの引き継ぎ
         self._logging = logging
-        self._init_last_modified()
-        self._init_titletbl()
         self._isupdated = False
+    
+    # 初期化（非同期処理のためコンストラクタから分離）
+    async def init(self):
+        self._init_last_modified()
+        await self._init_titletbl()
 
     # Last Modifiedの初期化
     def _init_last_modified(self):
@@ -92,20 +95,34 @@ class textage_data:
                 } 
         
     # titletbl空のデータ取得
-    def _init_titletbl(self):
+    async def _init_titletbl(self):
         self._logging.debug('init titletbl')
         # ファイル読み込み
-        self._reversed_normalized_title_dict = self._load_from_file('reverse-normalized-title')
-        self._reverse_textage_tag_dict = self._load_from_file('reverse-textage-tag')
-        self._all_dict = self._load_from_file('all')
-        self._normalized_title_dict = self._load_from_file('normalized-title')
-        self._title_dict = self._load_from_file('title')
-        self._textage_tag_dict = self._load_from_file('textage-tag')
-        self._song_info_dict = self._load_from_file('song-info')
-        self._chart_info_dict = self._load_from_file('chart-info')
+        results = await asyncio.gather(
+            self._load_from_file('reverse-normalized-title'),
+            self._load_from_file('reverse-textage-tag'),
+            self._load_from_file('all'),
+            self._load_from_file('normalized-title'),
+            self._load_from_file('title'),
+            self._load_from_file('textage-tag'),
+            self._load_from_file('song-info'),
+            self._load_from_file('chart-info')
+        )
+        self._reversed_normalized_title_dict = results[0]
+        self._reverse_textage_tag_dict = results[1]
+        self._all_dict = results[2]
+        self._normalized_title_dict = results[3]
+        self._title_dict = results[4]
+        self._textage_tag_dict = results[5]
+        self._song_info_dict = results[6]
+        self._chart_info_dict = results[7]
         # Fetch
-        titletbl_res = requests.get(self._URLS['titletbl'], headers=self._lastmodified_header)
-        actbl_res = requests.get(self._URLS['actbl'], headers=self._lastmodified_header)
+        results = await asyncio.gather(
+            utility.requests_get(self._URLS['titletbl'], headers=self._lastmodified_header),
+            utility.requests_get(self._URLS['actbl'], headers=self._lastmodified_header)
+        )
+        titletbl_res = results[0]
+        actbl_res = results[1]
         # AC/INF収録情報を取得する
         if actbl_res.status_code == requests.codes.ok:
             # 200 OKの場合
@@ -279,9 +296,10 @@ class textage_data:
                 self._all_dict[id_str]['in_inf'] = in_inf
                 self._all_dict[id_str]['level'] = level
 
-    def _fetch_scrlist(self):
+    # scrlistの取得
+    async def _fetch_scrlist(self):
         self._logging.debug('init scrtbl')
-        res = requests.get(self._URLS['scrlist'], headers=self._lastmodified_header)
+        res = await utility.requests_get(self._URLS['scrlist'], headers=self._lastmodified_header)
         if res.status_code == requests.codes.ok:
             # 200 OKの場合
             tblRaw = self._res_to_json(res, self._PATTERN_TBL, self._PATTERN_OTHERTBL_COMMENT,self._REPLACE_OTHERTBL)
@@ -292,7 +310,7 @@ class textage_data:
                 self._version_dict = {
                     'version': tblRaw
                 }
-                
+                self._logging.info('Success in loading scrlist.')
                 return
         elif res.status_code == requests.codes.not_modified:
             # 304 Not Modifiedの場合
@@ -300,11 +318,12 @@ class textage_data:
         else:
             # その他の場合
             self._logging.error('Failed to fetch scrtbl.')
-        self._version_dict = self._load_from_file('version')
+        self._version_dict = await self._load_from_file('version')
 
-    def _fetch_datatbl(self):
+    # datatblの取得
+    async def _fetch_datatbl(self):
         self._logging.debug('init datatbl')
-        res = requests.get(self._URLS['datatbl'], headers=self._lastmodified_header)
+        res = await utility.requests_get(self._URLS['datatbl'], headers=self._lastmodified_header)
         if res.status_code == requests.codes.ok:
             # 200 OKの場合
             tblRaw = self._res_to_json(res, self._PATTERN_TBL, self._PATTERN_OTHERTBL_COMMENT, self._REPLACE_OTHERTBL)
@@ -346,7 +365,7 @@ class textage_data:
             self._logging.error('Failed to fetch datatbl.')
     
     # ファイルからロード
-    def _load_from_file(self, file_id):
+    async def _load_from_file(self, file_id):
         try:
             with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='r', encoding='utf_8') as f:
                 return json.loads(f.read())
@@ -355,7 +374,7 @@ class textage_data:
             return {}
         
     # dictをJSONファイルとして出力する
-    def _save_to_file(self, data, file_id):
+    async def _save_to_file(self, data, file_id):
         try:
             with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='w', encoding='utf_8') as f:
                 f.write(json.dumps(data, ensure_ascii=False, indent='\t', sort_keys=True, separators=(',', ': ')))
@@ -364,9 +383,9 @@ class textage_data:
             raise e
 
     # dictをJSONファイルとして出力する
-    def _save_to_file_gz(self, data, file_id):
+    async def _save_to_file_gz(self, data, file_id):
         try:
-            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='w', encoding='utf_8') as f:
+            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='wb') as f:
                 text = json.dumps(data)
                 f.write(gzip.compress(bytes(text, 'utf_8')))
         except Exception as e:
@@ -404,19 +423,26 @@ class textage_data:
         #    return {}
     
     # 情報のアップデート
-    def update(self):
-        self._fetch_scrlist()
-        self._fetch_datatbl()
+    async def update(self):
+        await asyncio.gather(
+            self._fetch_scrlist(),
+            self._fetch_datatbl()
+        )
         # ファイルに保存
-        self._save_to_file(self._reversed_normalized_title_dict, 'reverse-normalized-title')
-        self._save_to_file(self._reverse_textage_tag_dict, 'reverse-textage-tag')
-        self._save_to_file(self._normalized_title_dict, 'normalized-title')
-        self._save_to_file(self._title_dict, 'title')
-        self._save_to_file(self._textage_tag_dict, 'textage-tag')
-        self._save_to_file(self._song_info_dict, 'song-info')
-        self._save_to_file(self._chart_info_dict, 'chart-info')
-        self._save_to_file(self._version_dict, 'version')
-        self._save_to_file(self._all_dict, 'all')
+        await asyncio.gather(
+            self._save_to_file(self._reversed_normalized_title_dict, 'reverse-normalized-title'),
+            self._save_to_file(self._reverse_textage_tag_dict, 'reverse-textage-tag'),
+            self._save_to_file(self._normalized_title_dict, 'normalized-title'),
+            self._save_to_file(self._title_dict, 'title'),
+            self._save_to_file(self._textage_tag_dict, 'textage-tag'),
+            self._save_to_file(self._song_info_dict, 'song-info'),
+            self._save_to_file_gz(self._song_info_dict, 'song-info-gz'),
+            self._save_to_file(self._chart_info_dict, 'chart-info'),
+            self._save_to_file_gz(self._chart_info_dict, 'chart-info-gz'),
+            self._save_to_file(self._version_dict, 'version'),
+            self._save_to_file(self._all_dict, 'all'),
+            self._save_to_file_gz(self._all_dict, 'all-gz')
+        )
         if self._isupdated:
             self._update_last_modified()
         else:

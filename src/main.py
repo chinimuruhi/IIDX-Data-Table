@@ -2,30 +2,25 @@ from dotenv import load_dotenv
 import json
 from logging import getLogger, config
 from fetch.textage_fetcher import textage_data
+from common.manualdata_loader import manualdata_loader
 
-import re
+import asyncio
 
-replace_list = [
-    [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
-]
-
-comment_pattern = [
-    re.compile(r'//.*?\n')
-]
-
-def main():
+async def main():
     # 検証環境の.envを読み込み
     load_dotenv()
     # logger設定の読み込み
     with open('./src/log_config.json', 'r') as f:
         log_conf = json.loads(f.read())
         config.dictConfig(log_conf)
-    logger = getLogger('main')
+    logging = getLogger('main')
     # logger = getLogger('debug')
-    td = textage_data(logger)
-
-    td.update()
+    manualdata_loader.set_logging(logging)
+    # textage情報の更新
+    td = textage_data(logging)
+    await td.init()
+    await td.update()
 
 
 if __name__ == '__main__':
-    main()
+    asyncio.run(main())

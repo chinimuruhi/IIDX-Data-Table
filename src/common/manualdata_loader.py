@@ -71,7 +71,7 @@ class manualdata_loader:
             cls._isinitialized = True
         except:
             if cls._logging:
-                cls._logging.error()
+                cls._logging.error("Faild to load manual file.")
     
     # loggingのset
     @classmethod

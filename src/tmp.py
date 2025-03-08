@@ -37,3 +37,17 @@ with open('./dist/bm2dx.com.json', mode='w') as f:
 with open('./dist/zasa.sakura.ne.jp.json', mode='w') as f:
     r = requests.get('https://zasa.sakura.ne.jp/dp/run.php')
     f.write(r.text)
+
+
+async def dev():
+    results = await asyncio.gather(
+        async1(), async2()
+    )
+    print(results)
+
+async def async1():
+    aaa()
+    return 10
+
+async def async2():
+    return 20
