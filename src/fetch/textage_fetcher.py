@@ -6,27 +6,26 @@ from common.manualdata_loader import manualdata_loader
 import asyncio
 import json
 from logging import getLogger
-import gzip
+import html
 
 class textage_data:
     # ファイルの場所
     _FILE_PATH = './dist/textage'
     # ファイル名
-    _OTHER_FILES = {
+    _FILES = {
         'reverse-normalized-title': 'reverse-normalized-title.json',
         'normalized-title': 'normalized-title.json',
         'title': 'title.json',
         'reverse-textage-tag': 'reverse-textage-tag.json',
         'textage-tag': 'textage-tag.json',
-        'last_modified': 'last_modified.json',
+        'last_modified': 'last_modified.txt',
         'song-info':'song-info.json',
         'song-info-gz':'song-info.json.gz',
         'chart-info':'chart-info.json',
         'chart-info-gz':'chart-info.json.gz',
         'version': 'version.json',
         'all':'all.json',
-        'all-gz':'all.json.gz',
-        'debug': 'debug.txt'
+        'all-gz':'all.json.gz'
     }
     # データ取得先
     _URLS={
@@ -43,6 +42,8 @@ class textage_data:
         re.compile(r'\t'),
         re.compile(r'<span.*?>'),
         re.compile(r'<\\/span>'),
+        re.compile(r'<div.*?>'),
+        re.compile(r'<\\/div>'),
         re.compile(r'\.fontcolor\(.*?\)')
     ]
     _PATTERN_OTHERTBL_COMMENT = [
@@ -71,42 +72,25 @@ class textage_data:
         # Loggingオブジェクトの引き継ぎ
         self._logging = logging
         self._isupdated = False
+        self._lastmodified_header = utility.init_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
     
     # 初期化（非同期処理のためコンストラクタから分離）
     async def init(self):
-        self._init_last_modified()
         await self._init_titletbl()
 
-    # Last Modifiedの初期化
-    def _init_last_modified(self):
-        try:
-            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES['last_modified']), mode='r', encoding='utf_8') as f:
-                last_modified = f.read()
-                self._logging.debug('Load Last Modified: ' + last_modified)
-                self._lastmodified_header ={
-                    'If-Modified-Since': last_modified
-                } 
-        except:
-            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES['last_modified']), mode= "w", encoding='utf_8') as f:
-                f.write(utility.get_unix_begin_time())
-                self._logging.debug('Create Last Modified File.')
-                self._lastmodified_header ={
-                    'If-Modified-Since': utility.get_unix_begin_time()
-                } 
-        
     # titletbl空のデータ取得
     async def _init_titletbl(self):
         self._logging.debug('init titletbl')
         # ファイル読み込み
         results = await asyncio.gather(
-            self._load_from_file('reverse-normalized-title'),
-            self._load_from_file('reverse-textage-tag'),
-            self._load_from_file('all'),
-            self._load_from_file('normalized-title'),
-            self._load_from_file('title'),
-            self._load_from_file('textage-tag'),
-            self._load_from_file('song-info'),
-            self._load_from_file('chart-info')
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['reverse-normalized-title'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['reverse-textage-tag'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['all'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['normalized-title'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['title'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['textage-tag'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['song-info'])),
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['chart-info']))
         )
         self._reversed_normalized_title_dict = results[0]
         self._reverse_textage_tag_dict = results[1]
@@ -201,7 +185,7 @@ class textage_data:
                         if normalized_title in self._reversed_normalized_title_dict and self._reversed_normalized_title_dict[normalized_title] != id:
                             the_priority = 0
                             other_priority = 0
-                            other_id = self._reversed_normalized_title_dict[normalized_title]
+                            other_id = self._reversed_normalized_title_dict[ascii(normalized_title)[1:-1]]
                             other_key = self._textage_tag_dict[str(other_id)]
                             if in_ac:
                                 the_priority += 2
@@ -213,7 +197,7 @@ class textage_data:
                                 other_priority += 1
                             # 優先度比較
                             if the_priority > other_priority:
-                                self._reversed_normalized_title_dict[normalized_title] = id
+                                self._reversed_normalized_title_dict[ascii(normalized_title)[1:-1]] = id
                                 self._logging.debug(other_key + ' is same title with ' + key)
                             elif the_priority < other_priority:
                                 self._logging.debug(key + ' is same title with ' + other_key)
@@ -221,13 +205,13 @@ class textage_data:
                             else:
                                 # 優先度が同じ場合はidが大きい方を優先
                                 if id > other_id:
-                                    self._reversed_normalized_title_dict[normalized_title] = id
+                                    self._reversed_normalized_title_dict[ascii(normalized_title)[1:-1]] = id
                                     self._logging.debug(other_key + ' is same title with ' + key)
                                 else:
                                     self._logging.debug(key + ' is same title with ' + other_key)
                                     continue
                         else:
-                            self._reversed_normalized_title_dict[normalized_title] = id
+                            self._reversed_normalized_title_dict[ascii(normalized_title)[1:-1]] = id
                         # その他データを成形して保持
                         self._reverse_textage_tag_dict[key] = id
                         self._normalized_title_dict[id_str] = normalized_title
@@ -318,7 +302,7 @@ class textage_data:
         else:
             # その他の場合
             self._logging.error('Failed to fetch scrtbl.')
-        self._version_dict = await self._load_from_file('version')
+        self._version_dict = await utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['version']))
 
     # datatblの取得
     async def _fetch_datatbl(self):
@@ -363,48 +347,13 @@ class textage_data:
         else:
             # その他の場合
             self._logging.error('Failed to fetch datatbl.')
-    
-    # ファイルからロード
-    async def _load_from_file(self, file_id):
-        try:
-            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='r', encoding='utf_8') as f:
-                return json.loads(f.read())
-        except:
-            self._logging.error('Failed to load JSON from file:' + os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]))
-            return {}
-        
-    # dictをJSONファイルとして出力する
-    async def _save_to_file(self, data, file_id):
-        try:
-            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='w', encoding='utf_8') as f:
-                f.write(json.dumps(data, ensure_ascii=False, indent='\t', sort_keys=True, separators=(',', ': ')))
-        except Exception as e:
-            self._logging.error('Failed to save file:' + os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]))
-            raise e
 
-    # dictをJSONファイルとして出力する
-    async def _save_to_file_gz(self, data, file_id):
-        try:
-            with open(os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]), mode='wb') as f:
-                text = json.dumps(data)
-                f.write(gzip.compress(bytes(text, 'utf_8')))
-        except Exception as e:
-            self._logging.error('Failed to save file:' + os.path.join(self._FILE_PATH, self._OTHER_FILES[file_id]))
-            raise e
-        
-    # Last Modifiedの更新
-    def _update_last_modified(self):
-        with open(os.path.join(self._FILE_PATH, self._OTHER_FILES['last_modified']), mode= "w", encoding='utf_8') as f:
-            now = utility.get_now()
-            f.write(now)
-            self._logging.debug('Update Last Modified File: ' + str(utility.get_now()))
-    
     # レスポンス(Javascript)からデータを抽出
     def _res_to_json(self, res, tbl_pattern, comment_pattern, replace_list):
         # JSONとなっているテーブルを抽出
         res.encoding = "shift_jis"
         match = tbl_pattern.findall(res.text)
-        text = match[0][0]
+        text = html.unescape(match[0][0])
         # レスポンスからJSONとして抽出
         # コメント等余計なものを置き換え
         for pattern in comment_pattern:
@@ -430,31 +379,32 @@ class textage_data:
         )
         # ファイルに保存
         await asyncio.gather(
-            self._save_to_file(self._reversed_normalized_title_dict, 'reverse-normalized-title'),
-            self._save_to_file(self._reverse_textage_tag_dict, 'reverse-textage-tag'),
-            self._save_to_file(self._normalized_title_dict, 'normalized-title'),
-            self._save_to_file(self._title_dict, 'title'),
-            self._save_to_file(self._textage_tag_dict, 'textage-tag'),
-            self._save_to_file(self._song_info_dict, 'song-info'),
-            self._save_to_file_gz(self._song_info_dict, 'song-info-gz'),
-            self._save_to_file(self._chart_info_dict, 'chart-info'),
-            self._save_to_file_gz(self._chart_info_dict, 'chart-info-gz'),
-            self._save_to_file(self._version_dict, 'version'),
-            self._save_to_file(self._all_dict, 'all'),
-            self._save_to_file_gz(self._all_dict, 'all-gz')
+            utility.save_to_file(self._reversed_normalized_title_dict, os.path.join(self._FILE_PATH, self._FILES['reverse-normalized-title'])),
+            utility.save_to_file(self._reverse_textage_tag_dict, os.path.join(self._FILE_PATH, self._FILES['reverse-textage-tag'])),
+            utility.save_to_file(self._normalized_title_dict, os.path.join(self._FILE_PATH, self._FILES['normalized-title'])),
+            utility.save_to_file(self._title_dict, os.path.join(self._FILE_PATH, self._FILES['title'])),
+            utility.save_to_file(self._textage_tag_dict, os.path.join(self._FILE_PATH, self._FILES['textage-tag'])),
+            utility.save_to_file(self._song_info_dict, os.path.join(self._FILE_PATH, self._FILES['song-info'])),
+            utility.save_to_file_gz(self._song_info_dict, os.path.join(self._FILE_PATH, self._FILES['song-info-gz'])),
+            utility.save_to_file(self._chart_info_dict, os.path.join(self._FILE_PATH, self._FILES['chart-info'])),
+            utility.save_to_file_gz(self._chart_info_dict, os.path.join(self._FILE_PATH, self._FILES['chart-info-gz'])),
+            utility.save_to_file(self._version_dict, os.path.join(self._FILE_PATH, self._FILES['version'])),
+            utility.save_to_file(self._all_dict, os.path.join(self._FILE_PATH, self._FILES['all'])),
+            utility.save_to_file_gz(self._all_dict, os.path.join(self._FILE_PATH, self._FILES['all-gz']))
         )
         if self._isupdated:
-            self._update_last_modified()
+            utility.update_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
         else:
             self._logging.info('No Change.')
 
     # 曲名からidを取得する
     def get_song_id(self, title):
         title = manualdata_loader.normalize_title(title)
-        if title in self._reversed_normalized_title_dict:
-            return self._reversed_normalized_title_dict[title]
+        ascii_title = ascii(title)[1:-1]
+        if ascii_title in self._reversed_normalized_title_dict:
+            return self._reversed_normalized_title_dict[ascii_title]
         else:
-            self._logging.error(title + ' is not found.')
+            self._logging.error(title + '(' + ascii_title + ')' + ' is not found.')
             return -1
         
             

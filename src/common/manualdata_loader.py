@@ -20,7 +20,7 @@ class manualdata_loader:
     def normalize_title(cls, text):
         if not cls._isinitialized:
             cls._initialize()
-        for l in cls._TITLE_REPLACE_LIST:
+        for l in cls._TITLE_REPLACE_LIST['title']:
             text = text.replace(l[0], l[1])
         text = text.strip()
         return text

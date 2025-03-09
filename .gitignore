@@ -1,6 +1,5 @@
 # 独自設定
-dist/log/
-dist/textage/
+dist/
 old/
 .DS_Store
 
