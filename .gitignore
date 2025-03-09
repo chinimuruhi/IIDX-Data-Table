@@ -1,5 +1,6 @@
 # 独自設定
 dist/
+.DS_Store
 old/
 
 # Byte-compiled / optimized / DLL files
