@@ -22,7 +22,6 @@ class difficulty_sp12_data:
     def __init__(self, logging):
         # Loggingオブジェクトの引き継ぎ
         self._logging = logging
-        self._isupdated = False
         self._lastmodified_header = utility.init_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
 
     # 難易度表取得

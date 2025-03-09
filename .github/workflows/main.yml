@@ -39,6 +39,7 @@ jobs:
           pip install requests
           pip install gspread
           pip install dotenv
+          pip install google-api-python-client
           
       - name: Run script
         run: |

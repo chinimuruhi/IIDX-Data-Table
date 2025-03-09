@@ -7,8 +7,7 @@ from common.manualdata_loader import manualdata_loader
 from common.utility import utility
 from fetch.textage_fetcher import textage_data
 from fetch.difficulty_sp12_fetcher import difficulty_sp12_data
-
-
+from fetch.difficulty_sp11_fetcher import difficulty_sp11_data
 
 async def main():
     # 検証環境の.envを読み込み
@@ -26,11 +25,12 @@ async def main():
     await textage.update()
     # 各種fetcherの作成
     sp12 = difficulty_sp12_data(logging)
+    sp11 = difficulty_sp11_data(logging)
     # 各種情報の取得
     await asyncio.gather(
         sp12.update(textage),
+        sp11.update(textage),
     )
-
 
 
 if __name__ == '__main__':
