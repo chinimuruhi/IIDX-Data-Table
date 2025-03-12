@@ -9,10 +9,6 @@ with open('./dist/bpim.msqkn310.workers.dev.json', mode='w') as f:
     r = requests.get('https://bpim.msqkn310.workers.dev/release')
     f.write(r.text)
 
-with open('./dist/cpi.makecir.com.json', mode='w') as f:
-    r = requests.get('https://cpi.makecir.com/scores')
-    f.write(r.text)
-
 with open('./dist/bm2dx.com.json', mode='w') as f:
     with urllib.request.urlopen('https://bm2dx.com/IIDX/notes_radar/notes_radar.json.gz') as res:
         dec = gzip.GzipFile(fileobj=res)

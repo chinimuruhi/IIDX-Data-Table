@@ -40,6 +40,7 @@ jobs:
           pip install gspread
           pip install dotenv
           pip install google-api-python-client
+          pip install beautifulsoup4
           
       - name: Run script
         run: |

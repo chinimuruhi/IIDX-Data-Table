@@ -54,7 +54,6 @@ class difficulty_sp11_data:
     def __init__(self, logging):
         # Loggingオブジェクトの引き継ぎ
         self._logging = logging
-        self._isupdated = False
 
     # 難易度表取得
     async def update(self, textage_data):
