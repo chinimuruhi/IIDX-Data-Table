@@ -9,6 +9,7 @@ from fetch.textage_fetcher import textage_data
 from fetch.difficulty_sp12_fetcher import difficulty_sp12_data
 from fetch.difficulty_sp11_fetcher import difficulty_sp11_data
 from fetch.cpi_fetcher import cpi_data
+from fetch.konami_fetcher import konami_data
 
 async def main():
     # 検証環境の.envを読み込み
@@ -28,11 +29,13 @@ async def main():
     sp12 = difficulty_sp12_data(logging)
     sp11 = difficulty_sp11_data(logging)
     cpi = cpi_data(logging)
+    konami = konami_data(logging)
     # 各種情報の取得
     await asyncio.gather(
-        sp12.update(textage),
-        sp11.update(textage),
-        cpi.update(textage)
+        # sp12.update(textage),
+        # sp11.update(textage),
+        # cpi.update(textage),
+        konami.update(textage)
     )
 
 
