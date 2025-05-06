@@ -1,12 +1,18 @@
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-normalized-title.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-textage-tag.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/all.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/normalized-title.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/title.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/textage-tag.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/song-info.json
-2025-03-13 01:39:01,282 main:61 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/chart-info.json
-2025-03-13 01:39:03,105 main:115 _init_titletbl [INFO]: Success in loading actbl.
-2025-03-13 01:39:03,147 main:242 _init_titletbl [INFO]: Success in loading titletbl.
-2025-03-13 01:39:04,026 main:297 _fetch_scrlist [INFO]: Success in loading scrlist.
-2025-03-13 01:39:04,733 main:343 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-05-06 11:40:44,574 main:111 _init_titletbl [INFO]: Success in loading actbl.
+2025-05-06 11:40:44,628 main:238 _init_titletbl [INFO]: Success in loading titletbl.
+2025-05-06 11:40:45,348 main:297 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2025-05-06 11:40:45,691 main:339 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-05-06 11:40:48,550 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/bpi/version.json
+2025-05-06 11:40:48,554 main:92 update [INFO]: Success in loading difficulty_sp11.
+2025-05-06 11:40:48,609 main:69 update [INFO]: Success in loading difficulty_sp12.
+2025-05-06 11:40:48,977 main:96 update [INFO]: BPI Load Skip: Chronos
+2025-05-06 11:40:48,978 main:96 update [INFO]: BPI Load Skip: Chronos
+2025-05-06 11:40:48,979 main:96 update [INFO]: BPI Load Skip: i-ii
+2025-05-06 11:40:48,979 main:96 update [INFO]: BPI Load Skip: I'm so Happy
+2025-05-06 11:40:48,982 main:96 update [INFO]: BPI Load Skip: T.R.O.L.L.
+2025-05-06 11:40:48,982 main:96 update [INFO]: BPI Load Skip: VOLCANIC BIGBEAT
+2025-05-06 11:40:49,014 main:146 update [INFO]: Success in loading bpi.
+2025-05-06 11:40:50,657 main:121 update [INFO]: Success in loading cpi.
+2025-05-06 11:40:50,658 main:51 update [INFO]: Success in loading konami.
+2025-05-06 11:40:50,856 main:76 update [INFO]: Success in loading konami.
+2025-05-06 11:40:51,619 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.

@@ -21,7 +21,7 @@
 				0
 			]
 		},
-		"normalized_title": "20,November",
+		"normalized_title": "2O,November",
 		"notes": {
 			"dp": [
 				0,
@@ -3029,7 +3029,7 @@
 		],
 		"genre": "EXTREME EXPERIMENTAL",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -3046,7 +3046,7 @@
 				0
 			]
 		},
-		"normalized_title": "V0ID",
+		"normalized_title": "VOID",
 		"notes": {
 			"dp": [
 				0,
@@ -3158,7 +3158,7 @@
 		"bpm": 135,
 		"genre": "G-HOUSE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -3218,7 +3218,7 @@
 				0
 			]
 		},
-		"normalized_title": "惑星☆ロリポップ",
+		"normalized_title": "惑星ロリポップ",
 		"notes": {
 			"dp": [
 				0,
@@ -4234,7 +4234,7 @@
 			]
 		},
 		"textage_tag": "paramax",
-		"title": "PARANOIA MAX〜DIRTY MIX〜",
+		"title": "PARANOIA MAX～DIRTY MIX～",
 		"version": 1
 	},
 	"1120": {
@@ -4517,7 +4517,7 @@
 				0
 			]
 		},
-		"normalized_title": "KI･SE･KI(IIDXREDEDIT)",
+		"normalized_title": "KI.SE.KI(IIDXREDEDIT)",
 		"notes": {
 			"dp": [
 				0,
@@ -5426,7 +5426,7 @@
 				0
 			]
 		},
-		"normalized_title": "TellMeMore…",
+		"normalized_title": "TellMeMore...",
 		"notes": {
 			"dp": [
 				0,
@@ -5598,7 +5598,7 @@
 				0
 			]
 		},
-		"normalized_title": "ULTiMΛTE",
+		"normalized_title": "ULTiMATE",
 		"notes": {
 			"dp": [
 				0,
@@ -5730,7 +5730,7 @@
 				0
 			]
 		},
-		"normalized_title": "太陽~T･A･I･Y･O~",
+		"normalized_title": "太陽~T.A.I.Y.O~",
 		"notes": {
 			"dp": [
 				0,
@@ -5748,7 +5748,7 @@
 			]
 		},
 		"textage_tag": "_taiyo",
-		"title": "太陽〜T・A・I・Y・O〜",
+		"title": "太陽～T・A・I・Y・O～",
 		"version": 11
 	},
 	"1153": {
@@ -6037,7 +6037,7 @@
 				0
 			]
 		},
-		"normalized_title": "100%minimoo-G",
+		"normalized_title": "1OO%minimoo-G",
 		"notes": {
 			"dp": [
 				0,
@@ -6230,7 +6230,7 @@
 			]
 		},
 		"textage_tag": "captive",
-		"title": "CaptivAte〜浄化〜",
+		"title": "CaptivAte～浄化～",
 		"version": 12
 	},
 	"1206": {
@@ -6685,7 +6685,7 @@
 				0
 			]
 		},
-		"normalized_title": "HAPPY☆ANGEL",
+		"normalized_title": "HAPPYANGEL",
 		"notes": {
 			"dp": [
 				0,
@@ -8462,7 +8462,7 @@
 				0
 			]
 		},
-		"normalized_title": "合体せよ!ストロングイェーガー!!(Ryu☆remix)",
+		"normalized_title": "合体せよ!ストロングイェーガー!!(Ryuremix)",
 		"notes": {
 			"dp": [
 				0,
@@ -8744,7 +8744,7 @@
 			]
 		},
 		"textage_tag": "apocalps",
-		"title": "Apocalypse〜dirge of swans〜",
+		"title": "Apocalypse～dirge of swans～",
 		"version": 13
 	},
 	"1303": {
@@ -8855,7 +8855,7 @@
 				0
 			]
 		},
-		"normalized_title": "BloodyTears(IIDXEDITION)",
+		"normalized_title": "BloodyTears(IIDXEdition)",
 		"notes": {
 			"dp": [
 				0,
@@ -9681,7 +9681,7 @@
 				0
 			]
 		},
-		"normalized_title": "Leaving…",
+		"normalized_title": "Leaving...",
 		"notes": {
 			"dp": [
 				0,
@@ -10627,7 +10627,7 @@
 				0
 			]
 		},
-		"normalized_title": "WinningEleven9Theme(IIDXEDITION)",
+		"normalized_title": "WinningEleven9Theme(IIDXEdition)",
 		"notes": {
 			"dp": [
 				0,
@@ -10756,7 +10756,7 @@
 				0
 			]
 		},
-		"normalized_title": "withyou…",
+		"normalized_title": "withyou...",
 		"notes": {
 			"dp": [
 				0,
@@ -10860,7 +10860,7 @@
 			]
 		},
 		"textage_tag": "_kagono",
-		"title": "カゴノトリ〜弐式〜",
+		"title": "カゴノトリ～弐式～",
 		"version": 13
 	},
 	"1353": {
@@ -11100,7 +11100,7 @@
 				0
 			]
 		},
-		"normalized_title": "Leaving…",
+		"normalized_title": "Leaving...",
 		"notes": {
 			"dp": [
 				0,
@@ -11382,7 +11382,7 @@
 			]
 		},
 		"textage_tag": "blindjus",
-		"title": "Blind Justice〜Torn souls,Hurt Faiths〜",
+		"title": "Blind Justice～Torn souls,Hurt Faiths～",
 		"version": 14
 	},
 	"1405": {
@@ -11468,7 +11468,7 @@
 			]
 		},
 		"textage_tag": "c_sabaki",
-		"title": "CaptivAte〜裁き〜",
+		"title": "CaptivAte～裁き～",
 		"version": 14
 	},
 	"1407": {
@@ -11511,7 +11511,7 @@
 			]
 		},
 		"textage_tag": "c_chikai",
-		"title": "CaptivAte〜誓い〜",
+		"title": "CaptivAte～誓い～",
 		"version": 14
 	},
 	"1408": {
@@ -12789,7 +12789,7 @@
 				0
 			]
 		},
-		"normalized_title": "Sense2007",
+		"normalized_title": "Sense2OO7",
 		"notes": {
 			"dp": [
 				0,
@@ -12961,7 +12961,7 @@
 				0
 			]
 		},
-		"normalized_title": "STARS☆☆☆(Re-tunedbyHΛL)-IIDXEDITION-",
+		"normalized_title": "STARS(Re-tunedbyHAL)-IIDXEdition-",
 		"notes": {
 			"dp": [
 				0,
@@ -13351,7 +13351,7 @@
 				0
 			]
 		},
-		"normalized_title": "カミロ･ウナ･メンデス",
+		"normalized_title": "カミロ.ウナ.メンデス",
 		"notes": {
 			"dp": [
 				0,
@@ -13394,7 +13394,7 @@
 				0
 			]
 		},
-		"normalized_title": "クルクル☆ラブ~OpioidPeptideMIX~",
+		"normalized_title": "クルクルラブ~OpioidPeptideMIX~",
 		"notes": {
 			"dp": [
 				0,
@@ -13412,7 +13412,7 @@
 			]
 		},
 		"textage_tag": "_curulab",
-		"title": "クルクル☆ラブ〜Opioid Peptide MIX〜",
+		"title": "クルクル☆ラブ～Opioid Peptide MIX～",
 		"version": 14
 	},
 	"1455": {
@@ -13437,7 +13437,7 @@
 				0
 			]
 		},
-		"normalized_title": "シティ･エンジェル",
+		"normalized_title": "シティ.エンジェル",
 		"notes": {
 			"dp": [
 				0,
@@ -13584,7 +13584,7 @@
 			]
 		},
 		"textage_tag": "_hanafbk",
-		"title": "花吹雪 〜 IIDX LIMITED 〜",
+		"title": "花吹雪 ～ IIDX LIMITED ～",
 		"version": 14
 	},
 	"1459": {
@@ -15101,7 +15101,7 @@
 			]
 		},
 		"textage_tag": "pr_hades",
-		"title": "PARANOiA 〜HADES〜",
+		"title": "PARANOiA ～HADES～",
 		"version": 15
 	},
 	"1531": {
@@ -15384,7 +15384,7 @@
 				0
 			]
 		},
-		"normalized_title": "satellite020712from\"CODEDARMS\"",
+		"normalized_title": "satelliteO2O712from\"CODEDARMS\"",
 		"notes": {
 			"dp": [
 				0,
@@ -16158,7 +16158,7 @@
 				12
 			]
 		},
-		"normalized_title": "ミラージュ･レジデンス",
+		"normalized_title": "ミラージュ.レジデンス",
 		"notes": {
 			"dp": [
 				0,
@@ -17131,7 +17131,7 @@
 			]
 		},
 		"textage_tag": "ckakusei",
-		"title": "CaptivAte2〜覚醒〜",
+		"title": "CaptivAte2～覚醒～",
 		"version": 16
 	},
 	"1610": {
@@ -17285,7 +17285,7 @@
 				11
 			]
 		},
-		"normalized_title": "FlashBack90's",
+		"normalized_title": "FlashBack9O's",
 		"notes": {
 			"dp": [
 				0,
@@ -17804,7 +17804,7 @@
 				0
 			]
 		},
-		"normalized_title": "MonkeyDance'09",
+		"normalized_title": "MonkeyDance'O9",
 		"notes": {
 			"dp": [
 				0,
@@ -17976,7 +17976,7 @@
 				10
 			]
 		},
-		"normalized_title": "NΦCRIME",
+		"normalized_title": "NOCRIME",
 		"notes": {
 			"dp": [
 				0,
@@ -18234,7 +18234,7 @@
 				11
 			]
 		},
-		"normalized_title": "smooooch･∀･",
+		"normalized_title": "smooooch.∀.",
 		"notes": {
 			"dp": [
 				0,
@@ -18470,7 +18470,7 @@
 			]
 		},
 		"textage_tag": "turii",
-		"title": "Turii〜Panta rhei〜",
+		"title": "Turii～Panta rhei～",
 		"version": 16
 	},
 	"1642": {
@@ -19407,7 +19407,7 @@
 				0
 			]
 		},
-		"normalized_title": "beatchic☆仮面~好き、でいさせて~",
+		"normalized_title": "beatchic仮面~好き、でいさせて~",
 		"notes": {
 			"dp": [
 				0,
@@ -19425,7 +19425,7 @@
 			]
 		},
 		"textage_tag": "beatchic",
-		"title": "beatchic☆仮面〜好き、でいさせて〜",
+		"title": "beatchic☆仮面～好き、でいさせて～",
 		"version": 17
 	},
 	"1707": {
@@ -19640,7 +19640,7 @@
 			]
 		},
 		"textage_tag": "c_sbk_ra",
-		"title": "CaptivAte〜裁き〜(SUBLIME TECHNO MIX)",
+		"title": "CaptivAte～裁き～(SUBLIME TECHNO MIX)",
 		"version": 17
 	},
 	"1712": {
@@ -19683,7 +19683,7 @@
 			]
 		},
 		"textage_tag": "c_sbk_r",
-		"title": "CaptivAte〜裁き〜(SUBLIME TECHNO MIX)",
+		"title": "CaptivAte～裁き～(SUBLIME TECHNO MIX)",
 		"version": 17
 	},
 	"1713": {
@@ -21080,7 +21080,7 @@
 			]
 		},
 		"textage_tag": "quell",
-		"title": "quell〜the seventh slave〜",
+		"title": "quell～the seventh slave～",
 		"version": 17
 	},
 	"1745": {
@@ -21126,7 +21126,7 @@
 			]
 		},
 		"textage_tag": "raison",
-		"title": "Raison d'être〜交差する宿命〜",
+		"title": "Raison d'être～交差する宿命～",
 		"version": 17
 	},
 	"1746": {
@@ -21845,7 +21845,7 @@
 				0
 			]
 		},
-		"normalized_title": "サヨナラ･ヘヴン",
+		"normalized_title": "サヨナラ.ヘヴン",
 		"notes": {
 			"dp": [
 				0,
@@ -21992,7 +21992,7 @@
 			]
 		},
 		"textage_tag": "_fetish",
-		"title": "フェティッシュペイパー〜脇の汗回転ガール〜",
+		"title": "フェティッシュペイパー～脇の汗回転ガール～",
 		"version": 17
 	},
 	"1766": {
@@ -22346,7 +22346,7 @@
 		"bpm": 150,
 		"genre": "NEO DIGITAL FUTURE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -23247,7 +23247,7 @@
 			]
 		},
 		"textage_tag": "dm_star",
-		"title": "DM STAR〜関西 energy style〜",
+		"title": "DM STAR～関西 energy style～",
 		"version": 18
 	},
 	"1815": {
@@ -23649,14 +23649,14 @@
 				4,
 				7,
 				10,
-				0
+				11
 			],
 			"sp": [
 				0,
 				3,
 				7,
 				9,
-				0
+				11
 			]
 		},
 		"normalized_title": "IFIGHTME",
@@ -23666,14 +23666,14 @@
 				366,
 				781,
 				1172,
-				0
+				1428
 			],
 			"sp": [
 				0,
 				315,
 				718,
 				1068,
-				0
+				1440
 			]
 		},
 		"textage_tag": "ifightme",
@@ -25151,7 +25151,7 @@
 			]
 		},
 		"textage_tag": "zeta",
-		"title": "ZETA〜素数の世界と超越者〜",
+		"title": "ZETA～素数の世界と超越者～",
 		"version": 18
 	},
 	"1859": {
@@ -25237,7 +25237,7 @@
 			]
 		},
 		"textage_tag": "_kagenui",
-		"title": "かげぬい 〜 Ver.BENIBOTAN 〜",
+		"title": "かげぬい ～ Ver.BENIBOTAN ～",
 		"version": 18
 	},
 	"1861": {
@@ -25412,7 +25412,7 @@
 			]
 		},
 		"textage_tag": "_yuuyake",
-		"title": "夕焼け〜Fading Day〜",
+		"title": "夕焼け～Fading Day～",
 		"version": 18
 	},
 	"1865": {
@@ -25913,7 +25913,7 @@
 				0
 			]
 		},
-		"normalized_title": "MA･TSU･RI",
+		"normalized_title": "MA.TSU.RI",
 		"notes": {
 			"dp": [
 				0,
@@ -26232,7 +26232,7 @@
 			]
 		},
 		"textage_tag": "a_minstr",
-		"title": "A MINSTREL 〜 ver.short-scape 〜",
+		"title": "A MINSTREL ～ ver.short-scape ～",
 		"version": 19
 	},
 	"1902": {
@@ -26472,7 +26472,7 @@
 				0
 			]
 		},
-		"normalized_title": "DON'TWAKEMEFROMTHEDREAM(2010SummerEdition)",
+		"normalized_title": "DON'TWAKEMEFROMTHEDREAM(2O1OSummerEdition)",
 		"notes": {
 			"dp": [
 				0,
@@ -26601,7 +26601,7 @@
 				0
 			]
 		},
-		"normalized_title": "ËVOLUTIΦN",
+		"normalized_title": "EVOLUTION",
 		"notes": {
 			"dp": [
 				0,
@@ -27937,7 +27937,7 @@
 				12
 			]
 		},
-		"normalized_title": "恋する☆宇宙戦争っ!!",
+		"normalized_title": "恋する宇宙戦争っ!!",
 		"notes": {
 			"dp": [
 				0,
@@ -28013,14 +28013,14 @@
 				5,
 				8,
 				11,
-				0
+				12
 			],
 			"sp": [
 				0,
 				3,
 				7,
 				11,
-				0
+				12
 			]
 		},
 		"normalized_title": "ユミル",
@@ -28030,14 +28030,14 @@
 				505,
 				854,
 				1404,
-				0
+				1941
 			],
 			"sp": [
 				0,
 				333,
 				691,
 				1434,
-				0
+				2020
 			]
 		},
 		"textage_tag": "_ymir",
@@ -28689,7 +28689,7 @@
 			]
 		},
 		"textage_tag": "lethbolg",
-		"title": "LETHEBOLG〜双神威に斬り咲けり〜",
+		"title": "LETHEBOLG～双神威に斬り咲けり～",
 		"version": 19
 	},
 	"1959": {
@@ -29948,7 +29948,7 @@
 				0
 			]
 		},
-		"normalized_title": "GRADIUS2012",
+		"normalized_title": "GRADIUS2O12",
 		"notes": {
 			"dp": [
 				0,
@@ -30249,7 +30249,7 @@
 				0
 			]
 		},
-		"normalized_title": "LightandCyber…",
+		"normalized_title": "LightandCyber...",
 		"notes": {
 			"dp": [
 				0,
@@ -30755,14 +30755,14 @@
 				4,
 				6,
 				10,
-				0
+				12
 			],
 			"sp": [
 				0,
 				3,
 				7,
 				9,
-				0
+				11
 			]
 		},
 		"normalized_title": "YELLOWFROGfromSteelChronicle",
@@ -30772,14 +30772,14 @@
 				367,
 				667,
 				1062,
-				0
+				1526
 			],
 			"sp": [
 				0,
 				295,
 				643,
 				963,
-				0
+				1408
 			]
 		},
 		"textage_tag": "ylw_frog",
@@ -30894,7 +30894,7 @@
 				0
 			]
 		},
-		"normalized_title": "405nm(Ryu☆mix)",
+		"normalized_title": "4O5nm(Ryumix)",
 		"notes": {
 			"dp": [
 				0,
@@ -31158,7 +31158,7 @@
 				12
 			]
 		},
-		"normalized_title": "ΕΛΠΙΣ",
+		"normalized_title": "ΕAΠΙΣ",
 		"notes": {
 			"dp": [
 				0,
@@ -32315,7 +32315,7 @@
 			]
 		},
 		"textage_tag": "_nagisa",
-		"title": "†渚の小悪魔ラヴリィ〜レイディオ†(IIDX EDIT)",
+		"title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
 		"version": 20
 	},
 	"2061": {
@@ -32687,7 +32687,7 @@
 				0
 			]
 		},
-		"normalized_title": "即席!脳直★ミュージックシステム",
+		"normalized_title": "即席!脳直ミュージックシステム",
 		"notes": {
 			"dp": [
 				0,
@@ -33228,7 +33228,7 @@
 		"version": 2
 	},
 	"2080": {
-		"artist": "ギュ〜っとしたい♥Prim",
+		"artist": "ギュ～っとしたい♥Prim",
 		"bpm": 196,
 		"genre": "Hi-ν BLEEP",
 		"in_ac": true,
@@ -33267,7 +33267,7 @@
 			]
 		},
 		"textage_tag": "_kyatora",
-		"title": "キャトられ♥恋はモ〜モク",
+		"title": "キャトられ♥恋はモ～モク",
 		"version": 20
 	},
 	"2081": {
@@ -35251,7 +35251,7 @@
 			]
 		},
 		"textage_tag": "_cholove",
-		"title": "超!!遠距離らぶ♥メ〜ル",
+		"title": "超!!遠距離らぶ♥メ～ル",
 		"version": 21
 	},
 	"2132": {
@@ -35294,7 +35294,7 @@
 			]
 		},
 		"textage_tag": "_s_dogma",
-		"title": "旋律のドグマ〜Misérables〜",
+		"title": "旋律のドグマ～Misérables～",
 		"version": 21
 	},
 	"2133": {
@@ -35408,7 +35408,7 @@
 				12
 			]
 		},
-		"normalized_title": "ClosetheWorldfeat.a☆ru",
+		"normalized_title": "ClosetheWorldfeat.aru",
 		"notes": {
 			"dp": [
 				0,
@@ -35540,7 +35540,7 @@
 				0
 			]
 		},
-		"normalized_title": "マインド･ゲーム",
+		"normalized_title": "マインド.ゲーム",
 		"notes": {
 			"dp": [
 				0,
@@ -35948,7 +35948,7 @@
 			]
 		},
 		"textage_tag": "_howbase",
-		"title": "野球の遊び方 そしてその歴史 〜決定版〜",
+		"title": "野球の遊び方 そしてその歴史 ～決定版～",
 		"version": 21
 	},
 	"2147": {
@@ -37287,7 +37287,7 @@
 				0
 			]
 		},
-		"normalized_title": "バンブーソード･ガール",
+		"normalized_title": "バンブーソード.ガール",
 		"notes": {
 			"dp": [
 				0,
@@ -38242,7 +38242,7 @@
 				0
 			]
 		},
-		"normalized_title": "MirrorballSatellite2012",
+		"normalized_title": "MirrorballSatellite2O12",
 		"notes": {
 			"dp": [
 				0,
@@ -38629,7 +38629,7 @@
 				0
 			]
 		},
-		"normalized_title": "SpaceLand☆TOYBOX",
+		"normalized_title": "SpaceLandTOYBOX",
 		"notes": {
 			"dp": [
 				0,
@@ -39277,7 +39277,7 @@
 				11
 			]
 		},
-		"normalized_title": "ベィスドロップ･フリークス",
+		"normalized_title": "ベィスドロップ.フリークス",
 		"notes": {
 			"dp": [
 				0,
@@ -39707,7 +39707,7 @@
 				0
 			]
 		},
-		"normalized_title": "We'resoHappy(P*LightRemix)IIDXver.",
+		"normalized_title": "We'resoHappy(PLightRemix)IIDXver.",
 		"notes": {
 			"dp": [
 				0,
@@ -39858,7 +39858,7 @@
 		"version": 22
 	},
 	"2244": {
-		"artist": "SWING HOLIC feat. A〜YA",
+		"artist": "SWING HOLIC feat. A～YA",
 		"bpm": 234,
 		"genre": "TIME TRIP JAZZ",
 		"in_ac": true,
@@ -40398,7 +40398,7 @@
 				0
 			]
 		},
-		"normalized_title": "Rave*it!!Rave*it!!",
+		"normalized_title": "Raveit!!Raveit!!",
 		"notes": {
 			"dp": [
 				0,
@@ -40957,7 +40957,7 @@
 				0
 			]
 		},
-		"normalized_title": "TA･DA☆YO･SHI",
+		"normalized_title": "TA.DAYO.SHI",
 		"notes": {
 			"dp": [
 				0,
@@ -41147,7 +41147,7 @@
 			]
 		},
 		"textage_tag": "_fullpwr",
-		"title": "全力 SPECIAL VACATION!!〜限りある休日〜",
+		"title": "全力 SPECIAL VACATION!!～限りある休日～",
 		"version": 22
 	},
 	"2271": {
@@ -41844,7 +41844,7 @@
 				0
 			]
 		},
-		"normalized_title": "ドッキン☆サマーあばんちゅーる",
+		"normalized_title": "ドッキンサマーあばんちゅーる",
 		"notes": {
 			"dp": [
 				0,
@@ -43619,7 +43619,7 @@
 				0
 			]
 		},
-		"normalized_title": "シュッパツシンコウ･シサカンコ",
+		"normalized_title": "シュッパツシンコウ.シサカンコ",
 		"notes": {
 			"dp": [
 				0,
@@ -43877,7 +43877,7 @@
 				0
 			]
 		},
-		"normalized_title": "めいさいアイドル☆あいむちゃん♪",
+		"normalized_title": "めいさいアイドルあいむちゃん♪",
 		"notes": {
 			"dp": [
 				0,
@@ -44178,7 +44178,7 @@
 				0
 			]
 		},
-		"normalized_title": "DerelictStarfeat.Ryu*",
+		"normalized_title": "DerelictStarfeat.Ryu",
 		"notes": {
 			"dp": [
 				0,
@@ -44454,7 +44454,7 @@
 			]
 		},
 		"textage_tag": "_urara",
-		"title": "麗 〜うらら〜",
+		"title": "麗 ～うらら～",
 		"version": 23
 	},
 	"2353": {
@@ -44816,14 +44816,14 @@
 				4,
 				7,
 				11,
-				0
+				12
 			],
 			"sp": [
 				0,
 				4,
 				7,
 				11,
-				0
+				12
 			]
 		},
 		"normalized_title": "SEITENNOTERIYAKI",
@@ -44833,14 +44833,14 @@
 				375,
 				624,
 				1128,
-				0
+				1720
 			],
 			"sp": [
 				0,
 				374,
 				661,
 				1163,
-				0
+				1722
 			]
 		},
 		"textage_tag": "sei_teri",
@@ -44869,7 +44869,7 @@
 				0
 			]
 		},
-		"normalized_title": "CODE:1[revision1.0.1]",
+		"normalized_title": "CODE:1[revision1.O.1]",
 		"notes": {
 			"dp": [
 				0,
@@ -45259,7 +45259,7 @@
 				0
 			]
 		},
-		"normalized_title": "M4K31TB0UNC3",
+		"normalized_title": "M4K31TBOUNC3",
 		"notes": {
 			"dp": [
 				0,
@@ -45391,7 +45391,7 @@
 				0
 			]
 		},
-		"normalized_title": "199024club-Re:BounceKiller-",
+		"normalized_title": "199O24club-Re:BounceKiller-",
 		"notes": {
 			"dp": [
 				0,
@@ -45778,7 +45778,7 @@
 				0
 			]
 		},
-		"normalized_title": "か･し･ま･し☆PUMPUP!",
+		"normalized_title": "か.し.ま.しPUMPUP!",
 		"notes": {
 			"dp": [
 				0,
@@ -46251,7 +46251,7 @@
 				0
 			]
 		},
-		"normalized_title": "ミッドナイト☆WAR",
+		"normalized_title": "ミッドナイトWAR",
 		"notes": {
 			"dp": [
 				0,
@@ -47770,7 +47770,7 @@
 				0
 			]
 		},
-		"normalized_title": "ちらちら･はらはら",
+		"normalized_title": "ちらちら.はらはら",
 		"notes": {
 			"dp": [
 				0,
@@ -48028,7 +48028,7 @@
 				0
 			]
 		},
-		"normalized_title": "お命ちょうDAI!901娘",
+		"normalized_title": "お命ちょうDAI!9O1娘",
 		"notes": {
 			"dp": [
 				0,
@@ -48648,7 +48648,7 @@
 			]
 		},
 		"textage_tag": "babel_gs",
-		"title": "BabeL 〜Grand Story〜",
+		"title": "BabeL ～Grand Story～",
 		"version": 24
 	},
 	"2454": {
@@ -49210,7 +49210,7 @@
 				0
 			]
 		},
-		"normalized_title": "HAPPY★RUSH",
+		"normalized_title": "HAPPYRUSH",
 		"notes": {
 			"dp": [
 				0,
@@ -49446,7 +49446,7 @@
 			]
 		},
 		"textage_tag": "dornwald",
-		"title": "DORNWALD 〜Junge〜",
+		"title": "DORNWALD ～Junge～",
 		"version": 24
 	},
 	"2472": {
@@ -50162,7 +50162,7 @@
 				0
 			]
 		},
-		"normalized_title": "恋はどう?モロ◎波動OK☆方程式!!",
+		"normalized_title": "恋はどう?モロ◎波動OK方程式!!",
 		"notes": {
 			"dp": [
 				0,
@@ -50248,7 +50248,7 @@
 				0
 			]
 		},
-		"normalized_title": "Lostwingat.0",
+		"normalized_title": "Lostwingat.O",
 		"notes": {
 			"dp": [
 				0,
@@ -50635,7 +50635,7 @@
 				0
 			]
 		},
-		"normalized_title": "Acidiva303",
+		"normalized_title": "Acidiva3O3",
 		"notes": {
 			"dp": [
 				0,
@@ -50721,7 +50721,7 @@
 				0
 			]
 		},
-		"normalized_title": "AmorDeVerão",
+		"normalized_title": "AmorDeVerao",
 		"notes": {
 			"dp": [
 				0,
@@ -51065,7 +51065,7 @@
 				0
 			]
 		},
-		"normalized_title": "COSMIC☆WONDER☆REVOLUTION",
+		"normalized_title": "COSMICWONDERREVOLUTION",
 		"notes": {
 			"dp": [
 				0,
@@ -51476,7 +51476,7 @@
 				0
 			]
 		},
-		"normalized_title": "I'mComing(2017Version)",
+		"normalized_title": "I'mComing(2O17Version)",
 		"notes": {
 			"dp": [
 				0,
@@ -51734,7 +51734,7 @@
 				12
 			]
 		},
-		"normalized_title": "O/D*20",
+		"normalized_title": "O/D2O",
 		"notes": {
 			"dp": [
 				0,
@@ -52207,7 +52207,7 @@
 				0
 			]
 		},
-		"normalized_title": "1001-ESCAPE-",
+		"normalized_title": "1OO1-ESCAPE-",
 		"notes": {
 			"dp": [
 				0,
@@ -52293,7 +52293,7 @@
 				0
 			]
 		},
-		"normalized_title": "ハイ＊ビスカスft.KanaeAsaba",
+		"normalized_title": "ハイビスカスft.KanaeAsaba",
 		"notes": {
 			"dp": [
 				0,
@@ -52465,7 +52465,7 @@
 				0
 			]
 		},
-		"normalized_title": "ナイトシティー･アヴァンチュール",
+		"normalized_title": "ナイトシティー.アヴァンチュール",
 		"notes": {
 			"dp": [
 				0,
@@ -52551,7 +52551,7 @@
 				0
 			]
 		},
-		"normalized_title": "うさ☆かめ大戦争!",
+		"normalized_title": "うさかめ大戦争!",
 		"notes": {
 			"dp": [
 				0,
@@ -52870,7 +52870,7 @@
 			]
 		},
 		"textage_tag": "dthzigoq",
-		"title": "DEATH†ZIGOQ〜怒りの高速爆走野郎〜",
+		"title": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
 		"version": 25
 	},
 	"2556": {
@@ -53239,7 +53239,7 @@
 				0
 			]
 		},
-		"normalized_title": "パラドキシカル･タイムリープトライアル(ShortVer.)",
+		"normalized_title": "パラドキシカル.タイムリープトライアル(ShortVer.)",
 		"notes": {
 			"dp": [
 				0,
@@ -53368,7 +53368,7 @@
 				0
 			]
 		},
-		"normalized_title": "CityNeverSleeps(IIDXEDITION)",
+		"normalized_title": "CityNeverSleeps(IIDXEdition)",
 		"notes": {
 			"dp": [
 				0,
@@ -54255,7 +54255,7 @@
 			]
 		},
 		"textage_tag": "einehaub",
-		"title": "Eine Haube 〜聖地の果てにあるもの〜",
+		"title": "Eine Haube ～聖地の果てにあるもの～",
 		"version": 25
 	},
 	"2588": {
@@ -56003,7 +56003,7 @@
 				0
 			]
 		},
-		"normalized_title": "Won(*3*)ChuKissMe!",
+		"normalized_title": "Won(3)ChuKissMe!",
 		"notes": {
 			"dp": [
 				0,
@@ -56350,7 +56350,7 @@
 				0
 			]
 		},
-		"normalized_title": "ハードベース･フェスタ",
+		"normalized_title": "ハードベース.フェスタ",
 		"notes": {
 			"dp": [
 				0,
@@ -56393,7 +56393,7 @@
 				0
 			]
 		},
-		"normalized_title": "ミストレス･アンに花束を",
+		"normalized_title": "ミストレス.アンに花束を",
 		"notes": {
 			"dp": [
 				0,
@@ -56626,7 +56626,7 @@
 			]
 		},
 		"textage_tag": "xenon2",
-		"title": "XENON II 〜TOMOYUKIの野望〜",
+		"title": "XENON II ～TOMOYUKIの野望～",
 		"version": 26
 	},
 	"2648": {
@@ -56780,7 +56780,7 @@
 				0
 			]
 		},
-		"normalized_title": "爆ゼニ☆がってんワーカー",
+		"normalized_title": "爆ゼニがってんワーカー",
 		"notes": {
 			"dp": [
 				0,
@@ -57038,7 +57038,7 @@
 				0
 			]
 		},
-		"normalized_title": "Wolf1061",
+		"normalized_title": "Wolf1O61",
 		"notes": {
 			"dp": [
 				0,
@@ -57425,7 +57425,7 @@
 				0
 			]
 		},
-		"normalized_title": "smooooch･∀･(Snail'sHouseRemix)",
+		"normalized_title": "smooooch.∀.(Snail'sHouseRemix)",
 		"notes": {
 			"dp": [
 				0,
@@ -57643,7 +57643,7 @@
 				0
 			]
 		},
-		"normalized_title": "50thMemorialSongs-BeginningStory-",
+		"normalized_title": "5OthMemorialSongs-BeginningStory-",
 		"notes": {
 			"dp": [
 				0,
@@ -57772,7 +57772,7 @@
 				0
 			]
 		},
-		"normalized_title": "50thMemorialSongs-二人の時~underthecherryblossoms~-",
+		"normalized_title": "5OthMemorialSongs-二人の時~underthecherryblossoms~-",
 		"notes": {
 			"dp": [
 				0,
@@ -57790,7 +57790,7 @@
 			]
 		},
 		"textage_tag": "50th_ftr",
-		"title": "50th Memorial Songs-二人の時 〜under the cherry blossoms〜-",
+		"title": "50th Memorial Songs-二人の時 ～under the cherry blossoms～-",
 		"version": 26
 	},
 	"2675": {
@@ -57818,7 +57818,7 @@
 				0
 			]
 		},
-		"normalized_title": "50thMemorialSongs-Flagshipmedley-",
+		"normalized_title": "5OthMemorialSongs-Flagshipmedley-",
 		"notes": {
 			"dp": [
 				0,
@@ -57861,7 +57861,7 @@
 				0
 			]
 		},
-		"normalized_title": "50thMemorialSongs-TheBEMANIHistory-",
+		"normalized_title": "5OthMemorialSongs-TheBEMANIHistory-",
 		"notes": {
 			"dp": [
 				0,
@@ -57990,7 +57990,7 @@
 				0
 			]
 		},
-		"normalized_title": "NextTales2Oath(IIDX20thAnniv\"Ring\"Theme)",
+		"normalized_title": "NextTales2Oath(IIDX2OthAnniv\"Ring\"Theme)",
 		"notes": {
 			"dp": [
 				0,
@@ -58248,7 +58248,7 @@
 				12
 			]
 		},
-		"normalized_title": "CODE:0",
+		"normalized_title": "CODE:O",
 		"notes": {
 			"dp": [
 				0,
@@ -58555,7 +58555,7 @@
 				0
 			]
 		},
-		"normalized_title": "TheSealer~ア･ミリアとミリアの民~",
+		"normalized_title": "TheSealer~ア.ミリアとミリアの民~",
 		"notes": {
 			"dp": [
 				0,
@@ -58573,7 +58573,7 @@
 			]
 		},
 		"textage_tag": "t_sealer",
-		"title": "The Sealer 〜ア・ミリアとミリアの民〜",
+		"title": "The Sealer ～ア・ミリアとミリアの民～",
 		"version": 26
 	},
 	"2693": {
@@ -60535,14 +60535,14 @@
 				4,
 				7,
 				10,
-				0
+				12
 			],
 			"sp": [
 				2,
 				4,
 				7,
 				10,
-				0
+				12
 			]
 		},
 		"normalized_title": "セピアの軌跡ft.天宮みや(少女フラクタル)",
@@ -60552,14 +60552,14 @@
 				427,
 				753,
 				1223,
-				0
+				1737
 			],
 			"sp": [
 				191,
 				404,
 				739,
 				1205,
-				0
+				1736
 			]
 		},
 		"textage_tag": "_sepiano",
@@ -60710,14 +60710,14 @@
 				5,
 				8,
 				11,
-				0
+				12
 			],
 			"sp": [
 				0,
 				5,
 				9,
 				11,
-				0
+				12
 			]
 		},
 		"normalized_title": "27thstyle",
@@ -60727,14 +60727,14 @@
 				623,
 				907,
 				1257,
-				0
+				1723
 			],
 			"sp": [
 				0,
 				593,
 				908,
 				1299,
-				0
+				1765
 			]
 		},
 		"textage_tag": "27thstyl",
@@ -61401,14 +61401,14 @@
 				4,
 				9,
 				11,
-				0
+				12
 			],
 			"sp": [
 				0,
 				4,
 				9,
 				11,
-				0
+				12
 			]
 		},
 		"normalized_title": "Bowshock!!",
@@ -61418,14 +61418,14 @@
 				417,
 				974,
 				1583,
-				0
+				2170
 			],
 			"sp": [
 				0,
 				408,
 				986,
 				1566,
-				0
+				2176
 			]
 		},
 		"textage_tag": "bowshock",
@@ -61734,7 +61734,7 @@
 		"version": 27
 	},
 	"2768": {
-		"artist": "噂の怪盗少女ぷらずま★彡Prim@休業中〜( _ _ ).。",
+		"artist": "噂の怪盗少女ぷらずま★彡Prim@休業中～( _ _ ).。",
 		"bpm": 185,
 		"genre": "Hi-メランコリックコア",
 		"in_ac": true,
@@ -61841,7 +61841,7 @@
 				0
 			]
 		},
-		"normalized_title": "VIBRΛ",
+		"normalized_title": "VIBRA",
 		"notes": {
 			"dp": [
 				0,
@@ -62360,7 +62360,7 @@
 				0
 			]
 		},
-		"normalized_title": "ラブキラ☆スプラッシュ",
+		"normalized_title": "ラブキラスプラッシュ",
 		"notes": {
 			"dp": [
 				0,
@@ -62962,7 +62962,7 @@
 				0
 			]
 		},
-		"normalized_title": "バッドエンド･シンドローム",
+		"normalized_title": "バッドエンド.シンドローム",
 		"notes": {
 			"dp": [
 				0,
@@ -63395,7 +63395,7 @@
 				0
 			]
 		},
-		"normalized_title": "IIDXREDEnding(Ryu☆Remix)",
+		"normalized_title": "IIDXREDEnding(RyuRemix)",
 		"notes": {
 			"dp": [
 				0,
@@ -63871,7 +63871,7 @@
 				0
 			]
 		},
-		"normalized_title": "涙のテ･エストラーニョ･ムーチョ",
+		"normalized_title": "涙のテ.エストラーニョ.ムーチョ",
 		"notes": {
 			"dp": [
 				0,
@@ -66102,7 +66102,7 @@
 		"bpm": 150,
 		"genre": "HDM",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66294,7 +66294,7 @@
 				0
 			]
 		},
-		"normalized_title": "バッド･スイーツ、バッド･ドリーム",
+		"normalized_title": "バッド.スイーツ、バッド.ドリーム",
 		"notes": {
 			"dp": [
 				0,
@@ -68803,7 +68803,7 @@
 				0
 			]
 		},
-		"normalized_title": "808monkey",
+		"normalized_title": "8O8monkey",
 		"notes": {
 			"dp": [
 				0,
@@ -69150,7 +69150,7 @@
 				11
 			]
 		},
-		"normalized_title": "シル･ヴ･プレジデント",
+		"normalized_title": "シル.ヴ.プレジデント",
 		"notes": {
 			"dp": [
 				0,
@@ -69930,7 +69930,7 @@
 				0
 			]
 		},
-		"normalized_title": "ミュージック･アワー",
+		"normalized_title": "ミュージック.アワー",
 		"notes": {
 			"dp": [
 				0,
@@ -70287,7 +70287,7 @@
 				0
 			],
 			"sp": [
-				0,
+				127,
 				602,
 				1136,
 				1778,
@@ -70376,7 +70376,7 @@
 				0
 			],
 			"sp": [
-				0,
+				111,
 				390,
 				806,
 				1069,
@@ -70452,7 +70452,7 @@
 				0
 			]
 		},
-		"normalized_title": "Nocturnal2097",
+		"normalized_title": "Nocturnal2O97",
 		"notes": {
 			"dp": [
 				0,
@@ -70581,7 +70581,7 @@
 				0
 			]
 		},
-		"normalized_title": "PLASMASOULNIGHTfeat.NanaTakahashi/709sec.",
+		"normalized_title": "PLASMASOULNIGHTfeat.NanaTakahashi/7O9sec.",
 		"notes": {
 			"dp": [
 				0,
@@ -70591,7 +70591,7 @@
 				0
 			],
 			"sp": [
-				0,
+				218,
 				746,
 				1356,
 				2271,
@@ -70645,7 +70645,7 @@
 			]
 		},
 		"textage_tag": "pushonbt",
-		"title": "Push on Beats!〜音ゲの国のeX-ストリーマー〜",
+		"title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
 		"version": 29
 	},
 	"2978": {
@@ -70723,7 +70723,7 @@
 				0
 			],
 			"sp": [
-				0,
+				222,
 				559,
 				1149,
 				1886,
@@ -71360,7 +71360,7 @@
 				0
 			]
 		},
-		"normalized_title": "10000MILESAWAY",
+		"normalized_title": "1OOOOMILESAWAY",
 		"notes": {
 			"dp": [
 				0,
@@ -71493,7 +71493,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				607,
 				944,
 				1517,
 				0
@@ -71622,7 +71622,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				479,
 				759,
 				1041,
 				0
@@ -71751,7 +71751,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				320,
 				618,
 				897,
 				0
@@ -71773,7 +71773,7 @@
 		"bpm": 191,
 		"genre": "NEO DANCE SPEED",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -71790,7 +71790,7 @@
 				0
 			]
 		},
-		"normalized_title": "3V0",
+		"normalized_title": "3VO",
 		"notes": {
 			"dp": [
 				0,
@@ -71859,7 +71859,7 @@
 		"bpm": 157,
 		"genre": "HARD BODY MUSIC",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -71991,7 +71991,7 @@
 		"bpm": 160,
 		"genre": "EMERGENCY CORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72018,7 +72018,7 @@
 				1565
 			],
 			"sp": [
-				0,
+				267,
 				580,
 				853,
 				1278,
@@ -72249,7 +72249,7 @@
 		"bpm": 175,
 		"genre": "MELODIC J-ROCK",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72295,7 +72295,7 @@
 		],
 		"genre": "PROGRESSIVE DRUM'N'BASS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72338,7 +72338,7 @@
 		"bpm": 175,
 		"genre": "HAPPY HARDCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72381,7 +72381,7 @@
 		"bpm": 150,
 		"genre": "TRANCE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72553,7 +72553,7 @@
 		"bpm": 115,
 		"genre": "GLITCH HOP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72682,7 +72682,7 @@
 		"bpm": 216,
 		"genre": "UNSUNG SHADOWS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72725,7 +72725,7 @@
 		"bpm": 180,
 		"genre": "STYLISH CONTEMPORARY",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72795,7 +72795,7 @@
 				0
 			],
 			"sp": [
-				0,
+				186,
 				551,
 				886,
 				1232,
@@ -72897,7 +72897,7 @@
 		"bpm": 155,
 		"genre": "HARDWAVE/STYLE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72940,7 +72940,7 @@
 		"bpm": 148,
 		"genre": "TECH-BIGBEAT",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -72983,21 +72983,21 @@
 		"bpm": 142,
 		"genre": "FUNK POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
 				3,
 				6,
 				9,
-				0
+				10
 			],
 			"sp": [
 				0,
 				3,
 				6,
 				9,
-				0
+				10
 			]
 		},
 		"normalized_title": "wannabea\"BADGIRL\"feat.NanaTakahashi",
@@ -73007,14 +73007,14 @@
 				395,
 				661,
 				1002,
-				0
+				1413
 			],
 			"sp": [
 				0,
 				401,
 				665,
 				1029,
-				0
+				1327
 			]
 		},
 		"textage_tag": "wanna_bg",
@@ -73096,7 +73096,7 @@
 				0
 			],
 			"sp": [
-				0,
+				301,
 				698,
 				1069,
 				1520,
@@ -73241,7 +73241,7 @@
 		"bpm": 162,
 		"genre": "ROCK",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -73311,7 +73311,7 @@
 				0
 			],
 			"sp": [
-				0,
+				298,
 				797,
 				1169,
 				1808,
@@ -73327,7 +73327,7 @@
 		"bpm": 160,
 		"genre": "J METAL×DANCE POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -73502,7 +73502,7 @@
 		],
 		"genre": "PIANO CONCERTO",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -73545,7 +73545,7 @@
 		"bpm": 178,
 		"genre": "SUNNY SKY",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -73631,7 +73631,7 @@
 		"bpm": 180,
 		"genre": "HEROIC DRUM & BASS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -74365,7 +74365,7 @@
 		"bpm": 236,
 		"genre": "ピコピコ電波ソング",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -74408,7 +74408,7 @@
 		"bpm": 180,
 		"genre": "RAPCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -74494,7 +74494,7 @@
 		"bpm": 174,
 		"genre": "FANTASIA",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -74709,7 +74709,7 @@
 		"bpm": 200,
 		"genre": "HARDCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -75142,7 +75142,7 @@
 		"bpm": 190,
 		"genre": "CHANNEL K",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -75245,7 +75245,7 @@
 				0
 			]
 		},
-		"normalized_title": "サヨナラ･ヘヴン-CelticChipDanceMix-",
+		"normalized_title": "サヨナラ.ヘヴン-CelticChipDanceMix-",
 		"notes": {
 			"dp": [
 				0,
@@ -75420,7 +75420,7 @@
 				0
 			]
 		},
-		"normalized_title": "STRAIGHTTOTHESTARSS",
+		"normalized_title": "STRAIGHTTOTHESTARS",
 		"notes": {
 			"dp": [
 				0,
@@ -75532,7 +75532,7 @@
 		"bpm": 180,
 		"genre": "HELETIC BREAK D'n'B",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -75661,7 +75661,7 @@
 		"bpm": 115,
 		"genre": "SUBCONSCIOUS FRAGMENT",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -75704,7 +75704,7 @@
 		"bpm": 189,
 		"genre": "ALTERNATIVE SHIBUYA E-POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -75919,7 +75919,7 @@
 		"bpm": 182,
 		"genre": "HAPPY HARDCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76048,7 +76048,7 @@
 		"bpm": 175,
 		"genre": "ROCK",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76240,7 +76240,7 @@
 				0
 			]
 		},
-		"normalized_title": "MAX360",
+		"normalized_title": "MAX36O",
 		"notes": {
 			"dp": [
 				0,
@@ -76373,7 +76373,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				543,
 				836,
 				1255,
 				0
@@ -76544,7 +76544,7 @@
 				0
 			]
 		},
-		"normalized_title": "20XX",
+		"normalized_title": "2OXX",
 		"notes": {
 			"dp": [
 				0,
@@ -76591,7 +76591,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				507,
 				789,
 				1258,
 				0
@@ -76637,7 +76637,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				456,
 				873,
 				1369,
 				0
@@ -76680,7 +76680,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				547,
 				1021,
 				1426,
 				0
@@ -76766,7 +76766,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				500,
 				858,
 				1419,
 				0
@@ -76852,7 +76852,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				537,
 				817,
 				1410,
 				0
@@ -76895,7 +76895,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				655,
 				1260,
 				1821,
 				0
@@ -77153,7 +77153,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				488,
 				809,
 				1163,
 				0
@@ -77196,7 +77196,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				466,
 				733,
 				1129,
 				0
@@ -77235,7 +77235,7 @@
 				0
 			]
 		},
-		"normalized_title": "JUSTICE/GUILTYfeat.NanaTakahashi&709sec.",
+		"normalized_title": "JUSTICE/GUILTYfeat.NanaTakahashi&7O9sec.",
 		"notes": {
 			"dp": [
 				0,
@@ -77325,7 +77325,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				432,
 				784,
 				1065,
 				0
@@ -77497,7 +77497,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				520,
 				953,
 				1618,
 				0
@@ -77540,7 +77540,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				543,
 				940,
 				1565,
 				0
@@ -77669,7 +77669,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				448,
 				797,
 				1095,
 				0
@@ -77712,7 +77712,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				436,
 				830,
 				1195,
 				0
@@ -77755,7 +77755,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				443,
 				777,
 				1307,
 				1675
@@ -77798,7 +77798,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				512,
 				814,
 				1096,
 				0
@@ -77847,7 +77847,7 @@
 				0
 			],
 			"sp": [
-				0,
+				176,
 				442,
 				702,
 				1052,
@@ -77927,7 +77927,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				457,
 				791,
 				1165,
 				0
@@ -77966,11 +77966,11 @@
 				0
 			]
 		},
-		"normalized_title": "センチメンタル･サマー",
+		"normalized_title": "センチメンタル.サマー",
 		"notes": {
 			"dp": [
 				0,
-				0,
+				356,
 				669,
 				1028,
 				0
@@ -78013,13 +78013,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				292,
 				583,
 				951,
 				1247
 			],
 			"sp": [
-				0,
+				110,
 				264,
 				576,
 				963,
@@ -78056,13 +78056,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				520,
 				901,
 				1376,
 				0
 			],
 			"sp": [
-				0,
+				238,
 				549,
 				921,
 				1411,
@@ -78099,7 +78099,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				564,
 				1019,
 				1514,
 				0
@@ -78142,7 +78142,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				356,
 				676,
 				931,
 				0
@@ -78185,7 +78185,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				406,
 				898,
 				1283,
 				0
@@ -78228,7 +78228,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				379,
 				805,
 				1316,
 				0
@@ -78314,7 +78314,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				515,
 				829,
 				1100,
 				0
@@ -78400,7 +78400,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				425,
 				657,
 				996,
 				0
@@ -78443,7 +78443,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				463,
 				852,
 				1421,
 				0
@@ -78486,7 +78486,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				416,
 				797,
 				1234,
 				0
@@ -78658,7 +78658,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				464,
 				744,
 				1132,
 				0
@@ -78744,7 +78744,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				513,
 				850,
 				1533,
 				0
@@ -78919,13 +78919,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				325,
 				717,
 				1103,
 				0
 			],
 			"sp": [
-				0,
+				143,
 				314,
 				703,
 				1133,
@@ -78968,7 +78968,7 @@
 				1975
 			],
 			"sp": [
-				0,
+				316,
 				614,
 				1011,
 				1454,
@@ -79005,13 +79005,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				424,
 				694,
 				1005,
 				0
 			],
 			"sp": [
-				0,
+				174,
 				421,
 				695,
 				1054,
@@ -79091,7 +79091,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				574,
 				884,
 				1350,
 				0
@@ -79349,7 +79349,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				445,
 				773,
 				1086,
 				0
@@ -79392,7 +79392,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				556,
 				978,
 				1460,
 				0
@@ -79435,7 +79435,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				446,
 				715,
 				1001,
 				0
@@ -79662,7 +79662,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				393,
 				787,
 				1290,
 				0
@@ -79701,7 +79701,7 @@
 				0
 			]
 		},
-		"normalized_title": "Xb10r",
+		"normalized_title": "Xb1Or",
 		"notes": {
 			"dp": [
 				0,
@@ -79834,7 +79834,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				343,
 				689,
 				1077,
 				0
@@ -79877,7 +79877,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				470,
 				908,
 				1412,
 				0
@@ -80181,13 +80181,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				251,
 				515,
 				895,
 				0
 			],
 			"sp": [
-				0,
+				96,
 				232,
 				514,
 				892,
@@ -80224,13 +80224,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				413,
 				665,
 				1161,
 				0
 			],
 			"sp": [
-				0,
+				138,
 				417,
 				652,
 				1118,
@@ -80310,13 +80310,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				425,
 				733,
 				1324,
 				0
 			],
 			"sp": [
-				0,
+				189,
 				407,
 				724,
 				1245,
@@ -80349,17 +80349,17 @@
 				0
 			]
 		},
-		"normalized_title": "マーシャル･マキシマイザー",
+		"normalized_title": "マーシャル.マキシマイザー",
 		"notes": {
 			"dp": [
 				0,
-				0,
+				408,
 				758,
 				1082,
 				0
 			],
 			"sp": [
-				0,
+				214,
 				411,
 				731,
 				1082,
@@ -80396,7 +80396,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				361,
 				726,
 				1183,
 				0
@@ -80482,7 +80482,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				500,
 				785,
 				1408,
 				0
@@ -80521,7 +80521,7 @@
 				0
 			]
 		},
-		"normalized_title": "ACT0",
+		"normalized_title": "ACTO",
 		"notes": {
 			"dp": [
 				0,
@@ -80697,7 +80697,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				470,
 				772,
 				1359,
 				0
@@ -80826,7 +80826,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				512,
 				835,
 				1301,
 				0
@@ -80869,7 +80869,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				551,
 				903,
 				1730,
 				0
@@ -80955,7 +80955,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				614,
 				1043,
 				1690,
 				0
@@ -81001,7 +81001,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				513,
 				901,
 				1323,
 				0
@@ -81044,13 +81044,13 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				395,
 				676,
 				964,
 				0
 			],
 			"sp": [
-				0,
+				106,
 				369,
 				639,
 				907,
@@ -81093,7 +81093,7 @@
 				0
 			],
 			"sp": [
-				0,
+				344,
 				714,
 				1061,
 				1471,
@@ -81130,7 +81130,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				463,
 				748,
 				1270,
 				0
@@ -81173,7 +81173,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				515,
 				834,
 				1531,
 				0
@@ -81503,7 +81503,7 @@
 			]
 		},
 		"textage_tag": "chsafter",
-		"title": "Chasing After YOU 〜夢の欠片〜 ft. 小林マナ",
+		"title": "Chasing After YOU ～夢の欠片～ ft. 小林マナ",
 		"version": 32
 	},
 	"3206": {
@@ -81595,7 +81595,7 @@
 	"3208": {
 		"artist": "Nhato feat. Kanae Asaba",
 		"bpm": 140,
-		"genre": "ELECTORO POP",
+		"genre": "ELECTRO POP",
 		"in_ac": true,
 		"in_inf": false,
 		"level": {
@@ -81829,7 +81829,7 @@
 				0
 			]
 		},
-		"normalized_title": "FERMI♡PARADOX",
+		"normalized_title": "FERMIPARADOX",
 		"notes": {
 			"dp": [
 				0,
@@ -82141,7 +82141,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				714,
 				1173,
 				2027,
 				0
@@ -82345,7 +82345,7 @@
 				0
 			]
 		},
-		"normalized_title": "RaspberryPotion(feat.あれたん♡&ぎゃるのしん☆)",
+		"normalized_title": "RaspberryPotion(feat.あれたん&ぎゃるのしん)",
 		"notes": {
 			"dp": [
 				0,
@@ -82821,7 +82821,7 @@
 				0
 			]
 		},
-		"normalized_title": "オッド♡ラヴィ",
+		"normalized_title": "オッドラヴィ",
 		"notes": {
 			"dp": [
 				0,
@@ -82864,7 +82864,7 @@
 				0
 			]
 		},
-		"normalized_title": "最強頂戴girl♡",
+		"normalized_title": "最強頂戴girl",
 		"notes": {
 			"dp": [
 				0,
@@ -82950,7 +82950,7 @@
 				0
 			]
 		},
-		"normalized_title": "スパークリング☆彡ハイパーチューン!!",
+		"normalized_title": "スパークリング彡ハイパーチューン!!",
 		"notes": {
 			"dp": [
 				0,
@@ -82961,7 +82961,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				743,
 				1105,
 				1843,
 				0
@@ -82988,7 +82988,7 @@
 			"sp": [
 				2,
 				5,
-				8,
+				7,
 				10,
 				0
 			]
@@ -83767,7 +83767,7 @@
 				0
 			]
 		},
-		"normalized_title": "ドーナツホール2024",
+		"normalized_title": "ドーナツホール2O24",
 		"notes": {
 			"dp": [
 				0,
@@ -83853,7 +83853,7 @@
 				0
 			]
 		},
-		"normalized_title": "Slumber☆Party",
+		"normalized_title": "SlumberParty",
 		"notes": {
 			"dp": [
 				0,
@@ -84205,14 +84205,14 @@
 			"dp": [
 				0,
 				0,
-				0,
+				888,
 				1310,
 				0
 			],
 			"sp": [
 				0,
 				0,
-				0,
+				928,
 				1435,
 				0
 			]
@@ -84248,14 +84248,14 @@
 			"dp": [
 				0,
 				0,
-				0,
+				1019,
 				1683,
 				0
 			],
 			"sp": [
 				0,
 				0,
-				0,
+				1050,
 				1648,
 				0
 			]
@@ -84294,14 +84294,14 @@
 			"dp": [
 				0,
 				0,
-				0,
+				1019,
 				1574,
 				0
 			],
 			"sp": [
 				0,
 				0,
-				0,
+				1055,
 				1564,
 				0
 			]
@@ -84337,14 +84337,14 @@
 			"dp": [
 				0,
 				0,
-				0,
+				731,
 				1069,
 				0
 			],
 			"sp": [
 				0,
 				0,
-				0,
+				706,
 				1110,
 				0
 			]
@@ -84380,14 +84380,14 @@
 			"dp": [
 				0,
 				0,
-				0,
+				800,
 				1600,
 				0
 			],
 			"sp": [
 				0,
 				0,
-				0,
+				845,
 				1446,
 				0
 			]
@@ -84423,20 +84423,106 @@
 			"dp": [
 				0,
 				0,
-				0,
+				1011,
 				1794,
 				0
 			],
 			"sp": [
 				0,
-				0,
-				0,
+				672,
+				1127,
 				1912,
 				0
 			]
 		},
 		"textage_tag": "withouth",
 		"title": "Without Heaven",
+		"version": 32
+	},
+	"3268": {
+		"artist": "Tatsunoshin",
+		"bpm": 185,
+		"genre": "NEO HARD RENAISSANCE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "GodMind",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				1220,
+				2157,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				1349,
+				2155,
+				0
+			]
+		},
+		"textage_tag": "godmind",
+		"title": "God Mind",
+		"version": 32
+	},
+	"3269": {
+		"artist": "Yuta Imai",
+		"bpm": 180,
+		"genre": "H4P9Y H@R|>CORE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				0,
+				0,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				12,
+				0
+			]
+		},
+		"normalized_title": "SuG@RRU$#",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				2139,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				2037,
+				0
+			]
+		},
+		"textage_tag": "sugarush",
+		"title": "SμG@R RU$#",
 		"version": 32
 	},
 	"327": {
@@ -84481,6 +84567,178 @@
 		"textage_tag": "sense3a",
 		"title": "Sense",
 		"version": 3
+	},
+	"3270": {
+		"artist": "豚乙女×BEMANI Sound Team \"PON\"",
+		"bpm": 170,
+		"genre": "HARD ORIENTAL",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "弾幕信仰",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				836,
+				1274,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				842,
+				1266,
+				0
+			]
+		},
+		"textage_tag": "_dmsinko",
+		"title": "弾幕信仰",
+		"version": 32
+	},
+	"3271": {
+		"artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. Miko",
+		"bpm": 186,
+		"genre": "GENSOU FULLON",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "SUPERHEROINE!!",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				844,
+				1199,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				829,
+				1187,
+				0
+			]
+		},
+		"textage_tag": "sheroine",
+		"title": "SUPER HEROINE!!",
+		"version": 32
+	},
+	"3272": {
+		"artist": "いよわ",
+		"bpm": 220,
+		"genre": "VOCALOID",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				2,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "きゅうくらりん",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				803,
+				1217,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				866,
+				1203,
+				0
+			]
+		},
+		"textage_tag": "_kyukura",
+		"title": "きゅうくらりん",
+		"version": 32
+	},
+	"3273": {
+		"artist": "GYARI feat.宮舞モカ、弦巻マキ",
+		"bpm": 156,
+		"genre": "J-POP",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				1,
+				4,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "進捗ダメダメです",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				820,
+				1131,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				811,
+				1124,
+				0
+			]
+		},
+		"textage_tag": "_sindame",
+		"title": "進捗ダメダメです",
+		"version": 32
 	},
 	"328": {
 		"artist": "good-cool",
@@ -85195,7 +85453,7 @@
 				0
 			]
 		},
-		"normalized_title": "80'sCAPSULE",
+		"normalized_title": "8O'sCAPSULE",
 		"notes": {
 			"dp": [
 				0,
@@ -85600,7 +85858,7 @@
 			]
 		},
 		"textage_tag": "bleedluv",
-		"title": "Bleeding Luv〜Immorality act〜",
+		"title": "Bleeding Luv～Immorality act～",
 		"version": -1
 	},
 	"3916": {
@@ -86890,7 +87148,7 @@
 				0
 			]
 		},
-		"normalized_title": "Gymnopedie009",
+		"normalized_title": "GymnopedieOO9",
 		"notes": {
 			"dp": [
 				0,
@@ -87860,7 +88118,7 @@
 				0
 			]
 		},
-		"normalized_title": "SANAMOLLETTENEENTE(B.L.T.STYLE)",
+		"normalized_title": "SANAMOLLETENEENTE(B.L.T.STYLE)",
 		"notes": {
 			"dp": [
 				0,
@@ -88425,7 +88683,7 @@
 				0
 			]
 		},
-		"normalized_title": "TheLeast100sec",
+		"normalized_title": "TheLeast1OOsec",
 		"notes": {
 			"dp": [
 				0,
@@ -88719,14 +88977,14 @@
 				7,
 				9,
 				11,
-				0
+				12
 			],
 			"sp": [
 				0,
 				4,
 				7,
 				9,
-				0
+				11
 			]
 		},
 		"normalized_title": "ToyCubePf.(RX-Ver.S.P.L.)",
@@ -88736,14 +88994,14 @@
 				575,
 				1038,
 				1395,
-				0
+				1731
 			],
 			"sp": [
 				0,
 				379,
 				789,
 				1153,
-				0
+				1453
 			]
 		},
 		"textage_tag": "toycube",
@@ -89030,7 +89288,7 @@
 				0
 			]
 		},
-		"normalized_title": "250bpm",
+		"normalized_title": "25Obpm",
 		"notes": {
 			"dp": [
 				0,
@@ -89377,7 +89635,7 @@
 				0
 			]
 		},
-		"normalized_title": "エブリデイ･ラブリデイ-L.E.D.STYLEMIX-",
+		"normalized_title": "エブリデイ.ラブリデイ-L.E.D.STYLEMIX-",
 		"notes": {
 			"dp": [
 				0,
@@ -89939,7 +90197,7 @@
 				0
 			]
 		},
-		"normalized_title": "Clione(Ryu☆Remix)",
+		"normalized_title": "Clione(RyuRemix)",
 		"notes": {
 			"dp": [
 				0,
@@ -90762,7 +91020,7 @@
 				0
 			]
 		},
-		"normalized_title": "Ha･lle･lu･jah",
+		"normalized_title": "Ha.lle.lu.jah",
 		"notes": {
 			"dp": [
 				0,
@@ -91367,7 +91625,7 @@
 				0
 			]
 		},
-		"normalized_title": "uәn",
+		"normalized_title": "uen",
 		"notes": {
 			"dp": [
 				0,
@@ -91457,7 +91715,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				254,
 				487,
 				825,
 				0
@@ -91543,7 +91801,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				571,
 				1090,
 				1495,
 				0
@@ -92058,7 +92316,7 @@
 				0
 			]
 		},
-		"normalized_title": "ジオメトリック�塔eィーパーティー",
+		"normalized_title": "ジオメトリックティーパーティー",
 		"notes": {
 			"dp": [
 				0,
@@ -92076,7 +92334,7 @@
 			]
 		},
 		"textage_tag": "_geo_tea",
-		"title": "ジオメトリック�塔eィーパーティー",
+		"title": "ジオメトリック∮ティーパーティー",
 		"version": -1
 	},
 	"4076": {
@@ -92144,7 +92402,7 @@
 				0
 			]
 		},
-		"normalized_title": "GROOVE04",
+		"normalized_title": "GROOVEO4",
 		"notes": {
 			"dp": [
 				0,
@@ -92187,7 +92445,7 @@
 				0
 			]
 		},
-		"normalized_title": "HAPPY☆LUCKY☆YEAPPY",
+		"normalized_title": "HAPPYLUCKYYEAPPY",
 		"notes": {
 			"dp": [
 				0,
@@ -92362,7 +92620,7 @@
 				0
 			]
 		},
-		"normalized_title": "100sec.KitchenBattle!!",
+		"normalized_title": "1OOsec.KitchenBattle!!",
 		"notes": {
 			"dp": [
 				0,
@@ -92688,6 +92946,49 @@
 		},
 		"textage_tag": "popnsoda",
 		"title": "Poppin' Soda",
+		"version": -1
+	},
+	"4089": {
+		"artist": "Nana Takahashi & BEMANI Sound Team \"L.E.D.\"",
+		"bpm": 162,
+		"genre": "PSYCHEDELIC TRANCE",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "GHELNAGARAJA",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				1848,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1877,
+				0
+			]
+		},
+		"textage_tag": "ghelnaga",
+		"title": "GHEL NAGARAJA",
 		"version": -1
 	},
 	"409": {
@@ -93513,7 +93814,7 @@
 				0
 			]
 		},
-		"normalized_title": "LOVEWILL…",
+		"normalized_title": "LOVEWILL...",
 		"notes": {
 			"dp": [
 				0,
@@ -95220,7 +95521,7 @@
 			]
 		},
 		"textage_tag": "loveage",
-		"title": "LOVE AGAIN TONIGHT〜for Mellisa mix〜",
+		"title": "LOVE AGAIN TONIGHT～for Mellisa mix～",
 		"version": 5
 	},
 	"513": {
@@ -95245,7 +95546,7 @@
 				0
 			]
 		},
-		"normalized_title": "Mobo★Moga",
+		"normalized_title": "MoboMoga",
 		"notes": {
 			"dp": [
 				0,
@@ -96365,7 +96666,7 @@
 			]
 		},
 		"textage_tag": "_tenkiss",
-		"title": "天国のキッス〜D.J.TAKA'S STYLE〜",
+		"title": "天国のキッス～D.J.TAKA'S STYLE～",
 		"version": 5
 	},
 	"540": {
@@ -96519,7 +96820,7 @@
 				0
 			]
 		},
-		"normalized_title": "20,November",
+		"normalized_title": "2O,November",
 		"notes": {
 			"dp": [
 				0,
@@ -96623,7 +96924,7 @@
 			]
 		},
 		"textage_tag": "ballad",
-		"title": "BALLAD FOR YOU〜想いの雨〜",
+		"title": "BALLAD FOR YOU～想いの雨～",
 		"version": 6
 	},
 	"606": {
@@ -96881,7 +97182,7 @@
 			]
 		},
 		"textage_tag": "dive",
-		"title": "DIVE〜INTO YOUR HEART〜",
+		"title": "DIVE～INTO YOUR HEART～",
 		"version": 6
 	},
 	"612": {
@@ -97428,7 +97729,7 @@
 				0
 			]
 		},
-		"normalized_title": "M-02stp.ver.1.01",
+		"normalized_title": "M-O2stp.ver.1.O1",
 		"notes": {
 			"dp": [
 				0,
@@ -97729,7 +98030,7 @@
 				0
 			]
 		},
-		"normalized_title": "route80s",
+		"normalized_title": "route8Os",
 		"notes": {
 			"dp": [
 				0,
@@ -97990,7 +98291,7 @@
 				0
 			]
 		},
-		"normalized_title": "WowWow70's",
+		"normalized_title": "WowWow7O's",
 		"notes": {
 			"dp": [
 				0,
@@ -98383,7 +98684,7 @@
 				0
 			]
 		},
-		"normalized_title": "2002",
+		"normalized_title": "2OO2",
 		"notes": {
 			"dp": [
 				0,
@@ -98677,14 +98978,14 @@
 				4,
 				5,
 				9,
-				0
+				10
 			],
 			"sp": [
 				2,
 				4,
 				5,
 				7,
-				0
+				10
 			]
 		},
 		"normalized_title": "BurningHeat!(FullOptionMix)",
@@ -98694,14 +98995,14 @@
 				359,
 				496,
 				789,
-				0
+				945
 			],
 			"sp": [
 				269,
 				361,
 				494,
 				755,
-				0
+				931
 			]
 		},
 		"textage_tag": "burnheat",
@@ -99596,7 +99897,7 @@
 				0
 			]
 		},
-		"normalized_title": "MAX300",
+		"normalized_title": "MAX3OO",
 		"notes": {
 			"dp": [
 				0,
@@ -100379,7 +100680,7 @@
 				0
 			]
 		},
-		"normalized_title": "MAX300",
+		"normalized_title": "MAX3OO",
 		"notes": {
 			"dp": [
 				0,
@@ -101377,7 +101678,7 @@
 				0
 			]
 		},
-		"normalized_title": "I.C.F.5800",
+		"normalized_title": "I.C.F.58OO",
 		"notes": {
 			"dp": [
 				0,
@@ -103376,7 +103677,7 @@
 				0
 			]
 		},
-		"normalized_title": "e-motion2003-romanticextra-",
+		"normalized_title": "e-motion2OO3-romanticextra-",
 		"notes": {
 			"dp": [
 				0,
@@ -103723,7 +104024,7 @@
 				0
 			]
 		},
-		"normalized_title": "IWasTheOne(80'sEUROBEATSTYLE)",
+		"normalized_title": "IWasTheOne(8O'sEUROBEATSTYLE)",
 		"notes": {
 			"dp": [
 				0,
@@ -105546,7 +105847,7 @@
 				0
 			]
 		},
-		"normalized_title": "真夏の花･真夏の夢",
+		"normalized_title": "真夏の花.真夏の夢",
 		"notes": {
 			"dp": [
 				0,
@@ -105771,14 +106072,14 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				240,
 				453,
 				800,
 				0
 			],
 			"sp": [
 				0,
-				0,
+				240,
 				429,
 				818,
 				0

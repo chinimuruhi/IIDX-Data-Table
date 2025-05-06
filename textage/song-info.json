@@ -3825,7 +3825,7 @@
 		"version": 2
 	},
 	"2080": {
-		"artist": "ギュ〜っとしたい♥Prim",
+		"artist": "ギュ～っとしたい♥Prim",
 		"genre": "Hi-ν BLEEP",
 		"version": 20
 	},
@@ -4590,7 +4590,7 @@
 		"version": 22
 	},
 	"2244": {
-		"artist": "SWING HOLIC feat. A〜YA",
+		"artist": "SWING HOLIC feat. A～YA",
 		"genre": "TIME TRIP JAZZ",
 		"version": 22
 	},
@@ -7110,7 +7110,7 @@
 		"version": 27
 	},
 	"2768": {
-		"artist": "噂の怪盗少女ぷらずま★彡Prim@休業中〜( _ _ ).。",
+		"artist": "噂の怪盗少女ぷらずま★彡Prim@休業中～( _ _ ).。",
 		"genre": "Hi-メランコリックコア",
 		"version": 27
 	},
@@ -9401,7 +9401,7 @@
 	},
 	"3208": {
 		"artist": "Nhato feat. Kanae Asaba",
-		"genre": "ELECTORO POP",
+		"genre": "ELECTRO POP",
 		"version": 32
 	},
 	"3209": {
@@ -9729,10 +9729,40 @@
 		"genre": "VARIABLE ORIENTAL CORE",
 		"version": 32
 	},
+	"3268": {
+		"artist": "Tatsunoshin",
+		"genre": "NEO HARD RENAISSANCE",
+		"version": 32
+	},
+	"3269": {
+		"artist": "Yuta Imai",
+		"genre": "H4P9Y H@R|>CORE",
+		"version": 32
+	},
 	"327": {
 		"artist": "good-cool",
 		"genre": "RAVE",
 		"version": 3
+	},
+	"3270": {
+		"artist": "豚乙女×BEMANI Sound Team \"PON\"",
+		"genre": "HARD ORIENTAL",
+		"version": 32
+	},
+	"3271": {
+		"artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. Miko",
+		"genre": "GENSOU FULLON",
+		"version": 32
+	},
+	"3272": {
+		"artist": "いよわ",
+		"genre": "VOCALOID",
+		"version": 32
+	},
+	"3273": {
+		"artist": "GYARI feat.宮舞モカ、弦巻マキ",
+		"genre": "J-POP",
+		"version": 32
 	},
 	"328": {
 		"artist": "good-cool",
@@ -10677,6 +10707,11 @@
 	"4088": {
 		"artist": "nana(Sevencolors)",
 		"genre": "KAWAII FUTURE BASS",
+		"version": -1
+	},
+	"4089": {
+		"artist": "Nana Takahashi & BEMANI Sound Team \"L.E.D.\"",
+		"genre": "PSYCHEDELIC TRANCE",
 		"version": -1
 	},
 	"409": {
