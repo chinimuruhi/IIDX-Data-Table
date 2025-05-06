@@ -2,7 +2,7 @@ name: update_table
 on:
   push:
     branches:
-      - 'dev'
+      - 'main'
 #  schedule:
 #    # 毎週木曜午前10時に更新
 #    - cron: '0 1 * * 4'
