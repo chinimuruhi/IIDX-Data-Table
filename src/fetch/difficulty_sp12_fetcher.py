@@ -39,6 +39,8 @@ class difficulty_sp12_data:
             for song in songs:
                 # IDを取得
                 id = textage_data.get_song_id(song['name'])
+                if id == -1:
+                    self._logging.error('[sp12]:'+ song['name'])
                 id_str = str(id)
                 # ノマゲ難易度の文字の取得
                 difficulty['normal'][str(song['n_value'])] = song['normal']

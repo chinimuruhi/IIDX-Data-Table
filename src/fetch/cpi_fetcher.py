@@ -37,6 +37,7 @@ class cpi_data:
         self._logging = logging
         self._lastmodified_header = utility.init_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
     
+    # 難易度表取得
     async def update(self, textage_data):
         res = await utility.requests_get(self._URLS['songs'], self._lastmodified_header)
         if res.status_code == requests.codes.ok:
@@ -149,6 +150,8 @@ class cpi_data:
                         cpi_values[i] = -3            
             title, difficulty = self._get_title_and_difficulty(a.get_text(strip=True))
             id = textage_data.get_song_id(title)
+            if id == -1:
+                self._logging.error('[cpi]:'+ title)
             if not id in result:
                 result[id] = {}
             result[id][difficulty] = {

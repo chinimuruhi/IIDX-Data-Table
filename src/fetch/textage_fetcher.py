@@ -65,7 +65,7 @@ class textage_data:
     _REPLACE_OTHERTBL = [
         [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
     ]
-    _BPM_SPLIT = '〜'
+    _BPM_SPLIT = '～'
 
     # コンストラクタ
     def __init__(self, logging):
@@ -81,7 +81,7 @@ class textage_data:
     # titletbl空のデータ取得
     async def _init_titletbl(self):
         self._logging.debug('init titletbl')
-        # ファイル読み込み
+        # ファイル読み込みとfetch
         results = await asyncio.gather(
             utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['reverse-normalized-title'])),
             utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['reverse-textage-tag'])),
@@ -90,7 +90,9 @@ class textage_data:
             utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['title'])),
             utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['textage-tag'])),
             utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['song-info'])),
-            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['chart-info']))
+            utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['chart-info'])),
+            utility.requests_get(self._URLS['titletbl'], headers=self._lastmodified_header),
+            utility.requests_get(self._URLS['actbl'], headers=self._lastmodified_header)
         )
         self._reversed_normalized_title_dict = results[0]
         self._reverse_textage_tag_dict = results[1]
@@ -100,13 +102,8 @@ class textage_data:
         self._textage_tag_dict = results[5]
         self._song_info_dict = results[6]
         self._chart_info_dict = results[7]
-        # Fetch
-        results = await asyncio.gather(
-            utility.requests_get(self._URLS['titletbl'], headers=self._lastmodified_header),
-            utility.requests_get(self._URLS['actbl'], headers=self._lastmodified_header)
-        )
-        titletbl_res = results[0]
-        actbl_res = results[1]
+        titletbl_res = results[8]
+        actbl_res = results[9]
         # AC/INF収録情報を取得する
         if actbl_res.status_code == requests.codes.ok:
             # 200 OKの場合
@@ -351,7 +348,7 @@ class textage_data:
     # レスポンス(Javascript)からデータを抽出
     def _res_to_json(self, res, tbl_pattern, comment_pattern, replace_list):
         # JSONとなっているテーブルを抽出
-        res.encoding = "shift_jis"
+        res.encoding = 'cp932'
         match = tbl_pattern.findall(res.text)
         text = html.unescape(match[0][0])
         # レスポンスからJSONとして抽出
@@ -406,6 +403,12 @@ class textage_data:
         else:
             self._logging.error(title + '(' + ascii_title + ')' + ' is not found.')
             return -1
+    
+    # 指定した曲名の曲が存在するか確認
+    def is_contain_song(self, title):
+        title = manualdata_loader.normalize_title(title)
+        ascii_title = ascii(title)[1:-1]
+        return ascii_title in self._reversed_normalized_title_dict
         
             
 

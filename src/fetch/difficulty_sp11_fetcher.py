@@ -126,6 +126,8 @@ class difficulty_sp11_data:
                     continue
                 title, difficulty = self._get_title_and_difficulty(all_values[r][c])
                 id = textage_data.get_song_id(title)
+                if id == -1:
+                    self._logging.error('[sp11]:'+ title)
                 id_str = str(id)
                 # 個人差の場合に処理を変える
                 if difficulty_mapping[c] >=0 and difficulty_mapping[c] <= 11:

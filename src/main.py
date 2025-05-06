@@ -10,6 +10,9 @@ from fetch.difficulty_sp12_fetcher import difficulty_sp12_data
 from fetch.difficulty_sp11_fetcher import difficulty_sp11_data
 from fetch.cpi_fetcher import cpi_data
 from fetch.konami_fetcher import konami_data
+from fetch.bpi_fetcher import bpi_data
+from fetch.notes_radar_fetcher import notes_radar_data
+from fetch.difficulty_dp_fetcher import difficulty_dp_data
 
 async def main():
     # 検証環境の.envを読み込み
@@ -30,12 +33,18 @@ async def main():
     sp11 = difficulty_sp11_data(logging)
     cpi = cpi_data(logging)
     konami = konami_data(logging)
+    bpi  = bpi_data(logging)
+    notes_radar = notes_radar_data(logging)
+    dp = difficulty_dp_data(logging)
     # 各種情報の取得
     await asyncio.gather(
-        # sp12.update(textage),
-        # sp11.update(textage),
-        # cpi.update(textage),
-        konami.update(textage)
+        sp12.update(textage),
+        sp11.update(textage),
+        cpi.update(textage),
+        konami.update(textage),
+        bpi.update(textage),
+        notes_radar.update(textage),
+        dp.update(textage)
     )
 
 if __name__ == '__main__':

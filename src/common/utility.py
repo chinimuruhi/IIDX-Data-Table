@@ -78,18 +78,31 @@ class utility:
     async def save_to_file_gz(cls, data, file_path):
         try:
             with open(file_path, mode='wb') as f:
-                text = json.dumps(data, ensure_ascii=False, indent='\t', sort_keys=True, separators=(',', ': '))
+                text = json.dumps(data, ensure_ascii=False, indent='\t', separators=(',', ': '))
                 f.write(gzip.compress(bytes(text, 'utf_8')))
         except Exception as e:
             if cls._logging:
                 cls._logging.error('Failed to save file:' + file_path)
             else:
                 raise e
+    
+    @classmethod
+    # gzip形式のレスポンスからJSONを抽出
+    def load_from_gz(cls, bytes):
+        try:
+            return json.loads(gzip.decompress(bytes))
+        except Exception as e:
+            if cls._logging:
+                cls._logging.error('Failed to load json from bytes.')
+                return {}
+            else:
+                raise e
+
 
     @classmethod
     # asyncのrequest.get
     async def requests_get(cls, url, headers):
-        return requests.get(url, headers)
+        return requests.get(url, headers=headers)
     
     # loggingのset
     @classmethod
