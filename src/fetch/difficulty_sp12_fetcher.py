@@ -1,6 +1,6 @@
 from common.utility import utility
 import os
-import requests
+import json
 import asyncio
 
 class difficulty_sp12_data:
@@ -28,8 +28,8 @@ class difficulty_sp12_data:
     async def update(self, textage_data):
         res = await utility.requests_get(self._URLS['songs'], self._lastmodified_header)
         # 200 OKの場合
-        if res.status_code == requests.codes.ok:
-            songs = res.json()
+        if res.status_code == 200:
+            songs = json.load(res)
             lst = []
             dct = {}
             difficulty = {
@@ -67,7 +67,7 @@ class difficulty_sp12_data:
             )
             utility.update_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
             self._logging.info('Success in loading difficulty_sp12.')
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('difficulty_sp12 was not modified.')
         else:

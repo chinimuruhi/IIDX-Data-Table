@@ -1,6 +1,5 @@
 from common.utility import utility
 import os
-import requests
 import asyncio
 
 class notes_radar_data:
@@ -35,8 +34,8 @@ class notes_radar_data:
     async def update(self, textage_data):
         res = await utility.requests_get(self._URLS['songs'], self._lastmodified_header)
         # 200 OKの場合
-        if res.status_code == requests.codes.ok:
-            json_data = utility.load_from_gz(res.content)
+        if res.status_code == 200:
+            json_data = utility.load_from_gz(res.read())
             self._register_mid(json_data['mid'], textage_data)
             for mode in json_data['notes_radar'].keys():
                 for value_type in json_data['notes_radar'][mode].keys():
@@ -45,12 +44,12 @@ class notes_radar_data:
             await asyncio.gather(
                 utility.save_to_file(self._songs['SP'] , os.path.join(self._FILE_PATH, self._FILES['sp'])),
                 utility.save_to_file_gz(self._songs['SP'] , os.path.join(self._FILE_PATH, self._FILES['sp-gz'])),
-                utility.save_to_file(self._songs['DP'] , os.path.join(self._FILE_PATH, self._FILES['sp'])),
+                utility.save_to_file(self._songs['DP'] , os.path.join(self._FILE_PATH, self._FILES['dp'])),
                 utility.save_to_file_gz(self._songs['DP'] , os.path.join(self._FILE_PATH, self._FILES['dp-gz']))
             )
             utility.update_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
             self._logging.info('Success in loading konami.')
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('notes_radar was not modified.')
         else:

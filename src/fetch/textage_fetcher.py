@@ -1,4 +1,3 @@
-import requests
 import re
 import os
 from common.utility import utility
@@ -105,7 +104,7 @@ class textage_data:
         titletbl_res = results[8]
         actbl_res = results[9]
         # AC/INF収録情報を取得する
-        if actbl_res.status_code == requests.codes.ok:
+        if actbl_res.status_code == 200:
             # 200 OKの場合
             actblRaw = self._res_to_json(actbl_res, self._PATTERN_TBL, self._PATTERN_OTHERTBL_COMMENT, self._REPLACE_ACTBL)
             if actblRaw:
@@ -113,7 +112,7 @@ class textage_data:
                 self._isupdated = True
             else:
                 self._logging.error('Faild to find JSON from actbl.')
-        elif actbl_res.status_code == requests.codes.not_modified:
+        elif actbl_res.status_code == 304:
             # 304 Not Modifiedの場合
             actblRaw = None
             self._logging.info('actbl was not modified.')
@@ -123,7 +122,7 @@ class textage_data:
             self._logging.error('Failed to fetch actbl.')
 
         # titletblのフェッチ結果に応じて登録処理を分ける
-        if titletbl_res.status_code == requests.codes.ok:
+        if titletbl_res.status_code == 200:
             # 200 OKの場合
             tblRaw = self._res_to_json(titletbl_res, self._PATTERN_TBL, self._PATTERN_TITLETBL_COMMENT, self._REPLACE_TITLETBL)
             if tblRaw:
@@ -241,7 +240,7 @@ class textage_data:
             else:
                 # レスポンスからJSONを取り出せない場合
                 self._logging.error('Faild to find JSON from titletbl.')
-        elif titletbl_res.status_code == requests.codes.not_modified:
+        elif titletbl_res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('Titletbl was not modified.')
         else:
@@ -281,7 +280,7 @@ class textage_data:
     async def _fetch_scrlist(self):
         self._logging.debug('init scrtbl')
         res = await utility.requests_get(self._URLS['scrlist'], headers=self._lastmodified_header)
-        if res.status_code == requests.codes.ok:
+        if res.status_code == 200:
             # 200 OKの場合
             tblRaw = self._res_to_json(res, self._PATTERN_TBL, self._PATTERN_OTHERTBL_COMMENT,self._REPLACE_OTHERTBL)
             if tblRaw:
@@ -293,7 +292,7 @@ class textage_data:
                 }
                 self._logging.info('Success in loading scrlist.')
                 return
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('Scrtbl was not modified.')
         else:
@@ -305,7 +304,7 @@ class textage_data:
     async def _fetch_datatbl(self):
         self._logging.debug('init datatbl')
         res = await utility.requests_get(self._URLS['datatbl'], headers=self._lastmodified_header)
-        if res.status_code == requests.codes.ok:
+        if res.status_code == 200:
             # 200 OKの場合
             tblRaw = self._res_to_json(res, self._PATTERN_TBL, self._PATTERN_OTHERTBL_COMMENT, self._REPLACE_OTHERTBL)
             if tblRaw:
@@ -338,7 +337,7 @@ class textage_data:
                     self._all_dict[id_str]['bpm'] = bpm
                     self._all_dict[id_str]['notes'] = notes
                 self._logging.info('Success in loading datatbl.')
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('Datatbl was not modified.')
         else:
@@ -348,8 +347,8 @@ class textage_data:
     # レスポンス(Javascript)からデータを抽出
     def _res_to_json(self, res, tbl_pattern, comment_pattern, replace_list):
         # JSONとなっているテーブルを抽出
-        res.encoding = 'cp932'
-        match = tbl_pattern.findall(res.text)
+        text = res.read().decode('cp932')
+        match = tbl_pattern.findall(text)
         text = html.unescape(match[0][0])
         # レスポンスからJSONとして抽出
         # コメント等余計なものを置き換え

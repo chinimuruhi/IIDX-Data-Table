@@ -1,8 +1,9 @@
 from datetime import datetime, timezone, timedelta
-import requests
 import os
 import json
 import gzip
+import aiohttp
+import io
 
 class utility:
     # クラス変数
@@ -101,9 +102,22 @@ class utility:
 
     @classmethod
     # asyncのrequest.get
+    #async def requests_get(cls, url, headers):
+    #    headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36'
+    #    return requests.get(url, headers=headers)
+            
     async def requests_get(cls, url, headers):
-        return requests.get(url, headers=headers)
-    
+        headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36'
+        timeout = aiohttp.ClientTimeout(total=20)
+        async with aiohttp.ClientSession(timeout=timeout) as session:
+            async with session.get(url, headers=headers) as response:
+                body = await response.read()
+                # 擬似的な "urllib response" のように扱うためのラップ
+                fake_response = io.BytesIO(body)
+                fake_response.headers = response.headers
+                fake_response.status_code = response.status
+                return fake_response
+
     # loggingのset
     @classmethod
     def set_logging(cls, logging):

@@ -1,8 +1,8 @@
 from common.utility import utility
 import os
-import requests
 import asyncio
 import math
+import json
 
 class bpi_data:
     # ファイルの場所
@@ -59,8 +59,8 @@ class bpi_data:
             return
         res = await utility.requests_get(self._URLS['songs'], self._lastmodified_header)
         # 200 OKの場合
-        if res.status_code == requests.codes.ok:
-            res_json = res.json()
+        if res.status_code == 200:
+            res_json = json.load(res)
             songs = res_json['body']
             version = {
                 'version': res_json['version']
@@ -144,7 +144,7 @@ class bpi_data:
             utility.update_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
             await utility.save_to_file(version, os.path.join(self._FILE_PATH, self._FILES['version']))
             self._logging.info('Success in loading bpi.')
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('bpi was not modified.')
         else:
@@ -164,13 +164,13 @@ class bpi_data:
                 'version':0
             }
         # 200 OKの場合
-        if res.status_code == requests.codes.ok:
-            latest = int(res.json()['version'])
+        if res.status_code == 200:
+            latest = int(json.load(res)['version'])
             self._version = {
                 'version':latest
             }
             return version['version'] >= latest
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._version = version
             return True

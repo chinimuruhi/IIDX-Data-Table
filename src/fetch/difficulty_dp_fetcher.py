@@ -2,7 +2,6 @@ from common.utility import utility
 from bs4 import BeautifulSoup
 import os
 import asyncio
-import requests
 import re
 
 class difficulty_dp_data:
@@ -34,10 +33,10 @@ class difficulty_dp_data:
     # 曲一覧取得
     async def update(self, textage_data):
         res = await utility.requests_get(self._URLS['songs'], self._lastmodified_header)
-        if res.status_code == requests.codes.ok:
+        if res.status_code == 200:
             # 200 OKの場合
             # htmlから情報を抽出
-            soup = BeautifulSoup(res.text, 'html.parser')
+            soup = BeautifulSoup(res.read().decode('utf-8'), 'html.parser')
             dct = self._html_to_json(soup, textage_data)
             # データを成形
             lst = []
@@ -56,7 +55,7 @@ class difficulty_dp_data:
             )
             utility.update_last_modified(os.path.join(self._FILE_PATH, self._FILES['last_modified']))
             self._logging.info('Success in loading ＳＮＪ＠ＫＭＺＳ.')
-        elif res.status_code == requests.codes.not_modified:
+        elif res.status_code == 304:
             # 304 Not Modifiedの場合
             self._logging.info('ＳＮＪ＠ＫＭＺＳ was not modified.')
         else:
