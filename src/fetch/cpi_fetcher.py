@@ -90,6 +90,7 @@ class cpi_data:
                     # list
                     lst.append({
                         'id': id,
+                        'cpi_id': results[0][id][difficulty]['cpi_id'],
                         'difficulty': difficulty,
                         'easy':{
                             'cpi_value': results[0][id][difficulty]['cpi_value'],
