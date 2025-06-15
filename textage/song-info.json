@@ -9750,7 +9750,7 @@
 		"version": 32
 	},
 	"3271": {
-		"artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. Miko",
+		"artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. miko",
 		"genre": "GENSOU FULLON",
 		"version": 32
 	},
@@ -9764,10 +9764,60 @@
 		"genre": "J-POP",
 		"version": 32
 	},
+	"3274": {
+		"artist": "Zekk",
+		"genre": "DRUM'N'BASS",
+		"version": 32
+	},
+	"3275": {
+		"artist": "KARUT",
+		"genre": "HAPPY HARDCORE",
+		"version": 32
+	},
+	"3276": {
+		"artist": "Snail's House",
+		"genre": "KAWAII FUTURE BASS",
+		"version": 32
+	},
+	"3277": {
+		"artist": "Xceon",
+		"genre": "ANIME-STYLE DRUM AND BASS",
+		"version": 32
+	},
+	"3278": {
+		"artist": "cosMo@暴走P & BEMANI Sound Team \"L.E.D.-G\"",
+		"genre": "Hi-ラブコメPOP",
+		"version": 32
+	},
+	"3279": {
+		"artist": "lapix",
+		"genre": "AQUATIC TECHCORE",
+		"version": 32
+	},
 	"328": {
 		"artist": "good-cool",
 		"genre": "RAVE",
 		"version": 3
+	},
+	"3280": {
+		"artist": "DJ Mass MAD Izm*",
+		"genre": "DJ BATTLE",
+		"version": 32
+	},
+	"3281": {
+		"artist": "晴いちばん",
+		"genre": "VOCALOID",
+		"version": 32
+	},
+	"3282": {
+		"artist": "マキシウキョウ",
+		"genre": "ビックリポップ",
+		"version": 32
+	},
+	"3283": {
+		"artist": "つきみぐー、",
+		"genre": "VOCALOID",
+		"version": 32
 	},
 	"329": {
 		"artist": "CHARLOTTE",
@@ -10402,7 +10452,7 @@
 	"4032": {
 		"artist": "NU-KO",
 		"genre": "ANIMA SONG",
-		"version": -1
+		"version": 32
 	},
 	"4033": {
 		"artist": "Des-ROW・組",
@@ -10587,7 +10637,7 @@
 	"4066": {
 		"artist": "Feryquitous",
 		"genre": "MELODIC CONTEMPORARIDDIM",
-		"version": -1
+		"version": 32
 	},
 	"4067": {
 		"artist": "SYUNN",
@@ -10597,7 +10647,7 @@
 	"4068": {
 		"artist": "Hommarju vs RoughSketch",
 		"genre": "CROSSOVER",
-		"version": -1
+		"version": 32
 	},
 	"4069": {
 		"artist": "Blacklolita",
@@ -10989,6 +11039,11 @@
 		"genre": "TRANCE",
 		"version": 5
 	},
+	"51": {
+		"artist": "DJ TOTTO",
+		"genre": "PROGRESSIVE EDM",
+		"version": -1
+	},
 	"510": {
 		"artist": "NAOKI underground",
 		"genre": "EURO TRANCE",
@@ -11038,6 +11093,11 @@
 		"artist": "DJ.W",
 		"genre": "INSTRUMENTAL",
 		"version": 5
+	},
+	"52": {
+		"artist": "BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+		"genre": "JAZZY POP",
+		"version": -1
 	},
 	"520": {
 		"artist": "NAOKI feat.Julie",
@@ -11089,6 +11149,11 @@
 		"genre": "GOA TRANCE",
 		"version": 5
 	},
+	"53": {
+		"artist": "PHQUASE",
+		"genre": "BAHAMŪT CORE",
+		"version": -1
+	},
 	"530": {
 		"artist": "DJ SUWAMI",
 		"genre": "DRUM'N'BASS",
@@ -11134,10 +11199,40 @@
 		"genre": "EURO TRANCE",
 		"version": 5
 	},
+	"54": {
+		"artist": "山本真央樹",
+		"genre": "FUSION",
+		"version": -1
+	},
 	"540": {
 		"artist": "Aya",
 		"genre": "SOUND TRACK",
 		"version": 5
+	},
+	"55": {
+		"artist": "Yuta Imai",
+		"genre": "HARD DANCE",
+		"version": -1
+	},
+	"56": {
+		"artist": "#EmoCosine",
+		"genre": "FUTURE CORE",
+		"version": -1
+	},
+	"57": {
+		"artist": "がるる",
+		"genre": "EURO BEAT",
+		"version": -1
+	},
+	"58": {
+		"artist": "Des-ROW・組",
+		"genre": "HIP ROCK",
+		"version": -1
+	},
+	"59": {
+		"artist": "豚乙女",
+		"genre": "ROCK",
+		"version": -1
 	},
 	"6": {
 		"artist": "m-flo",

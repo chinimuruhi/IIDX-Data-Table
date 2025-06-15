@@ -61824,7 +61824,7 @@
 		"bpm": 176,
 		"genre": "EMO STEP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68528,7 +68528,7 @@
 		"bpm": 196,
 		"genre": "MUSIC GAME TRADITIONAL",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69877,14 +69877,14 @@
 				4,
 				6,
 				10,
-				0
+				11
 			],
 			"sp": [
 				1,
 				4,
 				6,
 				10,
-				0
+				11
 			]
 		},
 		"normalized_title": "怪物",
@@ -69894,14 +69894,14 @@
 				383,
 				610,
 				1241,
-				0
+				1584
 			],
 			"sp": [
 				174,
 				376,
 				602,
 				1205,
-				0
+				1648
 			]
 		},
 		"textage_tag": "_kaibutu",
@@ -70954,7 +70954,7 @@
 		"bpm": 108,
 		"genre": "CROSSO-WHA-R",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -71221,14 +71221,14 @@
 				5,
 				8,
 				11,
-				0
+				12
 			],
 			"sp": [
 				3,
 				5,
 				8,
 				11,
-				0
+				12
 			]
 		},
 		"normalized_title": "グッバイ宣言",
@@ -71238,14 +71238,14 @@
 				558,
 				931,
 				1571,
-				0
+				1829
 			],
 			"sp": [
 				293,
 				554,
 				905,
 				1557,
-				0
+				1849
 			]
 		},
 		"textage_tag": "_goodbys",
@@ -74977,14 +74977,14 @@
 				5,
 				8,
 				10,
-				0
+				12
 			],
 			"sp": [
 				2,
 				4,
 				8,
 				10,
-				0
+				12
 			]
 		},
 		"normalized_title": "神っぽいな",
@@ -74994,14 +74994,14 @@
 				411,
 				740,
 				1079,
-				0
+				1550
 			],
 			"sp": [
 				186,
 				392,
 				734,
 				1078,
-				0
+				1574
 			]
 		},
 		"textage_tag": "_kamipoi",
@@ -76828,7 +76828,7 @@
 	},
 	"3108": {
 		"artist": "nora2r",
-		"bpm": 158,
+		"bpm": 160,
 		"genre": "ETHNIC HARDSOUND",
 		"in_ac": true,
 		"in_inf": false,
@@ -78905,14 +78905,14 @@
 				3,
 				7,
 				9,
-				0
+				10
 			],
 			"sp": [
 				1,
 				3,
 				7,
 				9,
-				0
+				10
 			]
 		},
 		"normalized_title": "可愛くてごめん",
@@ -78922,14 +78922,14 @@
 				325,
 				717,
 				1103,
-				0
+				1356
 			],
 			"sp": [
 				143,
 				314,
 				703,
 				1133,
-				0
+				1407
 			]
 		},
 		"textage_tag": "_k_gomen",
@@ -81324,7 +81324,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				580,
 				995,
 				1539,
 				0
@@ -81410,7 +81410,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				598,
 				991,
 				1734,
 				0
@@ -81453,7 +81453,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				623,
 				885,
 				1662,
 				0
@@ -81496,7 +81496,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				496,
 				725,
 				1032,
 				0
@@ -81539,7 +81539,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				523,
 				1140,
 				1698,
 				0
@@ -81582,7 +81582,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				578,
 				723,
 				1018,
 				0
@@ -81668,7 +81668,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				600,
 				1001,
 				1861,
 				0
@@ -81797,7 +81797,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				466,
 				790,
 				1377,
 				0
@@ -81840,7 +81840,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				584,
 				839,
 				1274,
 				0
@@ -81926,7 +81926,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				516,
 				797,
 				1230,
 				0
@@ -81969,7 +81969,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				581,
 				1127,
 				1690,
 				0
@@ -82012,7 +82012,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				421,
 				665,
 				994,
 				0
@@ -82055,7 +82055,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				544,
 				1066,
 				1407,
 				0
@@ -82098,7 +82098,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				465,
 				772,
 				1318,
 				0
@@ -82227,7 +82227,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				448,
 				734,
 				1118,
 				0
@@ -82270,7 +82270,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				518,
 				922,
 				1299,
 				0
@@ -82313,7 +82313,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				490,
 				827,
 				1235,
 				0
@@ -82356,7 +82356,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				456,
 				910,
 				1267,
 				0
@@ -82399,7 +82399,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				515,
 				876,
 				1402,
 				0
@@ -82442,7 +82442,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				627,
 				1119,
 				2000,
 				0
@@ -82485,7 +82485,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				428,
 				835,
 				1165,
 				0
@@ -82531,7 +82531,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				434,
 				805,
 				1047,
 				0
@@ -82574,7 +82574,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				686,
 				1189,
 				1806,
 				0
@@ -82617,7 +82617,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				490,
 				845,
 				1263,
 				0
@@ -82789,7 +82789,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				413,
 				660,
 				1119,
 				0
@@ -82832,7 +82832,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				534,
 				900,
 				1274,
 				0
@@ -82918,7 +82918,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				528,
 				979,
 				1453,
 				0
@@ -83004,7 +83004,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				480,
 				796,
 				1239,
 				0
@@ -83176,7 +83176,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				588,
 				929,
 				1375,
 				0
@@ -83219,7 +83219,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				500,
 				967,
 				1371,
 				0
@@ -83262,7 +83262,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				648,
 				1073,
 				1606,
 				0
@@ -83305,7 +83305,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				637,
 				1188,
 				1716,
 				0
@@ -83348,7 +83348,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				594,
 				993,
 				1677,
 				0
@@ -83391,7 +83391,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				619,
 				1091,
 				1725,
 				0
@@ -83477,7 +83477,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				573,
 				993,
 				1479,
 				0
@@ -83520,7 +83520,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				520,
 				1025,
 				1416,
 				0
@@ -83563,7 +83563,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				568,
 				977,
 				1521,
 				0
@@ -83649,7 +83649,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				490,
 				807,
 				1152,
 				0
@@ -83692,7 +83692,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				626,
 				1120,
 				1991,
 				0
@@ -83735,7 +83735,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				525,
 				830,
 				1283,
 				0
@@ -83778,7 +83778,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				499,
 				822,
 				1191,
 				0
@@ -83864,7 +83864,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				422,
 				904,
 				1166,
 				0
@@ -83907,7 +83907,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				568,
 				1018,
 				1482,
 				0
@@ -83950,7 +83950,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				619,
 				1055,
 				1611,
 				0
@@ -83993,7 +83993,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				637,
 				1142,
 				2205,
 				0
@@ -84211,7 +84211,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				487,
 				928,
 				1435,
 				0
@@ -84254,7 +84254,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				633,
 				1050,
 				1648,
 				0
@@ -84300,7 +84300,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				574,
 				1055,
 				1564,
 				0
@@ -84386,7 +84386,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				518,
 				845,
 				1446,
 				0
@@ -84472,7 +84472,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				780,
 				1349,
 				2155,
 				0
@@ -84491,15 +84491,15 @@
 		"level": {
 			"dp": [
 				0,
-				0,
-				0,
+				7,
+				10,
 				12,
 				0
 			],
 			"sp": [
 				0,
-				0,
-				0,
+				7,
+				10,
 				12,
 				0
 			]
@@ -84509,14 +84509,14 @@
 			"dp": [
 				0,
 				0,
-				0,
+				1291,
 				2139,
 				0
 			],
 			"sp": [
 				0,
-				0,
-				0,
+				728,
+				1275,
 				2037,
 				0
 			]
@@ -84612,7 +84612,7 @@
 		"version": 32
 	},
 	"3271": {
-		"artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. Miko",
+		"artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. miko",
 		"bpm": 186,
 		"genre": "GENSOU FULLON",
 		"in_ac": true,
@@ -84687,7 +84687,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				446,
 				866,
 				1203,
 				0
@@ -84740,6 +84740,264 @@
 		"title": "進捗ダメダメです",
 		"version": 32
 	},
+	"3274": {
+		"artist": "Zekk",
+		"bpm": 184,
+		"genre": "DRUM'N'BASS",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "MARLIN",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				1166,
+				1795,
+				0
+			],
+			"sp": [
+				0,
+				609,
+				1170,
+				1798,
+				0
+			]
+		},
+		"textage_tag": "marlin",
+		"title": "MARLIN",
+		"version": 32
+	},
+	"3275": {
+		"artist": "KARUT",
+		"bpm": 172,
+		"genre": "HAPPY HARDCORE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "MightyCutie",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				1017,
+				1401,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				1013,
+				1394,
+				0
+			]
+		},
+		"textage_tag": "mightyct",
+		"title": "Mighty Cutie",
+		"version": 32
+	},
+	"3276": {
+		"artist": "Snail's House",
+		"bpm": 165,
+		"genre": "KAWAII FUTURE BASS",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "ＰＡＳＴＥＬＩＳＭ",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				799,
+				1095,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				781,
+				1070,
+				0
+			]
+		},
+		"textage_tag": "_pastlsm",
+		"title": "ＰＡＳＴＥＬＩＳＭ",
+		"version": 32
+	},
+	"3277": {
+		"artist": "Xceon",
+		"bpm": 185,
+		"genre": "ANIME-STYLE DRUM AND BASS",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "StargazingTrip~星探す旅~ft.小林マナ",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				900,
+				1281,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				903,
+				1344,
+				0
+			]
+		},
+		"textage_tag": "stgztrip",
+		"title": "Stargazing Trip ～星 探す旅～ ft. 小林マナ",
+		"version": 32
+	},
+	"3278": {
+		"artist": "cosMo@暴走P & BEMANI Sound Team \"L.E.D.-G\"",
+		"bpm": 200,
+		"genre": "Hi-ラブコメPOP",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				8,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "スキッテイエェエエェ!!!!",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				1284,
+				2136,
+				0
+			],
+			"sp": [
+				0,
+				798,
+				1328,
+				2193,
+				0
+			]
+		},
+		"textage_tag": "_sukitte",
+		"title": "スキッテイエェエエェ!!!!",
+		"version": 32
+	},
+	"3279": {
+		"artist": "lapix",
+		"bpm": 175,
+		"genre": "AQUATIC TECHCORE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				6,
+				9,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				9,
+				12,
+				0
+			]
+		},
+		"normalized_title": "Aqvion",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				1046,
+				1774,
+				0
+			],
+			"sp": [
+				0,
+				598,
+				998,
+				1773,
+				0
+			]
+		},
+		"textage_tag": "aqvion",
+		"title": "Aqvion",
+		"version": 32
+	},
 	"328": {
 		"artist": "good-cool",
 		"bpm": 129,
@@ -84782,6 +85040,184 @@
 		"textage_tag": "sense",
 		"title": "Sense",
 		"version": 3
+	},
+	"3280": {
+		"artist": "DJ Mass MAD Izm*",
+		"bpm": [
+			100,
+			200
+		],
+		"genre": "DJ BATTLE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				0,
+				0,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				12,
+				0
+			]
+		},
+		"normalized_title": "SkratchEducationLv-1",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				1566,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1572,
+				0
+			]
+		},
+		"textage_tag": "skedulv1",
+		"title": "Skratch Education Lv-1",
+		"version": 32
+	},
+	"3281": {
+		"artist": "晴いちばん",
+		"bpm": 164,
+		"genre": "VOCALOID",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "エクスプロウル",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1211,
+				0
+			]
+		},
+		"textage_tag": "_explore",
+		"title": "エクスプロウル",
+		"version": 32
+	},
+	"3282": {
+		"artist": "マキシウキョウ",
+		"bpm": [
+			141,
+			176
+		],
+		"genre": "ビックリポップ",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "覚悟せよ!エンタンメ~ン~より身の切り売り自暴自棄版~",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1468,
+				0
+			]
+		},
+		"textage_tag": "_kakugos",
+		"title": "覚悟せよ！エンタンメ～ン～より身の切り売り自暴自棄版～",
+		"version": 32
+	},
+	"3283": {
+		"artist": "つきみぐー、",
+		"bpm": 140,
+		"genre": "VOCALOID",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "ギャ.ギャ.ギャ.ギャラクシー!",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1201,
+				0
+			]
+		},
+		"textage_tag": "_gyalaxy",
+		"title": "ギャ・ギャ・ギャ・ギャラクシー！",
+		"version": 32
 	},
 	"329": {
 		"artist": "CHARLOTTE",
@@ -86041,13 +86477,13 @@
 		],
 		"genre": "HARDCORE BREAKBEATS",
 		"in_ac": false,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
 				6,
 				9,
-				11,
+				12,
 				0
 			],
 			"sp": [
@@ -86385,7 +86821,7 @@
 		"bpm": 150,
 		"genre": "TECHNO",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -90265,7 +90701,7 @@
 		"artist": "NU-KO",
 		"bpm": 178,
 		"genre": "ANIMA SONG",
-		"in_ac": false,
+		"in_ac": true,
 		"in_inf": true,
 		"level": {
 			"dp": [
@@ -90302,7 +90738,7 @@
 		},
 		"textage_tag": "_akatoao",
 		"title": "朱と碧のランページ",
-		"version": -1
+		"version": 32
 	},
 	"4033": {
 		"artist": "Des-ROW・組",
@@ -91865,7 +92301,7 @@
 		"artist": "Feryquitous",
 		"bpm": 150,
 		"genre": "MELODIC CONTEMPORARIDDIM",
-		"in_ac": false,
+		"in_ac": true,
 		"in_inf": true,
 		"level": {
 			"dp": [
@@ -91894,7 +92330,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				520,
 				892,
 				1395,
 				0
@@ -91902,7 +92338,7 @@
 		},
 		"textage_tag": "ppphase",
 		"title": "Plea Per Phase",
-		"version": -1
+		"version": 32
 	},
 	"4067": {
 		"artist": "SYUNN",
@@ -91951,7 +92387,7 @@
 		"artist": "Hommarju vs RoughSketch",
 		"bpm": 180,
 		"genre": "CROSSOVER",
-		"in_ac": false,
+		"in_ac": true,
 		"in_inf": true,
 		"level": {
 			"dp": [
@@ -91980,7 +92416,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				551,
 				1134,
 				1746,
 				0
@@ -91988,7 +92424,7 @@
 		},
 		"textage_tag": "crosfire",
 		"title": "Cross Fire",
-		"version": -1
+		"version": 32
 	},
 	"4069": {
 		"artist": "Blacklolita",
@@ -95392,6 +95828,49 @@
 		"title": "in my eyes",
 		"version": 5
 	},
+	"51": {
+		"artist": "DJ TOTTO",
+		"bpm": 154,
+		"genre": "PROGRESSIVE EDM",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "Astrogazer",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "astrogzr",
+		"title": "Astrogazer",
+		"version": -1
+	},
 	"510": {
 		"artist": "NAOKI underground",
 		"bpm": [
@@ -95830,6 +96309,49 @@
 		"textage_tag": "regulus",
 		"title": "Regulus",
 		"version": 5
+	},
+	"52": {
+		"artist": "BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+		"bpm": 145,
+		"genre": "JAZZY POP",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				11,
+				0
+			]
+		},
+		"normalized_title": "InsideInsight",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "insdinst",
+		"title": "Inside Insight",
+		"version": -1
 	},
 	"520": {
 		"artist": "NAOKI feat.Julie",
@@ -96282,6 +96804,49 @@
 		"title": "THE BIG VOYAGER-INFINITE PRAYER REINTERPRETATION-",
 		"version": 5
 	},
+	"53": {
+		"artist": "PHQUASE",
+		"bpm": 202,
+		"genre": "BAHAMŪT CORE",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "onslaught",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1927,
+				0
+			]
+		},
+		"textage_tag": "onslaugh",
+		"title": "onslaught",
+		"version": -1
+	},
 	"530": {
 		"artist": "DJ SUWAMI",
 		"bpm": 178,
@@ -96669,6 +97234,49 @@
 		"title": "天国のキッス～D.J.TAKA'S STYLE～",
 		"version": 5
 	},
+	"54": {
+		"artist": "山本真央樹",
+		"bpm": 130,
+		"genre": "FUSION",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				7,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "REFLEXESMANIPULATION",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1800,
+				0
+			]
+		},
+		"textage_tag": "reflexes",
+		"title": "REFLEXES MANIPULATION",
+		"version": -1
+	},
 	"540": {
 		"artist": "Aya",
 		"bpm": 150,
@@ -96711,6 +97319,224 @@
 		"textage_tag": "sometm27",
 		"title": "sometime",
 		"version": 5
+	},
+	"55": {
+		"artist": "Yuta Imai",
+		"bpm": 165,
+		"genre": "HARD DANCE",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				12,
+				0
+			]
+		},
+		"normalized_title": "STAYGOLD",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "staygold",
+		"title": "STAY GOLD",
+		"version": -1
+	},
+	"56": {
+		"artist": "#EmoCosine",
+		"bpm": 182,
+		"genre": "FUTURE CORE",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "VIVIDDEBUT!",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "vvddebut",
+		"title": "VIVID DEBUT!",
+		"version": -1
+	},
+	"57": {
+		"artist": "がるる",
+		"bpm": 172,
+		"genre": "EURO BEAT",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			]
+		},
+		"normalized_title": "WILDFIRE",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "wildfire",
+		"title": "WILD FIRE",
+		"version": -1
+	},
+	"58": {
+		"artist": "Des-ROW・組",
+		"bpm": [
+			143,
+			172
+		],
+		"genre": "HIP ROCK",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "大見解",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1268,
+				0
+			]
+		},
+		"textage_tag": "_dkenkai",
+		"title": "大見解",
+		"version": -1
+	},
+	"59": {
+		"artist": "豚乙女",
+		"bpm": 206,
+		"genre": "ROCK",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "タンポポ",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "_tanpopo",
+		"title": "タンポポ",
+		"version": -1
 	},
 	"6": {
 		"artist": "m-flo",
