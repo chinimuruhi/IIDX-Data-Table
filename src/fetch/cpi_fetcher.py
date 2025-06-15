@@ -133,7 +133,7 @@ class cpi_data:
         result = {}
         for song in songs:
             a = song.find('a')
-            cpi_id = self._ID_REGREX.findall(a['href'])[0][0]
+            cpi_id = self._ID_REGREX.findall(a['href'])[0]
             div = song.find('div')
             cpi_values = div.get_text(strip=True).split(self._VALUE_STRIP)
             for i in range(len(cpi_values)):
