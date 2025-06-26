@@ -2805,6 +2805,10 @@
 			"in_leggendaria": false
 		},
 		{
+			"id": 3930,
+			"in_leggendaria": false
+		},
+		{
 			"id": 2891,
 			"in_leggendaria": false
 		},
@@ -2830,6 +2834,10 @@
 		},
 		{
 			"id": 2926,
+			"in_leggendaria": false
+		},
+		{
+			"id": 2985,
 			"in_leggendaria": false
 		}
 	],
