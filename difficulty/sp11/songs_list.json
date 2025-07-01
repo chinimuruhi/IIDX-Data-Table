@@ -1,0 +1,3248 @@
+[
+	{
+		"difficulty": "A",
+		"h_value": -1,
+		"id": "3086",
+		"n_value": -1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 10,
+		"id": "2637",
+		"n_value": 10
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2102",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2943",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1002",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "3029",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2234",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2429",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2201",
+		"n_value": 1
+	},
+	{
+		"difficulty": "L",
+		"h_value": 9.5,
+		"id": "2231",
+		"n_value": 9.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1605",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2673",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2865",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1563",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2031",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2160",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2506",
+		"n_value": 1
+	},
+	{
+		"difficulty": "L",
+		"h_value": 9,
+		"id": "1606",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1937",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1791",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2744",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2822",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3.5,
+		"id": "3073",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1805",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1108",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "3001",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1801",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2676",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2833",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "1404",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1205",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "1714",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1959",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2396",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2502",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1503",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2824",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2704",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2086",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "3910",
+		"n_value": 7
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "1102",
+		"n_value": 5
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "402",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2876",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1809",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2462",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "1516",
+		"n_value": 9
+	},
+	{
+		"difficulty": "L",
+		"h_value": 7,
+		"id": "1505",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "1701",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1603",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1604",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2241",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2487",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2953",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1709",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1103",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2402",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2565",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2254",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "1314",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2479",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2760",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1804",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2380",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1204",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2373",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "1813",
+		"n_value": 1
+	},
+	{
+		"difficulty": "L",
+		"h_value": 9.5,
+		"id": "1627",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "1627",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "3005",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2245",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2448",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2404",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1715",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2206",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "2669",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1962",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "807",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2403",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1106",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1361",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1321",
+		"n_value": 1
+	},
+	{
+		"difficulty": "H",
+		"h_value": 7,
+		"id": "1836",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2349",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2882",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2304",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2406",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1723",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1125",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "1842",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2854",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "3917",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2453",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2204",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2148",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2209",
+		"n_value": 1
+	},
+	{
+		"difficulty": "H",
+		"h_value": 7,
+		"id": "1439",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "2104",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2472",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2508",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2862",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2111",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "622",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 10,
+		"id": "1642",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2867",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1609",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2963",
+		"n_value": 4
+	},
+	{
+		"difficulty": "L",
+		"h_value": 3,
+		"id": "407",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2825",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "1032",
+		"n_value": 1
+	},
+	{
+		"difficulty": "L",
+		"h_value": 9,
+		"id": "1553",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2587",
+		"n_value": 7
+	},
+	{
+		"difficulty": "H",
+		"h_value": 9,
+		"id": "2263",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2509",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2040",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 12,
+		"id": "1413",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "1623",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2857",
+		"n_value": 9
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2950",
+		"n_value": 7
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "2282",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2282",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2549",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2895",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1895",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1736",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2759",
+		"n_value": 9
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3.5,
+		"id": "1117",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "3926",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2552",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "1510",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2945",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1740",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "3026",
+		"n_value": 8.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2517",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2689",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2464",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2904",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2468",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2288",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2944",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2152",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1507",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2108",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3,
+		"id": "2157",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1745",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1792",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1015",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2407",
+		"n_value": 4
+	},
+	{
+		"difficulty": "L",
+		"h_value": 3,
+		"id": "2109",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2186",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2155",
+		"n_value": 1
+	},
+	{
+		"difficulty": "L",
+		"h_value": 7,
+		"id": "1915",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1718",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1309",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2608",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "3070",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "1841",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "819",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2107",
+		"n_value": 5
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "608",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2981",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1893",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "3020",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2466",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2706",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2512",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2516",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1891",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2763",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "2573",
+		"n_value": 7
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4,
+		"id": "1725",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2237",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1119",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4,
+		"id": "1525",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "636",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2162",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "3077",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "3047",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "831",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2880",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1520",
+		"n_value": 7
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "1613",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2567",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2803",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2570",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "3030",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2887",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2008",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "102154",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1417",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2212",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2933",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2591",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2112",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2685",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2610",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2528",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2397",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2042",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "619",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2848",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "3953",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2415",
+		"n_value": 2
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3,
+		"id": "1355",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2679",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1728",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1312",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1617",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2141",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2130",
+		"n_value": 1
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2691",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1320",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2346",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2316",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "3017",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2659",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2680",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2106",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2485",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1948",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1230",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "4027",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2283",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1425",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "322",
+		"n_value": 2
+	},
+	{
+		"difficulty": "L",
+		"h_value": 7,
+		"id": "1231",
+		"n_value": 7
+	},
+	{
+		"difficulty": "L",
+		"h_value": 8.5,
+		"id": "1822",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2987",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 2,
+		"id": "1426",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1138",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2621",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "314",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2906",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2913",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3,
+		"id": "1840",
+		"n_value": 2
+	},
+	{
+		"difficulty": "L",
+		"h_value": 9,
+		"id": "113",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1916",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1721",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2974",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2831",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "739",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2014",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2478",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1222",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2417",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2925",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "1993",
+		"n_value": 5
+	},
+	{
+		"difficulty": "H",
+		"h_value": 7,
+		"id": "2575",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2774",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2265",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1873",
+		"n_value": 7
+	},
+	{
+		"difficulty": "L",
+		"h_value": 7,
+		"id": "2359",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1816",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2490",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2324",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1550",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1622",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2584",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1035",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1544",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1341",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2656",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2909",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "1526",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2771",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "2537",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2807",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2645",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2527",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2076",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "4008",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1827",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2756",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2213",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2630",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1345",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2017",
+		"n_value": 5
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4,
+		"id": "2470",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2918",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2127",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2657",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2808",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2208",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "3048",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 1,
+		"id": "2927",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2647",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2118",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2139",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3.5,
+		"id": "1834",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2394",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1644",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2120",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2522",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4.5,
+		"id": "1530",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2735",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2233",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2411",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2912",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "941",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2959",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2962",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "3013",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1219",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1927",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2990",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1865",
+		"n_value": 7
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2714",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1423",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2622",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2585",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2303",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2869",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2114",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2125",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2275",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2058",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1832",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2792",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2257",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2641",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "1807",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2463",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "1825",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1139",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2230",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "3055",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2810",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2117",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2473",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2742",
+		"n_value": 2
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "1512",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2348",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2746",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1573",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "3043",
+		"n_value": 2
+	},
+	{
+		"difficulty": "L",
+		"h_value": 8.5,
+		"id": "1730",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2890",
+		"n_value": 5
+	},
+	{
+		"difficulty": "H",
+		"h_value": 3.5,
+		"id": "2483",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2343",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "3046",
+		"n_value": 1.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "2613",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2369",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1328",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3019",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "1111",
+		"n_value": 1.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 8.5,
+		"id": "1621",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2826",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2715",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2785",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "1722",
+		"n_value": 1.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9.5,
+		"id": "2452",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "3016",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1871",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "944",
+		"n_value": 1.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2467",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2750",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "625",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1537",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "2695",
+		"n_value": 1.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "1938",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2812",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1038",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2361",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 10,
+		"id": "1652",
+		"n_value": 6.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1743",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2973",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3983",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1043",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2124",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 6.5,
+		"id": "2892",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "3052",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2754",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2924",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2576",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2811",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1052",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2870",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2982",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1144",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2884",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1631",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1564",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2787",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1926",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1756",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2301",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2722",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1444",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2861",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "837",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2329",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2038",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2871",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2631",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2039",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2272",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2732",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2418",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1992",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4,
+		"id": "1447",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "3982",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1235",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2928",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2266",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1438",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2734",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9,
+		"id": "2181",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1141",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2220",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1634",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3021",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2129",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1748",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1932",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2846",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1944",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2791",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1250",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1440",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2145",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2681",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "737",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2357",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2548",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2325",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1546",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "3061",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1847",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3078",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2796",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1336",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2027",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2564",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2842",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2534",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3071",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1547",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3995",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "1656",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1849",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "3025",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2958",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2535",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 9.5,
+		"id": "2757",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2047",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1548",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1446",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1354",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1337",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1851",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2769",
+		"n_value": 3
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "1549",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1343",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1790",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1963",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1501",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1940",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2658",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2731",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "1257",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "4009",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2344",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "2268",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2087",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2634",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2651",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2065",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "850",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2780",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "4014",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2432",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2643",
+		"n_value": 3
+	},
+	{
+		"difficulty": "L",
+		"h_value": 7,
+		"id": "1855",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2931",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2352",
+		"n_value": 3
+	},
+	{
+		"difficulty": "H",
+		"h_value": 6.5,
+		"id": "2664",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2456",
+		"n_value": 4
+	},
+	{
+		"difficulty": "L",
+		"h_value": 2,
+		"id": "2224",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2221",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2450",
+		"n_value": 4
+	},
+	{
+		"difficulty": "L",
+		"h_value": 3,
+		"id": "1655",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2894",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2799",
+		"n_value": 4
+	},
+	{
+		"difficulty": "L",
+		"h_value": 4,
+		"id": "2083",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "1858",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2636",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2437",
+		"n_value": 3
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2941",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2030",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2518",
+		"n_value": 2.5
+	},
+	{
+		"difficulty": "L",
+		"h_value": 5,
+		"id": "2940",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2381",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "820",
+		"n_value": 2.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2144",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2939",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "1150",
+		"n_value": 2.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2242",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2383",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "3056",
+		"n_value": 2.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2934",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2066",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "1943",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2797",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2445",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2,
+		"id": "2335",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "3040",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 7,
+		"id": "2285",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2942",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2178",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2078",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "1255",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2331",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "2269",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2051",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2244",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2341",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2226",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2874",
+		"n_value": 5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "2337",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 12,
+		"id": "1201",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1651",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2993",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "L",
+		"h_value": 4,
+		"id": "2434",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4.5,
+		"id": "1702",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3.5,
+		"id": "2440",
+		"n_value": 4
+	},
+	{
+		"difficulty": "L",
+		"h_value": 6.5,
+		"id": "2620",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2889",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 2.5,
+		"id": "966",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2559",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "101644",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2367",
+		"n_value": 4
+	},
+	{
+		"difficulty": "H",
+		"h_value": 6.5,
+		"id": "4025",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "1864",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 5,
+		"id": "3065",
+		"n_value": 4.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4,
+		"id": "2817",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 3,
+		"id": "2736",
+		"n_value": 4
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "406",
+		"n_value": 3.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "4029",
+		"n_value": 3.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 6.5,
+		"id": "2866",
+		"n_value": 3.5
+	},
+	{
+		"difficulty": "A",
+		"h_value": 4.5,
+		"id": "3028",
+		"n_value": 3.5
+	},
+	{
+		"difficulty": "H",
+		"h_value": 4,
+		"id": "1151",
+		"n_value": 3.5
+	},
+	{
+		"difficulty": "H",
+		"h_value": 6.5,
+		"id": "2302",
+		"n_value": 3.5
+	}
+]

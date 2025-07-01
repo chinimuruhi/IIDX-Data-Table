@@ -1,0 +1,26 @@
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-normalized-title.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-textage-tag.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/all.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/normalized-title.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/title.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/textage-tag.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/song-info.json
+2025-07-01 14:01:14,333 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/chart-info.json
+2025-07-01 14:01:15,901 main:111 _init_titletbl [INFO]: Success in loading actbl.
+2025-07-01 14:01:15,955 main:247 _init_titletbl [INFO]: Success in loading titletbl.
+2025-07-01 14:01:17,661 main:302 _fetch_scrlist [INFO]: Success in loading scrlist.
+2025-07-01 14:01:17,858 main:348 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-07-01 14:01:20,976 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/bpi/version.json
+2025-07-01 14:01:20,980 main:92 update [INFO]: Success in loading difficulty_sp11.
+2025-07-01 14:01:21,063 main:69 update [INFO]: Success in loading difficulty_sp12.
+2025-07-01 14:01:21,496 main:96 update [INFO]: BPI Load Skip: Chronos
+2025-07-01 14:01:21,496 main:96 update [INFO]: BPI Load Skip: Chronos
+2025-07-01 14:01:21,497 main:96 update [INFO]: BPI Load Skip: i-ii
+2025-07-01 14:01:21,497 main:96 update [INFO]: BPI Load Skip: I'm so Happy
+2025-07-01 14:01:21,500 main:96 update [INFO]: BPI Load Skip: T.R.O.L.L.
+2025-07-01 14:01:21,501 main:96 update [INFO]: BPI Load Skip: VOLCANIC BIGBEAT
+2025-07-01 14:01:21,533 main:146 update [INFO]: Success in loading bpi.
+2025-07-01 14:01:22,986 main:122 update [INFO]: Success in loading cpi.
+2025-07-01 14:01:23,185 main:51 update [INFO]: Success in loading konami.
+2025-07-01 14:01:23,193 main:76 update [INFO]: Success in loading konami.
+2025-07-01 14:01:23,815 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
