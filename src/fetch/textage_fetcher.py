@@ -139,8 +139,6 @@ class textage_data:
                     else:
                         version = tblRaw[key][0]
                     # その他情報の取得
-                    id = tblRaw[key][1]
-                    id_str = str(id)
                     genre = tblRaw[key][3]
                     artist = tblRaw[key][4]
                     # サブタイトルを持つ場合は結合
@@ -150,6 +148,17 @@ class textage_data:
                         title = tblRaw[key][5]
                     # タイトルの特殊文字置き換え
                     normalized_title = manualdata_loader.normalize_title(title)
+                    # IDの決定
+                    if key in self._reverse_textage_tag_dict:
+                        # 既にID決定済みであれば引き続き使用する
+                        id = self._reverse_textage_tag_dict[key]
+                    else:
+                        # ID未決定であればtextageのIDを使用する
+                        id = tblRaw[key][1]
+                        # IDが重複した場合に別のIDを割り当てる
+                        while str(id) in self._textage_tag_dict.keys():
+                            id += 100000
+                    id_str = str(id)
                     # actblをフェッチしている場合はフェッチ結果からデータを抽出する
                     if actblRaw:
                         # actblに存在しないデータならばスキップ
