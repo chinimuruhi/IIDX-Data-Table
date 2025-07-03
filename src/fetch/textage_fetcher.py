@@ -296,9 +296,7 @@ class textage_data:
                 self._isupdated = True
                 tblRaw[0] = tblRaw[1]
                 tblRaw[1] = 'substream'
-                self._version_dict = {
-                    'version': tblRaw
-                }
+                self._version = tblRaw
                 self._logging.info('Success in loading scrlist.')
                 return
         elif res.status_code == 304:
@@ -307,7 +305,7 @@ class textage_data:
         else:
             # その他の場合
             self._logging.error('Failed to fetch scrtbl.')
-        self._version_dict = await utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['version']))
+        self._version = await utility.load_from_file(os.path.join(self._FILE_PATH, self._FILES['version']))
 
     # datatblの取得
     async def _fetch_datatbl(self):
@@ -393,7 +391,7 @@ class textage_data:
             utility.save_to_file_gz(self._song_info_dict, os.path.join(self._FILE_PATH, self._FILES['song-info-gz'])),
             utility.save_to_file(self._chart_info_dict, os.path.join(self._FILE_PATH, self._FILES['chart-info'])),
             utility.save_to_file_gz(self._chart_info_dict, os.path.join(self._FILE_PATH, self._FILES['chart-info-gz'])),
-            utility.save_to_file(self._version_dict, os.path.join(self._FILE_PATH, self._FILES['version'])),
+            utility.save_to_file(self._version, os.path.join(self._FILE_PATH, self._FILES['version'])),
             utility.save_to_file(self._all_dict, os.path.join(self._FILE_PATH, self._FILES['all'])),
             utility.save_to_file_gz(self._all_dict, os.path.join(self._FILE_PATH, self._FILES['all-gz']))
         )
