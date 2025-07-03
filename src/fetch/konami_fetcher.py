@@ -48,7 +48,7 @@ class konami_data:
             label_to_songs = {}
             for id in data.keys():
                 id_str = id
-                label = data[id]['label']
+                label = self._get_label_id(data[id]['label'])
                 label_str = label
                 if 'in_leggendaria' in data[id]:
                     in_leggendaria = data[id]['in_leggendaria']
@@ -102,7 +102,8 @@ class konami_data:
                             for id in songs:
                                 if not id in result:
                                     result[id] = {}
-                                result[id]['label'] = self._get_label_id(label, True)
+                                self._register_label(label, True)
+                                result[id]['label'] = label
                 elif label == self._LEGGENDARIA_MUSIC_LIST:
                     # LEGGENDARIAの場合
                     songs = self._table_to_music_id_list(music_list_div.find('table'), textage_data)
@@ -116,7 +117,8 @@ class konami_data:
                     for id in songs:
                         if not id in result:
                             result[id] = {}
-                        result[id]['label'] = self._get_label_id(label, False)
+                        self._register_label(label, False)
+                        result[id]['label'] = label
         return result
         
     # music-listのdivから解禁種別を取得する
@@ -137,13 +139,15 @@ class konami_data:
             return self._LEGGENDARIA_MUSIC_LIST
         return None
 
-
-    # ラベル名からラベルidを取得する
-    def _get_label_id(self, label, is_pack):
+    # ラベルを登録する
+    def _register_label(self, label, is_pack):
         if not label in self._labels:
             self._labels.insert(self._labels_pack_index, label)
             if not is_pack:
                 self._labels_pack_index += 1
+
+    # ラベル名からラベルidを取得する
+    def _get_label_id(self, label):
         return self._labels.index(label)
 
     
