@@ -1,19 +1,12 @@
-2025-07-03 13:25:15,789 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-normalized-title.json
-2025-07-03 13:25:15,789 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-textage-tag.json
-2025-07-03 13:25:15,789 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/all.json
-2025-07-03 13:25:15,789 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/normalized-title.json
-2025-07-03 13:25:15,789 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/title.json
-2025-07-03 13:25:15,790 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/textage-tag.json
-2025-07-03 13:25:15,790 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/song-info.json
-2025-07-03 13:25:15,790 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/chart-info.json
-2025-07-03 13:25:17,270 main:111 _init_titletbl [INFO]: Success in loading actbl.
-2025-07-03 13:25:17,342 main:247 _init_titletbl [INFO]: Success in loading titletbl.
-2025-07-03 13:25:18,796 main:300 _fetch_scrlist [INFO]: Success in loading scrlist.
-2025-07-03 13:25:19,029 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
-2025-07-03 13:25:22,038 main:92 update [INFO]: Success in loading difficulty_sp11.
-2025-07-03 13:25:22,087 main:72 update [INFO]: difficulty_sp12 was not modified.
-2025-07-03 13:25:22,313 main:58 update [INFO]: bpi was not modified.
-2025-07-03 13:25:22,506 main:54 update [INFO]: notes_radar was not modified.
-2025-07-03 13:25:23,652 main:122 update [INFO]: Success in loading cpi.
-2025-07-03 13:25:23,918 main:76 update [INFO]: Success in loading konami.
-2025-07-03 13:25:25,282 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
+2025-07-03 15:16:30,990 main:118 _init_titletbl [INFO]: actbl was not modified.
+2025-07-03 15:16:30,991 main:254 _init_titletbl [INFO]: Titletbl was not modified.
+2025-07-03 15:16:31,987 main:349 _fetch_datatbl [INFO]: Datatbl was not modified.
+2025-07-03 15:16:31,988 main:304 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2025-07-03 15:16:32,273 main:401 update [INFO]: No Change.
+2025-07-03 15:16:33,974 main:92 update [INFO]: Success in loading difficulty_sp11.
+2025-07-03 15:16:34,135 main:72 update [INFO]: difficulty_sp12 was not modified.
+2025-07-03 15:16:34,313 main:54 update [INFO]: notes_radar was not modified.
+2025-07-03 15:16:34,330 main:58 update [INFO]: bpi was not modified.
+2025-07-03 15:16:35,308 main:122 update [INFO]: Success in loading cpi.
+2025-07-03 15:16:35,553 main:76 update [INFO]: Success in loading konami.
+2025-07-03 15:16:36,631 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
