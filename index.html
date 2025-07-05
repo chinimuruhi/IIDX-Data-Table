@@ -1,9 +1,169 @@
-<html>
+<!DOCTYPE html>
+<html lang="ja">
 <head>
-    <title>IIDX-Table</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IIDX関連データ</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+        .section-title {
+            margin-top: 30px;
+        }
+        .section-content {
+            margin-bottom: 30px;
+        }
+        .list-group-item {
+            padding: 10px 15px;
+        }
+        .list-group-item-heading {
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
-    <p>以下のURLより楽曲情報が取得できます。</p>
-    <a href="https://example.com">https://example.com</a>
+
+<div class="container">
+    <h1 class="text-center mt-5">IIDX関連データ</h1>
+
+    <section id="overview">
+        <div class="section-title">
+            <h2>概要</h2>
+        </div>
+        <div class="section-content">
+            <p>IIDX関連のデータをGitHub Actionsで定期的にクローリングを行っております。<br>
+            それぞれの曲に一意となるIDを振り分けています。<a href="./manual/replace-characters.json">>文字の置き換えリスト</a>に従って置き換えを行った結果を処理済み曲名としており、<a href="./textage/reverse-normalized-title.json"></a>処理済み曲名逆引き</a>からIDを割り出す使用法を想定しています。</p>
+        </div>
+    </section>
+
+    <section id="textage">
+        <div class="section-title">
+            <h2>Textage</h2>
+            <p><a href="https://textage.cc/" target="_blank">Textage公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/title.json">曲名</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/textage-tag.json">textageタグ</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/reverse-textage-tag.json">textageタグ逆引き</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/song-info.json">楽曲情報</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/song-info.json.gz">楽曲情報(gz)</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/chart-info.json">譜面情報</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/chart-info.json.gz">譜面情報(gz)</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/normalized-title.json">処理済み曲名</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/reverse-normalized-title.json">処理済み曲名逆引き</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/version.json">バージョン</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/all.json">全体情報</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./textage/all.json.gz">全体情報(gz)</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="infinitas">
+        <div class="section-title">
+            <h2>INFINITAS公式サイト</h2>
+            <p><a href="https://p.eagate.573.jp/game/infinitas/2/index.html" target="_blank">INFINITAS公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./konami/song_to_label.json">曲のIDをキーとした辞書</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./konami/song_to_label.json">label（解禁条件）をキーとした辞書</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./konami/label.json">解禁条件</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="joy-to-the-beat">
+        <div class="section-title">
+            <h2>joy to the beat...</h2>
+            <p><a href="https://bm2dx.com/IIDX/notes_radar/" target="_blank">joy to the beat公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./notes_radar/sp.json">SPノーツレーダー値</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./notes_radar/sp.json.gz">SPノーツレーダー値(gz)</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./notes_radar/dp.json">DPノーツレーダー値</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./notes_radar/dp.json.gz">DPノーツレーダー値(gz)</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="sp12">
+        <div class="section-title">
+            <h2>SP☆12難易度表</h2>
+            <p><a href="https://iidx-sp12.github.io/" target="_blank">SP☆12難易度表公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/sp12/songs_dict.json">曲のIDをキーとした辞書</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/sp12/songs_list.json">配列</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/sp12/difficulty.json">難易度名</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="sp11">
+        <div class="section-title">
+            <h2>SP☆11難易度表</h2>
+            <p><a href="https://docs.google.com/spreadsheets/d/1e7gdUmBk3zUGSxVGC--8p6w2TIWMLBcLzOcmWoeOx6Y/edit?gid=649088745#gid=649088745" target="_blank">SP☆11難易度表公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/sp11/songs_dict.json">曲のIDをキーとした辞書</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/sp11/songs_list.json">配列</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/sp11/difficulty.json">難易度名</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="dp">
+        <div class="section-title">
+            <h2>DP非公式難易度表</h2>
+            <p><a href="https://zasa.sakura.ne.jp/dp/" target="_blank">DP非公式難易度表公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/dp/songs_dict.json">曲のIDをキーとした辞書</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./difficulty/dp/songs_list.json">配列</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="cpi">
+        <div class="section-title">
+            <h2>CPI</h2>
+            <p><a href="https://cpi.makecir.com/" target="_blank">CPI公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./cpi/songs_dict.json">曲のIDをキーとした辞書</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./cpi/songs_list.json">配列</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="bpi">
+        <div class="section-title">
+            <h2>BPI</h2>
+            <p><a href="https://bpi.poyashi.me/" target="_blank">BPI公式サイト</a></p>
+        </div>
+        <div class="section-content">
+            <ul class="list-group">
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./cpi/songs_dict.json">曲のIDをキーとした辞書(SP)</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./cpi/songs_list.json">配列(SP)</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./cpi/songs_dict.json">曲のIDをキーとした辞書(DP)</a></span></li>
+                <li class="list-group-item"><span class="list-group-item-heading"><a href="./cpi/songs_list.json">配列(DP)</a></span></li>
+            </ul>
+        </div>
+    </section>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
