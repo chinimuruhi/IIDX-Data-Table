@@ -85566,6 +85566,178 @@
 		"title": "キスキツネ",
 		"version": 32
 	},
+	"3286": {
+		"artist": "BEMANI Sound Team \"めめめ\"",
+		"bpm": 156,
+		"genre": "MULTIGENRE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				7,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				7,
+				10,
+				0
+			]
+		},
+		"normalized_title": "GalaxyCollapse",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				962,
+				0
+			]
+		},
+		"textage_tag": "galaxyco",
+		"title": "Galaxy Collapse",
+		"version": 32
+	},
+	"3287": {
+		"artist": "JAKAZiD",
+		"bpm": 170,
+		"genre": "RAVE BREAKS",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "GoodLooking",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "goodlook",
+		"title": "Good Looking",
+		"version": 32
+	},
+	"3288": {
+		"artist": "crayvxn",
+		"bpm": 165,
+		"genre": "HYPERTRANCE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "everlastingeuphoria:",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1243,
+				0
+			]
+		},
+		"textage_tag": "evereuph",
+		"title": "everlastingeuphoria:",
+		"version": 32
+	},
+	"3289": {
+		"artist": "BEMANI Sound Team \"マックス ステロイ度!\"",
+		"bpm": 182,
+		"genre": "ARABIC TRAP CORE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "アラビアンハイパーナイト",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1690,
+				0
+			]
+		},
+		"textage_tag": "_arabhyp",
+		"title": "アラビアン ハイパー ナイト",
+		"version": 32
+	},
 	"329": {
 		"artist": "CHARLOTTE",
 		"bpm": 101,
@@ -85608,6 +85780,49 @@
 		"textage_tag": "skin",
 		"title": "SKIN",
 		"version": 3
+	},
+	"3290": {
+		"artist": "かめりあ",
+		"bpm": 183,
+		"genre": "NEURO FUNK / CEILTEACH DORCHA",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "UaighGealaí",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1972,
+				0
+			]
+		},
+		"textage_tag": "uaigh",
+		"title": "Uaigh Gealaí",
+		"version": 32
 	},
 	"33": {
 		"artist": "dj nagureo",
