@@ -64,7 +64,7 @@ class difficulty_sp11_data:
         )
         difficulty_dict = {
             'normal': results[0][1],
-            'hard': results[0][1]
+            'hard': results[1][1]
         }
         lst = []
         dct = {}
