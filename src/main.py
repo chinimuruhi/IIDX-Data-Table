@@ -13,6 +13,7 @@ from fetch.konami_fetcher import konami_data
 from fetch.bpi_fetcher import bpi_data
 from fetch.notes_radar_fetcher import notes_radar_data
 from fetch.difficulty_dp_fetcher import difficulty_dp_data
+from fetch.ereter_fetcher import ereter_data
 
 async def main():
     # 検証環境の.envを読み込み
@@ -36,6 +37,7 @@ async def main():
     bpi  = bpi_data(logging)
     notes_radar = notes_radar_data(logging)
     dp = difficulty_dp_data(logging)
+    ereter = ereter_data(logging)
     # 各種情報の取得
     await asyncio.gather(
         sp12.update(textage),
@@ -44,7 +46,8 @@ async def main():
         konami.update(textage),
         bpi.update(textage),
         notes_radar.update(textage),
-        dp.update(textage)
+        dp.update(textage),
+        ereter.update(textage)
     )
 
 if __name__ == '__main__':
