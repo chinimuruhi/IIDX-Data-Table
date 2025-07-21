@@ -1,20 +1,20 @@
-2025-07-21 13:32:02,047 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-normalized-title.json
-2025-07-21 13:32:02,047 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-textage-tag.json
-2025-07-21 13:32:02,047 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/all.json
-2025-07-21 13:32:02,047 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/normalized-title.json
-2025-07-21 13:32:02,047 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/title.json
-2025-07-21 13:32:02,047 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/textage-tag.json
-2025-07-21 13:32:02,048 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/song-info.json
-2025-07-21 13:32:02,048 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/chart-info.json
-2025-07-21 13:32:03,587 main:111 _init_titletbl [INFO]: Success in loading actbl.
-2025-07-21 13:32:03,667 main:247 _init_titletbl [INFO]: Success in loading titletbl.
-2025-07-21 13:32:04,345 main:300 _fetch_scrlist [INFO]: Success in loading scrlist.
-2025-07-21 13:32:04,516 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
-2025-07-21 13:32:07,732 main:92 update [INFO]: Success in loading difficulty_sp11.
-2025-07-21 13:32:07,859 main:72 update [INFO]: difficulty_sp12 was not modified.
-2025-07-21 13:32:08,034 main:58 update [INFO]: bpi was not modified.
-2025-07-21 13:32:08,141 main:54 update [INFO]: notes_radar was not modified.
-2025-07-21 13:32:08,805 main:53 update [INFO]: Success in loading ereter.
-2025-07-21 13:32:09,446 main:122 update [INFO]: Success in loading cpi.
-2025-07-21 13:32:09,646 main:76 update [INFO]: Success in loading konami.
-2025-07-21 13:32:10,280 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
+2025-07-21 14:00:44,587 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-normalized-title.json
+2025-07-21 14:00:44,587 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/reverse-textage-tag.json
+2025-07-21 14:00:44,587 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/all.json
+2025-07-21 14:00:44,587 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/normalized-title.json
+2025-07-21 14:00:44,587 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/title.json
+2025-07-21 14:00:44,588 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/textage-tag.json
+2025-07-21 14:00:44,588 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/song-info.json
+2025-07-21 14:00:44,588 main:62 load_from_file [ERROR]: Failed to load JSON from file:./dist/textage/chart-info.json
+2025-07-21 14:00:46,076 main:111 _init_titletbl [INFO]: Success in loading actbl.
+2025-07-21 14:00:46,146 main:247 _init_titletbl [INFO]: Success in loading titletbl.
+2025-07-21 14:00:46,987 main:300 _fetch_scrlist [INFO]: Success in loading scrlist.
+2025-07-21 14:00:47,188 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-07-21 14:00:50,150 main:92 update [INFO]: Success in loading difficulty_sp11.
+2025-07-21 14:00:50,184 main:72 update [INFO]: difficulty_sp12 was not modified.
+2025-07-21 14:00:50,369 main:58 update [INFO]: bpi was not modified.
+2025-07-21 14:00:50,663 main:54 update [INFO]: notes_radar was not modified.
+2025-07-21 14:00:51,893 main:122 update [INFO]: Success in loading cpi.
+2025-07-21 14:00:52,310 main:53 update [INFO]: Success in loading ereter.
+2025-07-21 14:00:52,507 main:76 update [INFO]: Success in loading konami.
+2025-07-21 14:00:53,448 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
