@@ -18,8 +18,8 @@ class bpi_data:
     }
     # データ取得先
     _URLS = {
-        'version': 'https://bpim.msqkn310.workers.dev/latest',
-        'songs':'https://bpim.msqkn310.workers.dev/release'
+        'version': 'https://proxy.poyashi.me/?type=bpiVersion',
+        'songs':'https://proxy.poyashi.me/?type=bpi'
     }
     _DIFFICULTY_MAP = {
         '1': ('SP', 'B'),
