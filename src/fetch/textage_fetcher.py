@@ -190,7 +190,7 @@ class textage_data:
                         if normalized_title in self._reversed_normalized_title_dict and self._reversed_normalized_title_dict[normalized_title] != id:
                             the_priority = 0
                             other_priority = 0
-                            other_id = self._reversed_normalized_title_dict[normalized_title.encode('unicode_escape').decode('ascii')]
+                            other_id = self._reversed_normalized_title_dict[self._encodeNormalizedTitleKey(normalized_title)]
                             other_key = self._textage_tag_dict[str(other_id)]
                             if in_ac:
                                 the_priority += 2
@@ -202,7 +202,7 @@ class textage_data:
                                 other_priority += 1
                             # 優先度比較
                             if the_priority > other_priority:
-                                self._reversed_normalized_title_dict[normalized_title.encode('unicode_escape').decode('ascii')] = id
+                                self._reversed_normalized_title_dict[self._encodeNormalizedTitleKey(normalized_title)] = id
                                 self._logging.debug(other_key + ' is same title with ' + key)
                             elif the_priority < other_priority:
                                 self._logging.debug(key + ' is same title with ' + other_key)
@@ -210,13 +210,13 @@ class textage_data:
                             else:
                                 # 優先度が同じ場合はidが大きい方を優先
                                 if id > other_id:
-                                    self._reversed_normalized_title_dict[normalized_title.encode('unicode_escape').decode('ascii')] = id
+                                    self._reversed_normalized_title_dict[self._encodeNormalizedTitleKey(normalized_title)] = id
                                     self._logging.debug(other_key + ' is same title with ' + key)
                                 else:
                                     self._logging.debug(key + ' is same title with ' + other_key)
                                     continue
                         else:
-                            self._reversed_normalized_title_dict[normalized_title.encode('unicode_escape').decode('ascii')] = id
+                            self._reversed_normalized_title_dict[self._encodeNormalizedTitleKey(normalized_title)] = id
                         # その他データを成形して保持
                         self._reverse_textage_tag_dict[key] = id
                         self._normalized_title_dict[id_str] = normalized_title
@@ -403,7 +403,7 @@ class textage_data:
     # 曲名からidを取得する
     def get_song_id(self, title):
         title = manualdata_loader.normalize_title(title)
-        ascii_title = title.encode('unicode_escape').decode('ascii')
+        ascii_title = self._encodeNormalizedTitleKey(title)
         if ascii_title in self._reversed_normalized_title_dict:
             return self._reversed_normalized_title_dict[ascii_title]
         else:
@@ -413,8 +413,14 @@ class textage_data:
     # 指定した曲名の曲が存在するか確認
     def is_contain_song(self, title):
         title = manualdata_loader.normalize_title(title)
-        ascii_title = title.encode('unicode_escape').decode('ascii')
+        ascii_title = self._encodeNormalizedTitleKey(title)
         return ascii_title in self._reversed_normalized_title_dict
+
+    # normalized_title(key)のエンコード
+    def _encodeNormalizedTitleKey(self, normalized_title):
+        normalized_title = normalized_title.encode('unicode_escape').decode('ascii')
+        return re.sub(r'\\x([0-9a-fA-F]{2})', lambda m: '\\u00' + m.group(1), normalized_title)
+
         
             
 
