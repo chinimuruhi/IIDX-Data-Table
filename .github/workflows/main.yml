@@ -3,6 +3,10 @@ on:
   schedule:
     # 毎週木曜午前10時に更新
     - cron: '0 1 * * 4'
+  push:
+    # mainブランチへのプッシュでトリガー
+    branches:
+      - main
 
 env:
   GOOGLE_SHEET_KEY: ${{secrets.GOOGLE_SHEET_KEY}}
