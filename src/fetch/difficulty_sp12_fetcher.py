@@ -33,8 +33,12 @@ class difficulty_sp12_data:
             lst = []
             dct = {}
             difficulty = {
-                'normal':{},
-                'hard':{}
+                'normal':{
+                    '-1': '未定',
+                },
+                'hard':{
+                    '-1': '未定',
+                }
             }
             for song in songs:
                 # IDを取得
@@ -42,22 +46,35 @@ class difficulty_sp12_data:
                 if id == -1:
                     self._logging.error('[sp12]:'+ song['name'])
                 id_str = str(id)
-                # ノマゲ難易度の文字の取得
-                difficulty['normal'][str(song['n_value'])] = song['normal']
-                # ハード難易度の文字の取得
-                difficulty['hard'][str(song['h_value'])] = song['hard']
+                n_value = int(song['n_value'])
+                h_value = int(song['h_value'])
+                if n_value == 0:
+                    n_value = -1
+                if h_value == 0:
+                    h_value = -1
+                # 惑星鉄道のデータのエラーを回避
+                if song['name'] == '惑星鉄道':
+                    n_value = 10
+                    h_value = 10
+                else :
+                    # ノマゲ難易度の文字の取得
+                    if n_value >= 0:
+                        difficulty['normal'][str(n_value)] = song['normal']
+                    # ハード難易度の文字の取得
+                    if h_value >= 0:
+                        difficulty['hard'][str(h_value)] = song['hard']
                 # データの成形
                 lst.append({
                     'id': id,
                     'difficulty': song['difficulty'],
-                    'n_value': song['n_value'],
-                    'h_value': song['h_value']
+                    'n_value': n_value,
+                    'h_value': h_value
                 })
                 if not id_str in dct:
                     dct[id_str] = {}
                 dct[id_str][song['difficulty']] = {
-                    'n_value': song['n_value'],
-                    'h_value': song['h_value']
+                    'n_value': n_value,
+                    'h_value': h_value
                 }
             # ファイルへ保存
             await asyncio.gather(
