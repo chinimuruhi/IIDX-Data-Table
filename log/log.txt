@@ -1,12 +1,4 @@
-2025-08-14 02:50:59,754 main:111 _init_titletbl [INFO]: Success in loading actbl.
-2025-08-14 02:50:59,755 main:254 _init_titletbl [INFO]: Titletbl was not modified.
-2025-08-14 02:51:00,659 main:304 _fetch_scrlist [INFO]: Scrtbl was not modified.
-2025-08-14 02:51:00,991 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
-2025-08-14 02:51:03,543 main:92 update [INFO]: Success in loading difficulty_sp11.
-2025-08-14 02:51:03,635 main:119 update [INFO]: difficulty_sp12 was not modified.
-2025-08-14 02:51:03,983 main:54 update [INFO]: notes_radar was not modified.
-2025-08-14 02:51:04,277 main:58 update [INFO]: bpi was not modified.
-2025-08-14 02:51:05,081 main:122 update [INFO]: Success in loading cpi.
-2025-08-14 02:51:05,323 main:76 update [INFO]: Success in loading konami.
-2025-08-14 02:51:06,361 main:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
-2025-08-14 02:51:08,682 main:53 update [INFO]: Success in loading ereter.
+2025-08-20 02:39:06,591 main:111 _init_titletbl [INFO]: Success in loading actbl.
+2025-08-20 02:39:06,591 main:254 _init_titletbl [INFO]: Titletbl was not modified.
+2025-08-20 02:39:07,507 main:304 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2025-08-20 02:39:07,875 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
