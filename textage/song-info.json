@@ -9914,6 +9914,26 @@
 		"genre": "ORBITALIC ELETRIC METAL",
 		"version": 32
 	},
+	"3296": {
+		"artist": "Dirty Androids",
+		"genre": "CHAOTIC METAL BREAKCORE",
+		"version": 32
+	},
+	"3297": {
+		"artist": "Qlarabelle",
+		"genre": "SPED UP SCHRANZ",
+		"version": 32
+	},
+	"3298": {
+		"artist": "CANVAS feat. Quimär",
+		"genre": "PASSIONATE RAVE",
+		"version": 32
+	},
+	"3299": {
+		"artist": "BEMANI Sound Team \"Risk Junk\"",
+		"genre": "HAPPY",
+		"version": 32
+	},
 	"33": {
 		"artist": "dj nagureo",
 		"genre": "AMBIENT TECHNO",
@@ -10697,7 +10717,7 @@
 	"4060": {
 		"artist": "少年ラジオ",
 		"genre": "RINASCITA",
-		"version": -1
+		"version": 32
 	},
 	"4061": {
 		"artist": "dj TAKA feat.のりあ",

@@ -84996,7 +84996,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				600,
 				1046,
 				1774,
 				0
@@ -85794,6 +85794,178 @@
 		},
 		"textage_tag": "eyeheavn",
 		"title": "EYE OF THE HEAVEN",
+		"version": 32
+	},
+	"3296": {
+		"artist": "Dirty Androids",
+		"bpm": 190,
+		"genre": "CHAOTIC METAL BREAKCORE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "Shirdal",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "shirdal",
+		"title": "Shirdal",
+		"version": 32
+	},
+	"3297": {
+		"artist": "Qlarabelle",
+		"bpm": 170,
+		"genre": "SPED UP SCHRANZ",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				6,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "TECHNORUMBLE",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "tcrumble",
+		"title": "TECHNO RUMBLE",
+		"version": 32
+	},
+	"3298": {
+		"artist": "CANVAS feat. Quimär",
+		"bpm": 189,
+		"genre": "PASSIONATE RAVE",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				5,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "Flamingo",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1800,
+				0
+			]
+		},
+		"textage_tag": "flamingo",
+		"title": "Flämingo",
+		"version": 32
+	},
+	"3299": {
+		"artist": "BEMANI Sound Team \"Risk Junk\"",
+		"bpm": 190,
+		"genre": "HAPPY",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "PinkyHappyCrazy",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "pinkycrz",
+		"title": "Pinky Happy Crazy",
 		"version": 32
 	},
 	"33": {
@@ -92523,7 +92695,7 @@
 		"artist": "少年ラジオ",
 		"bpm": 200,
 		"genre": "RINASCITA",
-		"in_ac": false,
+		"in_ac": true,
 		"in_inf": true,
 		"level": {
 			"dp": [
@@ -92560,7 +92732,7 @@
 		},
 		"textage_tag": "uen",
 		"title": "uәn",
-		"version": -1
+		"version": 32
 	},
 	"4061": {
 		"artist": "dj TAKA feat.のりあ",
@@ -92889,7 +93061,7 @@
 		"notes": {
 			"dp": [
 				0,
-				0,
+				582,
 				1149,
 				1731,
 				0
