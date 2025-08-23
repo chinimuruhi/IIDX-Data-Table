@@ -1,4 +1,4 @@
-2025-08-22 15:17:58,409 main:111 _init_titletbl [INFO]: Success in loading actbl.
-2025-08-22 15:17:58,481 main:247 _init_titletbl [INFO]: Success in loading titletbl.
-2025-08-22 15:17:59,121 main:304 _fetch_scrlist [INFO]: Scrtbl was not modified.
-2025-08-22 15:17:59,435 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-08-23 15:15:40,007 main:111 _init_titletbl [INFO]: Success in loading actbl.
+2025-08-23 15:15:40,007 main:254 _init_titletbl [INFO]: Titletbl was not modified.
+2025-08-23 15:15:41,166 main:304 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2025-08-23 15:15:41,479 main:346 _fetch_datatbl [INFO]: Success in loading datatbl.
