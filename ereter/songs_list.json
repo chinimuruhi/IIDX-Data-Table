@@ -17,21 +17,21 @@
 		"difficulty": "A",
 		"ec_diff": 0.9,
 		"exh_diff": 7.8,
-		"hc_diff": 4.2,
+		"hc_diff": 4.3,
 		"id": 3199
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 1.0,
 		"exh_diff": 8.1,
-		"hc_diff": 3.7,
+		"hc_diff": 3.6,
 		"id": 2396
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 1.0,
 		"exh_diff": 10.2,
-		"hc_diff": 5.6,
+		"hc_diff": 5.5,
 		"id": 3917
 	},
 	{
@@ -59,7 +59,7 @@
 		"difficulty": "L",
 		"ec_diff": 1.0,
 		"exh_diff": 8.0,
-		"hc_diff": 3.8,
+		"hc_diff": 3.9,
 		"id": 3006
 	},
 	{
@@ -114,7 +114,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 1.2,
-		"exh_diff": 9.0,
+		"exh_diff": 8.9,
 		"hc_diff": 4.8,
 		"id": 2356
 	},
@@ -136,7 +136,7 @@
 		"difficulty": "A",
 		"ec_diff": 1.0,
 		"exh_diff": 8.0,
-		"hc_diff": 3.5,
+		"hc_diff": 3.4,
 		"id": 2721
 	},
 	{
@@ -169,7 +169,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.0,
+		"ec_diff": 0.9,
 		"exh_diff": 7.9,
 		"hc_diff": 4.0,
 		"id": 3172
@@ -198,13 +198,13 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 0.9,
-		"exh_diff": 9.6,
+		"exh_diff": 9.5,
 		"hc_diff": 4.5,
 		"id": 3235
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 0.8,
+		"ec_diff": 0.9,
 		"exh_diff": 8.6,
 		"hc_diff": 4.0,
 		"id": 2368
@@ -218,7 +218,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.4,
+		"ec_diff": 1.5,
 		"exh_diff": 9.8,
 		"hc_diff": 6.1,
 		"id": 1093
@@ -255,7 +255,7 @@
 		"difficulty": "L",
 		"ec_diff": 9.1,
 		"exh_diff": 13.8,
-		"hc_diff": 11.8,
+		"hc_diff": 11.7,
 		"id": 1503
 	},
 	{
@@ -281,7 +281,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.0,
+		"ec_diff": 1.1,
 		"exh_diff": 8.9,
 		"hc_diff": 5.1,
 		"id": 2662
@@ -358,7 +358,7 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 2.8,
+		"ec_diff": 3.0,
 		"exh_diff": 11.0,
 		"hc_diff": 7.7,
 		"id": 1320
@@ -379,9 +379,9 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 0.9,
-		"exh_diff": 8.2,
-		"hc_diff": 4.5,
+		"ec_diff": 0.8,
+		"exh_diff": 8.1,
+		"hc_diff": 4.4,
 		"id": 3215
 	},
 	{
@@ -414,7 +414,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.5,
+		"ec_diff": 2.4,
 		"exh_diff": 9.5,
 		"hc_diff": 6.3,
 		"id": 3012
@@ -435,7 +435,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.4,
+		"ec_diff": 2.3,
 		"exh_diff": 9.3,
 		"hc_diff": 6.1,
 		"id": 2566
@@ -444,7 +444,7 @@
 		"difficulty": "A",
 		"ec_diff": 1.2,
 		"exh_diff": 9.0,
-		"hc_diff": 4.8,
+		"hc_diff": 4.7,
 		"id": 2449
 	},
 	{
@@ -477,7 +477,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 0.8,
+		"ec_diff": 0.9,
 		"exh_diff": 8.4,
 		"hc_diff": 4.3,
 		"id": 3148
@@ -485,7 +485,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 1.0,
-		"exh_diff": 10.4,
+		"exh_diff": 10.3,
 		"hc_diff": 6.0,
 		"id": 1440
 	},
@@ -500,7 +500,7 @@
 		"difficulty": "A",
 		"ec_diff": 1.4,
 		"exh_diff": 9.1,
-		"hc_diff": 5.6,
+		"hc_diff": 5.5,
 		"id": 1872
 	},
 	{
@@ -576,14 +576,14 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 1.0,
-		"exh_diff": 9.5,
+		"exh_diff": 9.4,
 		"hc_diff": 4.9,
 		"id": 2873
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 1.7,
-		"exh_diff": 8.4,
+		"exh_diff": 8.3,
 		"hc_diff": 4.7,
 		"id": 1656
 	},
@@ -610,14 +610,14 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.2,
+		"ec_diff": 1.1,
 		"exh_diff": 8.7,
 		"hc_diff": 5.1,
 		"id": 1941
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 6.4,
+		"ec_diff": 6.3,
 		"exh_diff": 11.5,
 		"hc_diff": 8.6,
 		"id": 1941
@@ -631,7 +631,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.0,
+		"ec_diff": 1.1,
 		"exh_diff": 9.2,
 		"hc_diff": 5.4,
 		"id": 2739
@@ -654,12 +654,12 @@
 		"difficulty": "A",
 		"ec_diff": 1.4,
 		"exh_diff": 9.4,
-		"hc_diff": 5.5,
+		"hc_diff": 5.4,
 		"id": 4033
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 0.9,
+		"ec_diff": 1.0,
 		"exh_diff": 9.1,
 		"hc_diff": 4.7,
 		"id": 3143
@@ -667,7 +667,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 3.1,
-		"exh_diff": 10.9,
+		"exh_diff": 11.0,
 		"hc_diff": 7.6,
 		"id": 1002
 	},
@@ -689,14 +689,14 @@
 		"difficulty": "L",
 		"ec_diff": 1.4,
 		"exh_diff": 11.5,
-		"hc_diff": 8.2,
+		"hc_diff": 8.1,
 		"id": 2160
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 1.4,
 		"exh_diff": 9.8,
-		"hc_diff": 6.4,
+		"hc_diff": 6.3,
 		"id": 2453
 	},
 	{
@@ -716,7 +716,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 1.6,
-		"exh_diff": 10.1,
+		"exh_diff": 10.0,
 		"hc_diff": 6.0,
 		"id": 1108
 	},
@@ -772,7 +772,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 1.5,
-		"exh_diff": 9.4,
+		"exh_diff": 9.3,
 		"hc_diff": 6.0,
 		"id": 2654
 	},
@@ -878,7 +878,7 @@
 		"difficulty": "A",
 		"ec_diff": 2.8,
 		"exh_diff": 9.9,
-		"hc_diff": 6.7,
+		"hc_diff": 6.6,
 		"id": 3116
 	},
 	{
@@ -911,7 +911,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.3,
+		"ec_diff": 2.2,
 		"exh_diff": 9.9,
 		"hc_diff": 6.0,
 		"id": 3257
@@ -925,7 +925,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.7,
+		"ec_diff": 1.6,
 		"exh_diff": 9.9,
 		"hc_diff": 6.4,
 		"id": 2691
@@ -955,14 +955,14 @@
 		"difficulty": "A",
 		"ec_diff": 4.5,
 		"exh_diff": 9.9,
-		"hc_diff": 7.1,
+		"hc_diff": 7.0,
 		"id": 2890
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 1.2,
 		"exh_diff": 9.6,
-		"hc_diff": 5.7,
+		"hc_diff": 5.6,
 		"id": 2557
 	},
 	{
@@ -988,7 +988,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 1.9,
+		"ec_diff": 1.8,
 		"exh_diff": 8.9,
 		"hc_diff": 5.4,
 		"id": 2747
@@ -1004,7 +1004,7 @@
 		"difficulty": "A",
 		"ec_diff": 3.4,
 		"exh_diff": 10.9,
-		"hc_diff": 7.4,
+		"hc_diff": 7.3,
 		"id": 1842
 	},
 	{
@@ -1018,7 +1018,7 @@
 		"difficulty": "H",
 		"ec_diff": 1.3,
 		"exh_diff": 9.3,
-		"hc_diff": 4.2,
+		"hc_diff": 4.1,
 		"id": 1439
 	},
 	{
@@ -1030,7 +1030,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.2,
+		"ec_diff": 2.3,
 		"exh_diff": 10.7,
 		"hc_diff": 6.5,
 		"id": 438
@@ -1039,7 +1039,7 @@
 		"difficulty": "A",
 		"ec_diff": 3.4,
 		"exh_diff": 11.3,
-		"hc_diff": 8.0,
+		"hc_diff": 7.9,
 		"id": 2480
 	},
 	{
@@ -1087,7 +1087,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 7.4,
-		"exh_diff": 12.0,
+		"exh_diff": 11.9,
 		"hc_diff": 9.7,
 		"id": 2037
 	},
@@ -1130,7 +1130,7 @@
 		"difficulty": "A",
 		"ec_diff": 3.7,
 		"exh_diff": 11.1,
-		"hc_diff": 7.3,
+		"hc_diff": 7.2,
 		"id": 2695
 	},
 	{
@@ -1157,7 +1157,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 5.9,
-		"exh_diff": 11.3,
+		"exh_diff": 11.2,
 		"hc_diff": 8.0,
 		"id": 1354
 	},
@@ -1219,7 +1219,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.7,
+		"ec_diff": 2.6,
 		"exh_diff": 10.8,
 		"hc_diff": 6.6,
 		"id": 1904
@@ -1282,7 +1282,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 3.7,
+		"ec_diff": 3.6,
 		"exh_diff": 10.9,
 		"hc_diff": 7.5,
 		"id": 3075
@@ -1338,7 +1338,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.8,
+		"ec_diff": 2.9,
 		"exh_diff": 11.0,
 		"hc_diff": 7.5,
 		"id": 3110
@@ -1360,7 +1360,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 4.2,
-		"exh_diff": 10.1,
+		"exh_diff": 10.0,
 		"hc_diff": 7.0,
 		"id": 2645
 	},
@@ -1417,7 +1417,7 @@
 		"difficulty": "A",
 		"ec_diff": 3.0,
 		"exh_diff": 12.6,
-		"hc_diff": 10.3,
+		"hc_diff": 10.2,
 		"id": 2115
 	},
 	{
@@ -1429,7 +1429,7 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 2.6,
+		"ec_diff": 2.5,
 		"exh_diff": 9.5,
 		"hc_diff": 6.5,
 		"id": 3070
@@ -1464,14 +1464,14 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.8,
+		"ec_diff": 2.7,
 		"exh_diff": 10.5,
 		"hc_diff": 7.3,
 		"id": 2798
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 4.5,
+		"ec_diff": 4.4,
 		"exh_diff": 10.0,
 		"hc_diff": 7.0,
 		"id": 2340
@@ -1520,7 +1520,7 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 4.3,
+		"ec_diff": 4.2,
 		"exh_diff": 11.0,
 		"hc_diff": 8.4,
 		"id": 113
@@ -1542,7 +1542,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 3.7,
-		"exh_diff": 10.4,
+		"exh_diff": 10.5,
 		"hc_diff": 7.5,
 		"id": 3194
 	},
@@ -1583,7 +1583,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 2.9,
+		"ec_diff": 2.8,
 		"exh_diff": 9.6,
 		"hc_diff": 6.1,
 		"id": 2426
@@ -1611,14 +1611,14 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 3.5,
+		"ec_diff": 3.6,
 		"exh_diff": 10.3,
 		"hc_diff": 7.3,
 		"id": 1549
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 4.0,
+		"ec_diff": 3.9,
 		"exh_diff": 13.0,
 		"hc_diff": 10.0,
 		"id": 1446
@@ -1627,7 +1627,7 @@
 		"difficulty": "L",
 		"ec_diff": 10.2,
 		"exh_diff": 13.5,
-		"hc_diff": 11.8,
+		"hc_diff": 11.7,
 		"id": 1446
 	},
 	{
@@ -1647,7 +1647,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 2.7,
-		"exh_diff": 9.8,
+		"exh_diff": 9.7,
 		"hc_diff": 5.9,
 		"id": 2730
 	},
@@ -1674,8 +1674,8 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 4.0,
-		"exh_diff": 10.0,
+		"ec_diff": 3.9,
+		"exh_diff": 9.9,
 		"hc_diff": 7.0,
 		"id": 1954
 	},
@@ -1690,7 +1690,7 @@
 		"difficulty": "L",
 		"ec_diff": 5.3,
 		"exh_diff": 10.1,
-		"hc_diff": 7.6,
+		"hc_diff": 7.5,
 		"id": 2799
 	},
 	{
@@ -1800,7 +1800,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.1,
+		"ec_diff": 6.0,
 		"exh_diff": 10.7,
 		"hc_diff": 7.9,
 		"id": 2955
@@ -1864,7 +1864,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 4.2,
-		"exh_diff": 10.8,
+		"exh_diff": 10.7,
 		"hc_diff": 7.6,
 		"id": 2859
 	},
@@ -1900,7 +1900,7 @@
 		"difficulty": "A",
 		"ec_diff": 5.8,
 		"exh_diff": 10.8,
-		"hc_diff": 8.1,
+		"hc_diff": 8.2,
 		"id": 4053
 	},
 	{
@@ -1963,7 +1963,7 @@
 		"difficulty": "L",
 		"ec_diff": 11.4,
 		"exh_diff": 14.1,
-		"hc_diff": 13.0,
+		"hc_diff": 12.9,
 		"id": 1811
 	},
 	{
@@ -2060,13 +2060,13 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 4.8,
-		"exh_diff": 10.5,
+		"exh_diff": 10.4,
 		"hc_diff": 7.5,
 		"id": 3109
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 5.2,
+		"ec_diff": 5.1,
 		"exh_diff": 12.0,
 		"hc_diff": 7.8,
 		"id": 619
@@ -2187,12 +2187,12 @@
 		"difficulty": "L",
 		"ec_diff": 6.9,
 		"exh_diff": 12.3,
-		"hc_diff": 9.4,
+		"hc_diff": 9.3,
 		"id": 2158
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 5.0,
+		"ec_diff": 4.9,
 		"exh_diff": 11.0,
 		"hc_diff": 7.9,
 		"id": 2649
@@ -2269,9 +2269,9 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 3.8,
+		"ec_diff": 3.7,
 		"exh_diff": 12.0,
-		"hc_diff": 8.4,
+		"hc_diff": 8.3,
 		"id": 2121
 	},
 	{
@@ -2381,14 +2381,14 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 4.5,
+		"ec_diff": 4.6,
 		"exh_diff": 10.1,
 		"hc_diff": 7.6,
 		"id": 3251
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.3,
+		"ec_diff": 6.2,
 		"exh_diff": 10.8,
 		"hc_diff": 7.8,
 		"id": 2687
@@ -2472,8 +2472,8 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 4.1,
-		"exh_diff": 10.3,
+		"ec_diff": 4.0,
+		"exh_diff": 10.2,
 		"hc_diff": 7.2,
 		"id": 1097
 	},
@@ -2557,14 +2557,14 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 4.7,
-		"exh_diff": 11.5,
+		"exh_diff": 11.4,
 		"hc_diff": 8.9,
 		"id": 2395
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 4.2,
-		"exh_diff": 10.4,
+		"exh_diff": 10.5,
 		"hc_diff": 7.4,
 		"id": 3168
 	},
@@ -2633,7 +2633,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 5.7,
+		"ec_diff": 5.6,
 		"exh_diff": 11.2,
 		"hc_diff": 8.2,
 		"id": 2852
@@ -2655,13 +2655,13 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 9.6,
-		"exh_diff": 13.5,
+		"exh_diff": 13.6,
 		"hc_diff": 11.6,
 		"id": 2274
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 5.1,
+		"ec_diff": 5.0,
 		"exh_diff": 11.7,
 		"hc_diff": 8.7,
 		"id": 3067
@@ -2717,7 +2717,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 4.7,
+		"ec_diff": 4.6,
 		"exh_diff": 11.2,
 		"hc_diff": 8.1,
 		"id": 2550
@@ -2774,14 +2774,14 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 6.1,
-		"exh_diff": 11.9,
+		"exh_diff": 12.0,
 		"hc_diff": 9.0,
 		"id": 2818
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 4.6,
-		"exh_diff": 10.4,
+		"ec_diff": 4.5,
+		"exh_diff": 10.3,
 		"hc_diff": 7.6,
 		"id": 2051
 	},
@@ -2836,8 +2836,8 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 5.9,
-		"exh_diff": 11.5,
+		"ec_diff": 5.8,
+		"exh_diff": 11.4,
 		"hc_diff": 8.4,
 		"id": 2778
 	},
@@ -2852,7 +2852,7 @@
 		"difficulty": "A",
 		"ec_diff": 7.0,
 		"exh_diff": 11.1,
-		"hc_diff": 8.5,
+		"hc_diff": 8.4,
 		"id": 2561
 	},
 	{
@@ -2878,7 +2878,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 7.4,
+		"ec_diff": 7.3,
 		"exh_diff": 13.8,
 		"hc_diff": 11.2,
 		"id": 710
@@ -2915,7 +2915,7 @@
 		"difficulty": "L",
 		"ec_diff": 11.5,
 		"exh_diff": 13.9,
-		"hc_diff": 12.9,
+		"hc_diff": 12.8,
 		"id": 2555
 	},
 	{
@@ -2969,7 +2969,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.9,
+		"ec_diff": 6.8,
 		"exh_diff": 11.4,
 		"hc_diff": 9.0,
 		"id": 2253
@@ -2992,7 +2992,7 @@
 		"difficulty": "A",
 		"ec_diff": 5.0,
 		"exh_diff": 10.7,
-		"hc_diff": 7.9,
+		"hc_diff": 7.8,
 		"id": 3263
 	},
 	{
@@ -3018,7 +3018,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.7,
+		"ec_diff": 6.6,
 		"exh_diff": 12.0,
 		"hc_diff": 9.3,
 		"id": 3166
@@ -3088,7 +3088,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 7.0,
+		"ec_diff": 6.9,
 		"exh_diff": 11.2,
 		"hc_diff": 8.5,
 		"id": 2897
@@ -3104,14 +3104,14 @@
 		"difficulty": "A",
 		"ec_diff": 6.2,
 		"exh_diff": 12.4,
-		"hc_diff": 9.2,
+		"hc_diff": 9.3,
 		"id": 2617
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 6.7,
 		"exh_diff": 11.2,
-		"hc_diff": 8.2,
+		"hc_diff": 8.1,
 		"id": 2586
 	},
 	{
@@ -3153,13 +3153,13 @@
 		"difficulty": "A",
 		"ec_diff": 6.2,
 		"exh_diff": 11.4,
-		"hc_diff": 8.8,
+		"hc_diff": 8.9,
 		"id": 3274
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 5.7,
-		"exh_diff": 11.4,
+		"exh_diff": 11.3,
 		"hc_diff": 8.5,
 		"id": 3173
 	},
@@ -3173,7 +3173,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 7.5,
-		"exh_diff": 12.5,
+		"exh_diff": 12.6,
 		"hc_diff": 9.9,
 		"id": 2044
 	},
@@ -3313,7 +3313,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 5.6,
-		"exh_diff": 13.2,
+		"exh_diff": 13.1,
 		"hc_diff": 9.9,
 		"id": 3120
 	},
@@ -3382,7 +3382,7 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 7.5,
+		"ec_diff": 7.4,
 		"exh_diff": 11.4,
 		"hc_diff": 9.1,
 		"id": 101643
@@ -3419,7 +3419,7 @@
 		"difficulty": "A",
 		"ec_diff": 7.0,
 		"exh_diff": 12.5,
-		"hc_diff": 9.8,
+		"hc_diff": 9.7,
 		"id": 2382
 	},
 	{
@@ -3530,13 +3530,13 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 6.1,
-		"exh_diff": 11.6,
+		"exh_diff": 11.5,
 		"hc_diff": 8.6,
 		"id": 2381
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.9,
+		"ec_diff": 6.8,
 		"exh_diff": 12.2,
 		"hc_diff": 9.6,
 		"id": 2089
@@ -3606,7 +3606,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.7,
+		"ec_diff": 6.6,
 		"exh_diff": 11.3,
 		"hc_diff": 8.8,
 		"id": 3033
@@ -3622,7 +3622,7 @@
 		"difficulty": "A",
 		"ec_diff": 6.5,
 		"exh_diff": 12.6,
-		"hc_diff": 9.6,
+		"hc_diff": 9.5,
 		"id": 1560
 	},
 	{
@@ -3636,7 +3636,7 @@
 		"difficulty": "A",
 		"ec_diff": 6.7,
 		"exh_diff": 11.6,
-		"hc_diff": 8.9,
+		"hc_diff": 8.8,
 		"id": 3137
 	},
 	{
@@ -3655,14 +3655,14 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 7.2,
+		"ec_diff": 7.1,
 		"exh_diff": 12.2,
 		"hc_diff": 9.6,
 		"id": 2562
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 7.6,
+		"ec_diff": 7.5,
 		"exh_diff": 12.0,
 		"hc_diff": 9.7,
 		"id": 2455
@@ -3713,7 +3713,7 @@
 		"difficulty": "A",
 		"ec_diff": 6.8,
 		"exh_diff": 12.5,
-		"hc_diff": 9.8,
+		"hc_diff": 9.7,
 		"id": 2228
 	},
 	{
@@ -3754,14 +3754,14 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 7.6,
-		"exh_diff": 12.5,
+		"exh_diff": 12.6,
 		"hc_diff": 9.8,
 		"id": 3169
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 7.3,
-		"exh_diff": 11.7,
+		"exh_diff": 11.6,
 		"hc_diff": 9.3,
 		"id": 2994
 	},
@@ -3846,7 +3846,7 @@
 		"difficulty": "A",
 		"ec_diff": 8.4,
 		"exh_diff": 12.5,
-		"hc_diff": 10.4,
+		"hc_diff": 10.3,
 		"id": 2461
 	},
 	{
@@ -3872,7 +3872,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 7.9,
+		"ec_diff": 7.8,
 		"exh_diff": 13.0,
 		"hc_diff": 10.6,
 		"id": 2470
@@ -3895,7 +3895,7 @@
 		"difficulty": "L",
 		"ec_diff": 7.5,
 		"exh_diff": 12.6,
-		"hc_diff": 10.0,
+		"hc_diff": 9.9,
 		"id": 2139
 	},
 	{
@@ -3935,7 +3935,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 7.8,
+		"ec_diff": 7.7,
 		"exh_diff": 12.0,
 		"hc_diff": 9.8,
 		"id": 427
@@ -3978,7 +3978,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 7.4,
-		"exh_diff": 12.9,
+		"exh_diff": 12.8,
 		"hc_diff": 9.8,
 		"id": 2979
 	},
@@ -3998,7 +3998,7 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 8.0,
+		"ec_diff": 8.1,
 		"exh_diff": 12.8,
 		"hc_diff": 10.5,
 		"id": 2576
@@ -4062,7 +4062,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 7.7,
-		"exh_diff": 12.2,
+		"exh_diff": 12.3,
 		"hc_diff": 9.8,
 		"id": 2628
 	},
@@ -4090,7 +4090,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 7.9,
-		"exh_diff": 12.6,
+		"exh_diff": 12.7,
 		"hc_diff": 10.4,
 		"id": 2354
 	},
@@ -4103,7 +4103,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 8.3,
+		"ec_diff": 8.4,
 		"exh_diff": 12.6,
 		"hc_diff": 10.1,
 		"id": 3193
@@ -4118,7 +4118,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 7.7,
-		"exh_diff": 12.4,
+		"exh_diff": 12.3,
 		"hc_diff": 10.1,
 		"id": 4014
 	},
@@ -4210,14 +4210,14 @@
 		"difficulty": "A",
 		"ec_diff": 8.5,
 		"exh_diff": 13.0,
-		"hc_diff": 10.5,
+		"hc_diff": 10.6,
 		"id": 3081
 	},
 	{
 		"difficulty": "A",
 		"ec_diff": 7.2,
 		"exh_diff": 12.9,
-		"hc_diff": 10.2,
+		"hc_diff": 10.1,
 		"id": 2302
 	},
 	{
@@ -4229,7 +4229,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 8.2,
+		"ec_diff": 8.1,
 		"exh_diff": 13.2,
 		"hc_diff": 11.0,
 		"id": 2175
@@ -4279,7 +4279,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 9.3,
-		"exh_diff": 12.8,
+		"exh_diff": 12.7,
 		"hc_diff": 10.7,
 		"id": 2965
 	},
@@ -4315,7 +4315,7 @@
 		"difficulty": "A",
 		"ec_diff": 9.9,
 		"exh_diff": 13.6,
-		"hc_diff": 11.9,
+		"hc_diff": 11.8,
 		"id": 2575
 	},
 	{
@@ -4362,7 +4362,7 @@
 	},
 	{
 		"difficulty": "L",
-		"ec_diff": 8.8,
+		"ec_diff": 8.7,
 		"exh_diff": 12.2,
 		"hc_diff": 10.2,
 		"id": 2754
@@ -4383,7 +4383,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 10.0,
+		"ec_diff": 9.9,
 		"exh_diff": 13.7,
 		"hc_diff": 11.8,
 		"id": 941
@@ -4572,7 +4572,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 10.8,
+		"ec_diff": 10.7,
 		"exh_diff": 13.7,
 		"hc_diff": 12.0,
 		"id": 1836
@@ -4581,7 +4581,7 @@
 		"difficulty": "L",
 		"ec_diff": 10.8,
 		"exh_diff": 13.7,
-		"hc_diff": 12.0,
+		"hc_diff": 11.9,
 		"id": 1925
 	},
 	{

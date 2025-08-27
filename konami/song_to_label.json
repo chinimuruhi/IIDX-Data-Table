@@ -55,6 +55,34 @@
 		"in_leggendaria": false,
 		"label": 40
 	},
+	"60": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"61": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"62": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"63": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"64": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"65": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"66": {
+		"in_leggendaria": false,
+		"label": 41
+	},
 	"101": {
 		"in_leggendaria": false,
 		"label": 2
@@ -5235,6 +5263,10 @@
 		"in_leggendaria": false,
 		"label": 29
 	},
+	"2792": {
+		"in_leggendaria": false,
+		"label": 41
+	},
 	"2793": {
 		"in_leggendaria": false,
 		"label": 28
@@ -5363,6 +5395,10 @@
 		"in_leggendaria": false,
 		"label": 30
 	},
+	"2834": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"2836": {
 		"in_leggendaria": false,
 		"label": 30
@@ -5460,6 +5496,10 @@
 		"label": 30
 	},
 	"2869": {
+		"in_leggendaria": false,
+		"label": 2
+	},
+	"2870": {
 		"in_leggendaria": false,
 		"label": 2
 	},
@@ -5991,6 +6031,10 @@
 		"in_leggendaria": false,
 		"label": 31
 	},
+	"3042": {
+		"in_leggendaria": false,
+		"label": 41
+	},
 	"3043": {
 		"in_leggendaria": false,
 		"label": 31
@@ -6070,6 +6114,18 @@
 	"3063": {
 		"in_leggendaria": false,
 		"label": 39
+	},
+	"3065": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"3066": {
+		"in_leggendaria": false,
+		"label": 41
+	},
+	"3067": {
+		"in_leggendaria": false,
+		"label": 41
 	},
 	"3072": {
 		"in_leggendaria": false,
