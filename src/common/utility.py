@@ -3,6 +3,7 @@ import aiohttp
 import io
 import json
 import gzip
+import requests
 from datetime import datetime, timezone, timedelta
 
 class utility:
@@ -93,21 +94,26 @@ class utility:
     # 修正: SSL/TLSバージョンを指定して非同期リクエストを行う
     @classmethod
     async def requests_get(cls, url, headers):
-        headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36'
-        timeout = aiohttp.ClientTimeout(total=20)
-        
-        # SSL contextを作成してTLSv1.2を指定
-        ssl_context = ssl.create_default_context()
-        ssl_context.options |= ssl.OP_NO_TLSv1 | ssl.OP_NO_TLSv1_1  # TLS 1.0 と 1.1 を無効化
+        try:
+            headers['User-Agent'] = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36'
+            timeout = aiohttp.ClientTimeout(total=20)
+            
+            # SSL contextを作成してTLSv1.2を指定
+            ssl_context = ssl.create_default_context()
+            ssl_context.options |= ssl.OP_NO_TLSv1 | ssl.OP_NO_TLSv1_1  # TLS 1.0 と 1.1 を無効化
 
-        async with aiohttp.ClientSession(timeout=timeout) as session:
-            async with session.get(url, headers=headers, ssl=ssl_context) as response:
-                body = await response.read()
-                # 擬似的な "urllib response" のように扱うためのラップ
-                fake_response = io.BytesIO(body)
-                fake_response.headers = response.headers
-                fake_response.status_code = response.status
-                return fake_response
+            async with aiohttp.ClientSession(timeout=timeout) as session:
+                async with session.get(url, headers=headers, ssl=ssl_context) as response:
+                    body = await response.read()
+                    # 擬似的な "urllib response" のように扱うためのラップ
+                    fake_response = io.BytesIO(body)
+                    fake_response.headers = response.headers
+                    fake_response.status_code = response.status
+                    return fake_response
+        except:
+            fake_response = requests.Response()
+            fake_response.status_code = 500
+            return fake_response
 
     @classmethod
     def set_logging(cls, logging):

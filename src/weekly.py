@@ -22,7 +22,7 @@ async def main():
     with open('./src/log_config.json', 'r') as f:
         log_conf = json.loads(f.read())
         config.dictConfig(log_conf)
-    logging = getLogger('main')
+    logging = getLogger('weekly')
     manualdata_loader.set_logging(logging)
     utility.set_logging(logging)
     # textage情報の更新

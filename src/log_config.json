@@ -20,13 +20,32 @@
             "formatter": "simple",
             "mode": "w",
             "filename": "dist/log/log.txt"
+        },
+        "dailyFileHandler": {
+            "class": "logging.FileHandler",
+            "level": "INFO",
+            "formatter": "simple",
+            "mode": "w",
+            "filename": "dist/log/daily_log.txt"
+        },
+        "weeklyFileHandler": {
+            "class": "logging.FileHandler",
+            "level": "INFO",
+            "formatter": "simple",
+            "mode": "w",
+            "filename": "dist/log/weekly_log.txt"
         }
     },
 
     "loggers": {
-        "main": {
+        "daily": {
             "level": "INFO",
-            "handlers": ["consoleHandler", "fileHandler"],
+            "handlers": ["consoleHandler", "dailyFileHandler"],
+            "propagate": false
+        },
+        "weekly": {
+            "level": "INFO",
+            "handlers": ["consoleHandler", "weeklyFileHandler"],
             "propagate": false
         },
         "debug": {
