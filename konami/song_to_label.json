@@ -6611,10 +6611,6 @@
 		"in_leggendaria": false,
 		"label": 31
 	},
-	"4060": {
-		"in_leggendaria": false,
-		"label": 31
-	},
 	"4061": {
 		"in_leggendaria": false,
 		"label": 31
@@ -6750,5 +6746,9 @@
 	"102868": {
 		"in_leggendaria": false,
 		"label": 27
+	},
+	"104060": {
+		"in_leggendaria": false,
+		"label": 31
 	}
 }
