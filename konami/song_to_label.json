@@ -1647,6 +1647,10 @@
 		"in_leggendaria": false,
 		"label": 2
 	},
+	"1543": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"1544": {
 		"in_leggendaria": false,
 		"label": 2
@@ -1708,10 +1712,6 @@
 		"label": 2
 	},
 	"1570": {
-		"in_leggendaria": false,
-		"label": 2
-	},
-	"1572": {
 		"in_leggendaria": false,
 		"label": 2
 	},
