@@ -86205,7 +86205,7 @@
 				0,
 				0,
 				0,
-				0,
+				1398,
 				0
 			],
 			"sp": [
@@ -87978,6 +87978,49 @@
 		},
 		"textage_tag": "_rconfit",
 		"title": "煉獄コンフィチュール",
+		"version": 33
+	},
+	"3341": {
+		"artist": "ReGLOSS",
+		"bpm": 170,
+		"genre": "DANCE POP",
+		"in_ac": true,
+		"in_inf": false,
+		"level": {
+			"dp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			],
+			"sp": [
+				1,
+				4,
+				7,
+				10,
+				0
+			]
+		},
+		"normalized_title": "ShootingStar",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				1228,
+				0
+			]
+		},
+		"textage_tag": "shoot_rg",
+		"title": "Shooting Star",
 		"version": 33
 	},
 	"34": {
