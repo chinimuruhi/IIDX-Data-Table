@@ -120,15 +120,21 @@ class bpi_data:
                     'max_minus_bpi': max_minus_bpi
                 }
                 if mode == 'SP': 
-                    sp_list.append(elm_list)
                     if not id_str in sp_dict:
                         sp_dict[id_str] = {}
-                    sp_dict[id_str][difficulty] = elm_dict
+                    if not difficulty in sp_dict[id_str]:
+                        sp_dict[id_str][difficulty] = elm_dict
+                        sp_list.append(elm_list)
+                    else:
+                        self._logging.error('BPI Load Skip(3): ' + song['title'] + '[' + song['difficulty'] + ']')
                 else:
-                    dp_list.append(elm_list)
                     if not id_str in dp_dict:
                         dp_dict[id_str] = {}
-                    dp_dict[id_str][difficulty] = elm_dict
+                    if not difficulty in dp_dict[id_str]:
+                        dp_dict[id_str][difficulty] = elm_dict
+                        dp_list.append(elm_list)
+                    else:
+                        self._logging.error('BPI Load Skip(3): ' + song['title'] + '[' + song['difficulty'] + ']')
             # ファイルへ保存
             await asyncio.gather(
                 utility.save_to_file(sp_list, os.path.join(self._FILE_PATH, self._FILES['sp_list'])),
