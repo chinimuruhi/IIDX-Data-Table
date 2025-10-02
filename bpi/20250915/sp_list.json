@@ -14170,17 +14170,5 @@
 		"max_minus_bpi": 26.32,
 		"notes": 1773,
 		"wr": 3538
-	},
-	{
-		"aaa_bpi": 11.07,
-		"avg": 2618,
-		"bpm": "174",
-		"coef": 1.216921,
-		"difficulty": "A",
-		"id": 3150,
-		"level": 12,
-		"max_minus_bpi": 27.78,
-		"notes": 1647,
-		"wr": 3278
 	}
 ]
