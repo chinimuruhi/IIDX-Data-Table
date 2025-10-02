@@ -6,7 +6,7 @@ import json
 
 class bpi_data:
     # ファイルの場所
-    _FILE_PATH = './dist/bpi'
+    _FILE_PATH = './dist/bpi/20250915'
     # ファイル名
     _FILES = {
         'sp_list':'sp_list.json',
@@ -18,8 +18,8 @@ class bpi_data:
     }
     # データ取得先
     _URLS = {
-        'version': 'https://proxy.poyashi.me/?type=bpiVersion',
-        'songs':'https://proxy.poyashi.me/?type=bpi'
+        'version': 'https://yomogi.poyashi.me/latest',
+        'songs':'https://yomogi.poyashi.me/20250915'
     }
     _DIFFICULTY_MAP = {
         '1': ('SP', 'B'),
@@ -38,11 +38,6 @@ class bpi_data:
         'MAX_MINUS': 17.0/18.0
     }
     _ERROR_DATA = (
-        ('Chronos', '4'),
-        ('i-ii', '4'),
-        ("I'm so Happy", '4'),
-        ('T.R.O.L.L.', '4'),
-        ('VOLCANIC BIGBEAT', '4')
     )
 
     # コンストラクタ
@@ -93,13 +88,13 @@ class bpi_data:
                         is_error = True
                         break
                 if is_error:
-                    self._logging.info('BPI Load Skip: ' + song['title'])
+                    self._logging.error('BPI Load Skip(1): ' + song['title'] + '[' + song['difficulty'] + ']')
                     continue
                 # BPIの計算
                 aaa_bpi = self._calculate_bpi(wr, avg, notes, 'AAA', coef)
                 max_minus_bpi = self._calculate_bpi(wr, avg, notes, 'MAX_MINUS', coef)
                 if aaa_bpi is None or max_minus_bpi is None:
-                    self._logging.error('BPI Load Skip: ' + song['title'])
+                    self._logging.error('BPI Load Skip(2): ' + song['title'] + '[' + song['difficulty'] + ']')
                     continue
                 # データの成形
                 elm_list = {
