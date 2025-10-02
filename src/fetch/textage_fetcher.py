@@ -50,7 +50,7 @@ class textage_data:
     ]
     _REPLACE_TITLETBL = [
         [re.compile(r':\[SS,'), ':[-1,'],
-        [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
+        [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]'],
     ]
     _REPLACE_ACTBL = [
         [re.compile(r'A'), '10'],
@@ -65,6 +65,9 @@ class textage_data:
         [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
     ]
     _BPM_SPLIT = '～'
+    _TITLE_REPLACE_LIST = [
+        ['デラむぅのでらっくす☆どり～む☆', 'デラむぅのでらっくす☆どり～むぅ'],
+    ]
 
     # コンストラクタ
     def __init__(self, logging):
@@ -146,6 +149,11 @@ class textage_data:
                         title = tblRaw[key][5] + tblRaw[key][6]
                     else:
                         title = tblRaw[key][5]
+                    # ミスがあるタイトルの置換
+                    for title_replace in self._TITLE_REPLACE_LIST:
+                        if title == title_replace[0]:
+                            title = title_replace[1]
+                            break
                     # タイトルの特殊文字置き換え
                     normalized_title = manualdata_loader.normalize_title(title)
                     # IDの決定
@@ -420,7 +428,3 @@ class textage_data:
     def _encodeNormalizedTitleKey(self, normalized_title):
         normalized_title = normalized_title.encode('unicode_escape').decode('ascii')
         return re.sub(r'\\x([0-9a-fA-F]{2})', lambda m: '\\u00' + m.group(1), normalized_title)
-
-        
-            
-
