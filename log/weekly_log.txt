@@ -1,0 +1,12 @@
+2025-10-08 02:20:35,987 weekly:114 _init_titletbl [INFO]: Success in loading actbl.
+2025-10-08 02:20:35,987 weekly:262 _init_titletbl [INFO]: Titletbl was not modified.
+2025-10-08 02:20:36,506 weekly:312 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2025-10-08 02:20:36,762 weekly:354 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-10-08 02:20:40,523 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2025-10-08 02:20:40,629 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2025-10-08 02:20:40,851 weekly:54 update [INFO]: notes_radar was not modified.
+2025-10-08 02:20:40,932 weekly:53 update [INFO]: bpi was not modified.
+2025-10-08 02:20:41,483 weekly:53 update [INFO]: Success in loading ereter.
+2025-10-08 02:20:41,691 weekly:76 update [INFO]: Success in loading konami.
+2025-10-08 02:20:42,769 weekly:122 update [INFO]: Success in loading cpi.
+2025-10-08 02:20:43,346 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.

@@ -1514,7 +1514,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 3.3,
-		"exh_diff": 11.6,
+		"exh_diff": 11.5,
 		"hc_diff": 7.9,
 		"id": 3057
 	},
@@ -1703,7 +1703,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 5.3,
-		"exh_diff": 10.1,
+		"exh_diff": 10.0,
 		"hc_diff": 7.5,
 		"id": 2799
 	},
@@ -1858,7 +1858,7 @@
 		"difficulty": "L",
 		"ec_diff": 8.5,
 		"exh_diff": 13.0,
-		"hc_diff": 10.8,
+		"hc_diff": 10.7,
 		"id": 2149
 	},
 	{
@@ -1955,7 +1955,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 5.3,
-		"exh_diff": 10.9,
+		"exh_diff": 11.0,
 		"hc_diff": 7.8,
 		"id": 2862
 	},
@@ -2066,7 +2066,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.0,
+		"ec_diff": 5.9,
 		"exh_diff": 10.3,
 		"hc_diff": 7.5,
 		"id": 3245
@@ -2381,8 +2381,8 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 5.6,
-		"exh_diff": 10.8,
+		"ec_diff": 5.5,
+		"exh_diff": 10.9,
 		"hc_diff": 7.7,
 		"id": 3299
 	},
@@ -2963,7 +2963,7 @@
 	{
 		"difficulty": "L",
 		"ec_diff": 7.1,
-		"exh_diff": 12.0,
+		"exh_diff": 12.1,
 		"hc_diff": 9.8,
 		"id": 2512
 	},
@@ -3172,7 +3172,7 @@
 	},
 	{
 		"difficulty": "A",
-		"ec_diff": 6.4,
+		"ec_diff": 6.3,
 		"exh_diff": 11.3,
 		"hc_diff": 8.3,
 		"id": 924
@@ -3689,13 +3689,6 @@
 		"id": 2571
 	},
 	{
-		"difficulty": "A",
-		"ec_diff": 7.7,
-		"exh_diff": 11.7,
-		"hc_diff": 9.3,
-		"id": 2885
-	},
-	{
 		"difficulty": "L",
 		"ec_diff": 6.3,
 		"exh_diff": 12.3,
@@ -3804,7 +3797,7 @@
 		"difficulty": "L",
 		"ec_diff": 11.2,
 		"exh_diff": 13.9,
-		"hc_diff": 12.2,
+		"hc_diff": 12.3,
 		"id": 1994
 	},
 	{
@@ -3972,7 +3965,7 @@
 		"difficulty": "A",
 		"ec_diff": 6.8,
 		"exh_diff": 12.1,
-		"hc_diff": 9.6,
+		"hc_diff": 9.7,
 		"id": 3268
 	},
 	{
@@ -4126,7 +4119,7 @@
 		"difficulty": "A",
 		"ec_diff": 9.5,
 		"exh_diff": 13.6,
-		"hc_diff": 11.2,
+		"hc_diff": 11.1,
 		"id": 3280
 	},
 	{
@@ -4313,6 +4306,13 @@
 	},
 	{
 		"difficulty": "A",
+		"ec_diff": 7.7,
+		"exh_diff": 11.7,
+		"hc_diff": 9.3,
+		"id": 2885
+	},
+	{
+		"difficulty": "A",
 		"ec_diff": 7.9,
 		"exh_diff": 14.3,
 		"hc_diff": 13.6,
@@ -4350,7 +4350,7 @@
 		"difficulty": "A",
 		"ec_diff": 8.4,
 		"exh_diff": 13.0,
-		"hc_diff": 10.6,
+		"hc_diff": 10.5,
 		"id": 3081
 	},
 	{
@@ -4378,7 +4378,7 @@
 		"difficulty": "L",
 		"ec_diff": 7.4,
 		"exh_diff": 12.2,
-		"hc_diff": 9.9,
+		"hc_diff": 9.8,
 		"id": 1938
 	},
 	{
@@ -4601,7 +4601,7 @@
 	{
 		"difficulty": "A",
 		"ec_diff": 9.5,
-		"exh_diff": 13.8,
+		"exh_diff": 13.7,
 		"hc_diff": 11.3,
 		"id": 3292
 	},
