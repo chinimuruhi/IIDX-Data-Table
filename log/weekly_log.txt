@@ -1,0 +1,26 @@
+2025-10-15 02:26:05,139 weekly:114 _init_titletbl [INFO]: Success in loading actbl.
+2025-10-15 02:26:05,211 weekly:255 _init_titletbl [INFO]: Success in loading titletbl.
+2025-10-15 02:26:06,158 weekly:312 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2025-10-15 02:26:06,406 weekly:354 _fetch_datatbl [INFO]: Success in loading datatbl.
+2025-10-15 02:26:09,988 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2025-10-15 02:26:10,088 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2025-10-15 02:26:10,324 weekly:54 update [INFO]: notes_radar was not modified.
+2025-10-15 02:26:10,428 weekly:53 update [INFO]: bpi was not modified.
+2025-10-15 02:26:11,300 weekly:122 update [INFO]: Success in loading cpi.
+2025-10-15 02:26:11,735 weekly:53 update [INFO]: Success in loading ereter.
+2025-10-15 02:26:11,912 weekly:418 get_song_id [ERROR]: AerialSkydive(AerialSkydive) is not found.
+2025-10-15 02:26:11,912 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Aerial Skydive
+2025-10-15 02:26:11,912 weekly:418 get_song_id [ERROR]: BlackApple(BlackApple) is not found.
+2025-10-15 02:26:11,912 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Black Apple
+2025-10-15 02:26:11,912 weekly:418 get_song_id [ERROR]: insist(insist) is not found.
+2025-10-15 02:26:11,912 weekly:164 _table_to_music_id_list [ERROR]: [konami]:insist
+2025-10-15 02:26:11,912 weekly:418 get_song_id [ERROR]: THEANCIENTKINGISBACK(THEANCIENTKINGISBACK) is not found.
+2025-10-15 02:26:11,912 weekly:164 _table_to_music_id_list [ERROR]: [konami]:THE ANCIENT KING IS BACK
+2025-10-15 02:26:11,912 weekly:418 get_song_id [ERROR]: WelcometotheMoshPit(WelcometotheMoshPit) is not found.
+2025-10-15 02:26:11,912 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Welcome to the Mosh Pit
+2025-10-15 02:26:11,912 weekly:418 get_song_id [ERROR]: 終末を追う者(\u7d42\u672b\u3092\u8ffd\u3046\u8005) is not found.
+2025-10-15 02:26:11,912 weekly:164 _table_to_music_id_list [ERROR]: [konami]:終末を追う者
+2025-10-15 02:26:11,913 weekly:418 get_song_id [ERROR]: 隅田川夏恋歌(\u9685\u7530\u5ddd\u590f\u604b\u6b4c) is not found.
+2025-10-15 02:26:11,913 weekly:164 _table_to_music_id_list [ERROR]: [konami]:隅田川夏恋歌
+2025-10-15 02:26:11,945 weekly:76 update [INFO]: Success in loading konami.
+2025-10-15 02:26:12,697 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.

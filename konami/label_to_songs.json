@@ -605,6 +605,10 @@
 			"in_leggendaria": false
 		},
 		{
+			"id": 3341,
+			"in_leggendaria": false
+		},
+		{
 			"id": 4047,
 			"in_leggendaria": false
 		},
@@ -6840,6 +6844,144 @@
 		},
 		{
 			"id": 3067,
+			"in_leggendaria": false
+		}
+	],
+	"42": [
+		{
+			"id": 3101,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3183,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3174,
+			"in_leggendaria": false
+		},
+		{
+			"id": 2997,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3106,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3107,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3176,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3109,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3112,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3166,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3164,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3156,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3115,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3118,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3158,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3189,
+			"in_leggendaria": false
+		},
+		{
+			"id": 2998,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3187,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3184,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3126,
+			"in_leggendaria": false
+		},
+		{
+			"id": 4013,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3157,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3155,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3128,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3140,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3136,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3134,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3162,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3186,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3137,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3138,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3139,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3177,
+			"in_leggendaria": false
+		},
+		{
+			"id": -1,
 			"in_leggendaria": false
 		}
 	]
