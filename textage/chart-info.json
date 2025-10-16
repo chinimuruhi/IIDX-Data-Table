@@ -1553,7 +1553,7 @@
 				0,
 				0,
 				0,
-				0,
+				990,
 				0
 			],
 			"sp": [
@@ -61930,7 +61930,7 @@
 	"2997": {
 		"bpm": 164,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -61967,7 +61967,7 @@
 	"2998": {
 		"bpm": 182,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66246,7 +66246,7 @@
 	"3101": {
 		"bpm": 180,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66434,7 +66434,7 @@
 	"3106": {
 		"bpm": 175,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66471,7 +66471,7 @@
 	"3107": {
 		"bpm": 172,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66545,7 +66545,7 @@
 	"3109": {
 		"bpm": 176,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66693,7 +66693,7 @@
 	"3112": {
 		"bpm": 165,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66804,7 +66804,7 @@
 	"3115": {
 		"bpm": 174,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -66915,7 +66915,7 @@
 	"3118": {
 		"bpm": 180,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67248,7 +67248,7 @@
 	"3126": {
 		"bpm": 156,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67322,7 +67322,7 @@
 	"3128": {
 		"bpm": 201,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67581,7 +67581,7 @@
 	"3134": {
 		"bpm": 164,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67655,7 +67655,7 @@
 	"3136": {
 		"bpm": 165,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67692,7 +67692,7 @@
 	"3137": {
 		"bpm": 172,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67729,7 +67729,7 @@
 	"3138": {
 		"bpm": 162,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67766,7 +67766,7 @@
 	"3139": {
 		"bpm": 170,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -67840,7 +67840,7 @@
 	"3140": {
 		"bpm": 180,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68435,7 +68435,7 @@
 	"3155": {
 		"bpm": 162,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68472,7 +68472,7 @@
 	"3156": {
 		"bpm": 180,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68509,7 +68509,7 @@
 	"3157": {
 		"bpm": 171,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68546,7 +68546,7 @@
 	"3158": {
 		"bpm": 185,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68731,7 +68731,7 @@
 	"3162": {
 		"bpm": 158,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68811,7 +68811,7 @@
 			160
 		],
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -68888,7 +68888,7 @@
 			300
 		],
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69224,7 +69224,7 @@
 	"3174": {
 		"bpm": 160,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69298,7 +69298,7 @@
 	"3176": {
 		"bpm": 174,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69338,7 +69338,7 @@
 			166
 		],
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69597,7 +69597,7 @@
 	"3183": {
 		"bpm": 155,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69634,7 +69634,7 @@
 	"3184": {
 		"bpm": 135,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69708,7 +69708,7 @@
 	"3186": {
 		"bpm": 240,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69745,7 +69745,7 @@
 	"3187": {
 		"bpm": 190,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -69819,7 +69819,7 @@
 	"3189": {
 		"bpm": 150,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76074,7 +76074,7 @@
 	"3341": {
 		"bpm": 170,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76143,7 +76143,7 @@
 				0,
 				0,
 				0,
-				0,
+				1420,
 				0
 			]
 		}
@@ -79945,7 +79945,7 @@
 			150
 		],
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -88449,6 +88449,117 @@
 			]
 		}
 	},
+	"67": {
+		"bpm": 175,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	},
+	"68": {
+		"bpm": 174,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				11,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	},
+	"69": {
+		"bpm": 136,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	},
 	"7": {
 		"bpm": 110,
 		"in_ac": false,
@@ -88482,6 +88593,43 @@
 				57,
 				80,
 				96,
+				0
+			]
+		}
+	},
+	"70": {
+		"bpm": 160,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				4,
+				8,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				8,
+				11,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
 				0
 			]
 		}
@@ -88818,6 +88966,43 @@
 				208,
 				421,
 				735,
+				0
+			]
+		}
+	},
+	"71": {
+		"bpm": 172,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
 				0
 			]
 		}
@@ -89195,6 +89380,43 @@
 			]
 		}
 	},
+	"72": {
+		"bpm": 185,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		}
+	},
 	"720": {
 		"bpm": 125,
 		"in_ac": false,
@@ -89563,6 +89785,43 @@
 				219,
 				571,
 				982,
+				0,
+				0
+			]
+		}
+	},
+	"73": {
+		"bpm": 180,
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			]
+		},
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
 				0,
 				0
 			]

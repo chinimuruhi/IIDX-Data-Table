@@ -11824,10 +11824,30 @@
 		"genre": "ELECTRO SHERBET",
 		"version": -1
 	},
+	"67": {
+		"artist": "Dirty Androids",
+		"genre": "DRUM & BASS",
+		"version": -1
+	},
+	"68": {
+		"artist": "BEMANI Sound Team \"HuΣeR\"",
+		"genre": "ELEGANT MODERN ROCK",
+		"version": -1
+	},
+	"69": {
+		"artist": "Tomoyuki Uchida feat.秋成",
+		"genre": "DANCE POP",
+		"version": -1
+	},
 	"7": {
 		"artist": "QUADRA",
 		"genre": "AMBIENT",
 		"version": 0
+	},
+	"70": {
+		"artist": "BEMANI Sound Team \"L.E.D.-G\"",
+		"genre": "HARDSTYLE",
+		"version": -1
 	},
 	"701": {
 		"artist": "tiger YAMATO",
@@ -11873,6 +11893,11 @@
 		"artist": "SARA",
 		"genre": "SUPER EUROBEAT",
 		"version": 7
+	},
+	"71": {
+		"artist": "lapix",
+		"genre": "RIDDIM TECHCORE",
+		"version": -1
 	},
 	"710": {
 		"artist": "Fuzita Blender",
@@ -11924,6 +11949,11 @@
 		"genre": "HIP HOP & SOUL",
 		"version": 7
 	},
+	"72": {
+		"artist": "S-C-U×PON",
+		"genre": "JUDGMENT",
+		"version": -1
+	},
 	"720": {
 		"artist": "TaQ",
 		"genre": "BIG BEAT",
@@ -11973,6 +12003,11 @@
 		"artist": "Ω",
 		"genre": "HARDCORE TECHNO",
 		"version": 7
+	},
+	"73": {
+		"artist": "seiya-murai feat ALT",
+		"genre": "A.I.デイトポップ",
+		"version": -1
 	},
 	"730": {
 		"artist": "Togo project feat.Sana",

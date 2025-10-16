@@ -1784,7 +1784,7 @@
 				0,
 				0,
 				0,
-				0,
+				990,
 				0
 			],
 			"sp": [
@@ -71628,7 +71628,7 @@
 		"bpm": 164,
 		"genre": "00's TECHNO",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -71671,7 +71671,7 @@
 		"bpm": 182,
 		"genre": "DRUM'N'BASS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76634,7 +76634,7 @@
 		"bpm": 180,
 		"genre": "CYBER BREAKCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76852,7 +76852,7 @@
 		"bpm": 175,
 		"genre": "HAPPY HARDCORE TAKEOVER",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76895,7 +76895,7 @@
 		"bpm": 172,
 		"genre": "NEO 90's AMBIENT JUNGLE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -76981,7 +76981,7 @@
 		"bpm": 176,
 		"genre": "MUSIC GAME TRADITIONAL",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77153,7 +77153,7 @@
 		"bpm": 165,
 		"genre": "NEOTRANCE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77282,7 +77282,7 @@
 		"bpm": 174,
 		"genre": "DRUM'N'BASS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77411,7 +77411,7 @@
 		"bpm": 180,
 		"genre": "J-POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77798,7 +77798,7 @@
 		"bpm": 156,
 		"genre": "FUNKY BREAKS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77884,7 +77884,7 @@
 		"bpm": 201,
 		"genre": "ROCK",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -78185,7 +78185,7 @@
 		"bpm": 164,
 		"genre": "CHINA SQUARE DANCEPOP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -78271,7 +78271,7 @@
 		"bpm": 165,
 		"genre": "SUMMER POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -78314,7 +78314,7 @@
 		"bpm": 172,
 		"genre": "VALHALLASTEP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -78357,7 +78357,7 @@
 		"bpm": 162,
 		"genre": "JUVENILE PIANO ROCK",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -78400,7 +78400,7 @@
 		"bpm": 170,
 		"genre": "SCI-FI CHRONICLE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -78486,7 +78486,7 @@
 		"bpm": 180,
 		"genre": "KAWAII DOGGO POPS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79177,7 +79177,7 @@
 		"bpm": 162,
 		"genre": "COLD BEAT",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79220,7 +79220,7 @@
 		"bpm": 180,
 		"genre": "TRANCE CORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79263,7 +79263,7 @@
 		"bpm": 171,
 		"genre": "EURODANCE SPEED",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79306,7 +79306,7 @@
 		"bpm": 185,
 		"genre": "FREEFORM ARTCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79521,7 +79521,7 @@
 		"bpm": 158,
 		"genre": "HYBRID DANCE MUSIC",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79613,7 +79613,7 @@
 		],
 		"genre": "DUBSTEP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -79702,7 +79702,7 @@
 		],
 		"genre": "COLOUR BASS",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80092,7 +80092,7 @@
 		"bpm": 160,
 		"genre": "PSYCHEDELIC TRANCE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80178,7 +80178,7 @@
 		"bpm": 174,
 		"genre": "CINEMATIC BREAKCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80224,7 +80224,7 @@
 		],
 		"genre": "PROLOGUE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80525,7 +80525,7 @@
 		"bpm": 155,
 		"genre": "TRANCE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80568,7 +80568,7 @@
 		"bpm": 135,
 		"genre": "MELODIC TECHNO",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80654,7 +80654,7 @@
 		"bpm": 240,
 		"genre": "BREAKCORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80697,7 +80697,7 @@
 		"bpm": 190,
 		"genre": "NEO-CLASSICAL CORE",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -80783,7 +80783,7 @@
 		"bpm": 150,
 		"genre": "TRAP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -88022,7 +88022,7 @@
 		"bpm": 170,
 		"genre": "DANCE POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -88098,7 +88098,7 @@
 				0,
 				0,
 				0,
-				0,
+				1420,
 				0
 			]
 		},
@@ -92469,7 +92469,7 @@
 		],
 		"genre": "ETHNO POP",
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -102273,6 +102273,135 @@
 		"title": "レインボウ・フレーバー",
 		"version": -1
 	},
+	"67": {
+		"artist": "Dirty Androids",
+		"bpm": 175,
+		"genre": "DRUM & BASS",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				10,
+				0
+			]
+		},
+		"normalized_title": "AerialSkydive",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "aerialsk",
+		"title": "Aerial Skydive",
+		"version": -1
+	},
+	"68": {
+		"artist": "BEMANI Sound Team \"HuΣeR\"",
+		"bpm": 174,
+		"genre": "ELEGANT MODERN ROCK",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				8,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				8,
+				11,
+				0
+			]
+		},
+		"normalized_title": "BlackApple",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "blackapl",
+		"title": "Black Apple",
+		"version": -1
+	},
+	"69": {
+		"artist": "Tomoyuki Uchida feat.秋成",
+		"bpm": 136,
+		"genre": "DANCE POP",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				5,
+				9,
+				11,
+				0
+			]
+		},
+		"normalized_title": "insist",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "insist",
+		"title": "insist",
+		"version": -1
+	},
 	"7": {
 		"bpm": 110,
 		"in_ac": false,
@@ -102309,6 +102438,49 @@
 				0
 			]
 		}
+	},
+	"70": {
+		"artist": "BEMANI Sound Team \"L.E.D.-G\"",
+		"bpm": 160,
+		"genre": "HARDSTYLE",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				4,
+				8,
+				11,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				8,
+				11,
+				0
+			]
+		},
+		"normalized_title": "THEANCIENTKINGISBACK",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "tancking",
+		"title": "THE ANCIENT KING IS BACK",
+		"version": -1
 	},
 	"701": {
 		"artist": "tiger YAMATO",
@@ -102693,6 +102865,49 @@
 		"textage_tag": "burnup",
 		"title": "BURNING UP FOR YOU",
 		"version": 7
+	},
+	"71": {
+		"artist": "lapix",
+		"bpm": 172,
+		"genre": "RIDDIM TECHCORE",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "WelcometotheMoshPit",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "wmoshpit",
+		"title": "Welcome to the Mosh Pit",
+		"version": -1
 	},
 	"710": {
 		"artist": "Fuzita Blender",
@@ -103121,6 +103336,49 @@
 		"title": "Glorious Days",
 		"version": 7
 	},
+	"72": {
+		"artist": "S-C-U×PON",
+		"bpm": 185,
+		"genre": "JUDGMENT",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			],
+			"sp": [
+				0,
+				6,
+				10,
+				12,
+				0
+			]
+		},
+		"normalized_title": "終末を追う者",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "_shumatu",
+		"title": "終末を追う者",
+		"version": -1
+	},
 	"720": {
 		"artist": "TaQ",
 		"bpm": 125,
@@ -103547,6 +103805,49 @@
 				0
 			]
 		}
+	},
+	"73": {
+		"artist": "seiya-murai feat ALT",
+		"bpm": 180,
+		"genre": "A.I.デイトポップ",
+		"in_ac": false,
+		"in_inf": true,
+		"level": {
+			"dp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			],
+			"sp": [
+				0,
+				4,
+				7,
+				10,
+				0
+			]
+		},
+		"normalized_title": "隅田川夏恋歌",
+		"notes": {
+			"dp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"sp": [
+				0,
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		"textage_tag": "_sumida",
+		"title": "隅田川夏恋歌",
+		"version": -1
 	},
 	"730": {
 		"artist": "Togo project feat.Sana",
