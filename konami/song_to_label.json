@@ -1,8 +1,4 @@
 {
-	"-1": {
-		"in_leggendaria": false,
-		"label": 42
-	},
 	"3": {
 		"in_leggendaria": false,
 		"label": 0
@@ -86,6 +82,34 @@
 	"66": {
 		"in_leggendaria": false,
 		"label": 41
+	},
+	"67": {
+		"in_leggendaria": false,
+		"label": 42
+	},
+	"68": {
+		"in_leggendaria": false,
+		"label": 42
+	},
+	"69": {
+		"in_leggendaria": false,
+		"label": 42
+	},
+	"70": {
+		"in_leggendaria": false,
+		"label": 42
+	},
+	"71": {
+		"in_leggendaria": false,
+		"label": 42
+	},
+	"72": {
+		"in_leggendaria": false,
+		"label": 42
+	},
+	"73": {
+		"in_leggendaria": false,
+		"label": 42
 	},
 	"101": {
 		"in_leggendaria": false,
