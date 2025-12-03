@@ -2415,6 +2415,10 @@
 		"in_leggendaria": false,
 		"label": 30
 	},
+	"1894": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"1895": {
 		"in_leggendaria": false,
 		"label": 32
@@ -5514,6 +5518,10 @@
 	"2860": {
 		"in_leggendaria": false,
 		"label": 32
+	},
+	"2861": {
+		"in_leggendaria": false,
+		"label": 2
 	},
 	"2863": {
 		"in_leggendaria": false,
