@@ -2700,6 +2700,12 @@
 		"value": 10.2
 	},
 	{
+		"difficulty": "L",
+		"id": 1206,
+		"snj_id": "12005-9-0",
+		"value": 11.0
+	},
+	{
 		"difficulty": "H",
 		"id": 1261,
 		"snj_id": "12006-5-1",
