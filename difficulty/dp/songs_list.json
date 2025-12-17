@@ -12264,6 +12264,12 @@
 		"value": 10.0
 	},
 	{
+		"difficulty": "L",
+		"id": 2413,
+		"snj_id": "24013-9-0",
+		"value": 11.0
+	},
+	{
 		"difficulty": "H",
 		"id": 2414,
 		"snj_id": "24014-5-0",
@@ -22309,6 +22315,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3351,
+		"snj_id": "33051-5-0",
+		"value": 10.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3351,
+		"snj_id": "33051-7-0",
+		"value": 12.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3303,
 		"snj_id": "33003-5-0",
 		"value": 9.0
@@ -22441,6 +22459,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3352,
+		"snj_id": "33052-5-0",
+		"value": 9.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3352,
+		"snj_id": "33052-7-0",
+		"value": 11.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3342,
 		"snj_id": "33042-5-0",
 		"value": 8.5
@@ -22453,6 +22483,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3353,
+		"snj_id": "33053-5-0",
+		"value": 8.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3353,
+		"snj_id": "33053-7-0",
+		"value": 10.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3310,
 		"snj_id": "33010-5-0",
 		"value": 7.0
@@ -22462,6 +22504,18 @@
 		"id": 3310,
 		"snj_id": "33010-7-0",
 		"value": 9.0
+	},
+	{
+		"difficulty": "H",
+		"id": 3354,
+		"snj_id": "33054-5-0",
+		"value": 10.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3354,
+		"snj_id": "33054-7-0",
+		"value": 12.0
 	},
 	{
 		"difficulty": "H",
@@ -22531,6 +22585,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3355,
+		"snj_id": "33055-5-0",
+		"value": 9.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3355,
+		"snj_id": "33055-7-0",
+		"value": 11.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3314,
 		"snj_id": "33014-5-0",
 		"value": 8.0
@@ -22591,6 +22657,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3356,
+		"snj_id": "33056-5-0",
+		"value": 10.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3356,
+		"snj_id": "33056-7-0",
+		"value": 12.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3319,
 		"snj_id": "33019-5-0",
 		"value": 7.0
@@ -22612,6 +22690,18 @@
 		"id": 3341,
 		"snj_id": "33041-7-0",
 		"value": 10.2
+	},
+	{
+		"difficulty": "H",
+		"id": 3357,
+		"snj_id": "33057-5-0",
+		"value": 9.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3357,
+		"snj_id": "33057-7-0",
+		"value": 10.0
 	},
 	{
 		"difficulty": "H",
