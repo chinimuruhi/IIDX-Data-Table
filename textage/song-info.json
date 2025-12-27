@@ -12129,6 +12129,11 @@
 		"genre": "TECHNO",
 		"version": 7
 	},
+	"74": {
+		"artist": "常盤ゆう",
+		"genre": "SWING WALTZ",
+		"version": -1
+	},
 	"740": {
 		"artist": "Svenson & Gielen",
 		"genre": "TRANCE",
@@ -12168,6 +12173,36 @@
 		"artist": "Ω",
 		"genre": "HARDCORE TECHNO",
 		"version": 7
+	},
+	"75": {
+		"artist": "くにたけ みゆき",
+		"genre": "J-POP",
+		"version": -1
+	},
+	"76": {
+		"artist": "cosMo@暴走P",
+		"genre": "EMO ROCK",
+		"version": -1
+	},
+	"77": {
+		"artist": "SOUND HOLIC Vs. BEMANI Sound Team \"T.Kakuta\" feat. Nana Takahashi",
+		"genre": "演歌METAL",
+		"version": -1
+	},
+	"78": {
+		"artist": "あさき",
+		"genre": "ビジュアル",
+		"version": -1
+	},
+	"79": {
+		"artist": "BEMANI Sound Team \"meteorologists\"",
+		"genre": "PROGRESSIVE",
+		"version": -1
+	},
+	"80": {
+		"artist": "BEMANI Sound Team \"HuΣeR × Yvya\"",
+		"genre": "PROGRESSIVE METAL",
+		"version": -1
 	},
 	"801": {
 		"artist": "TaQ",
@@ -12213,6 +12248,11 @@
 		"artist": "N.M.R",
 		"genre": "EURO GROOVE",
 		"version": 8
+	},
+	"81": {
+		"artist": "DJ TOTTO",
+		"genre": "空想ファンタジーシリーズ",
+		"version": -1
 	},
 	"810": {
 		"artist": "dj TAKA(remixed by 横田商会)",
@@ -12264,6 +12304,11 @@
 		"genre": "PSYCHEDELIC TECHNO",
 		"version": 8
 	},
+	"82": {
+		"artist": "PON",
+		"genre": "EDGE",
+		"version": -1
+	},
 	"820": {
 		"artist": "Yu Takami feat. Shihori Nakane",
 		"genre": "GIRL ROCK",
@@ -12308,6 +12353,11 @@
 		"artist": "TAKA",
 		"genre": "BEATROCK",
 		"version": 8
+	},
+	"83": {
+		"artist": "ギラギラメガネ団",
+		"genre": "ネガメロック",
+		"version": -1
 	},
 	"830": {
 		"artist": "Y&Co.",
