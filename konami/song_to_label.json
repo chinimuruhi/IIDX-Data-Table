@@ -1,4 +1,8 @@
 {
+	"-1": {
+		"in_leggendaria": false,
+		"label": 43
+	},
 	"3": {
 		"in_leggendaria": false,
 		"label": 0
@@ -110,6 +114,42 @@
 	"73": {
 		"in_leggendaria": false,
 		"label": 42
+	},
+	"74": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"76": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"77": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"78": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"79": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"80": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"81": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"82": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"83": {
+		"in_leggendaria": false,
+		"label": 43
 	},
 	"101": {
 		"in_leggendaria": false,
@@ -1832,7 +1872,7 @@
 		"label": 0
 	},
 	"1628": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 2
 	},
 	"1631": {
@@ -2004,7 +2044,7 @@
 		"label": 0
 	},
 	"1730": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 0
 	},
 	"1732": {
@@ -2508,7 +2548,7 @@
 		"label": 3
 	},
 	"1925": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 4
 	},
 	"1926": {
@@ -2828,7 +2868,7 @@
 		"label": 7
 	},
 	"2037": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 6
 	},
 	"2038": {
@@ -3284,7 +3324,7 @@
 		"label": 8
 	},
 	"2174": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 8
 	},
 	"2175": {
@@ -4152,7 +4192,7 @@
 		"label": 15
 	},
 	"2442": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 14
 	},
 	"2444": {
@@ -4984,7 +5024,7 @@
 		"label": 22
 	},
 	"2694": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 25
 	},
 	"2696": {
@@ -5659,6 +5699,10 @@
 		"in_leggendaria": false,
 		"label": 34
 	},
+	"2904": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"2905": {
 		"in_leggendaria": false,
 		"label": 33
@@ -6235,6 +6279,10 @@
 		"in_leggendaria": false,
 		"label": 36
 	},
+	"3087": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"3089": {
 		"in_leggendaria": false,
 		"label": 39
@@ -6316,7 +6364,7 @@
 		"label": 40
 	},
 	"3118": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 42
 	},
 	"3119": {
@@ -6752,7 +6800,7 @@
 		"label": 0
 	},
 	"4048": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 27
 	},
 	"4049": {

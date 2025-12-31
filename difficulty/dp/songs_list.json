@@ -4297,6 +4297,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 1515,
+		"snj_id": "15012-5-0",
+		"value": 9.0
+	},
+	{
+		"difficulty": "A",
+		"id": 1515,
+		"snj_id": "15012-7-0",
+		"value": 11.0
+	},
+	{
+		"difficulty": "H",
 		"id": 1516,
 		"snj_id": "15013-5-0",
 		"value": 10.7
@@ -11457,7 +11469,7 @@
 		"difficulty": "L",
 		"id": 2360,
 		"snj_id": "23059-9-0",
-		"value": 12.0
+		"value": 12.4
 	},
 	{
 		"difficulty": "H",
@@ -17040,6 +17052,12 @@
 		"value": 10.0
 	},
 	{
+		"difficulty": "L",
+		"id": 2843,
+		"snj_id": "28034-9-0",
+		"value": 11.0
+	},
+	{
 		"difficulty": "H",
 		"id": 2815,
 		"snj_id": "28035-5-0",
@@ -18298,6 +18316,12 @@
 		"id": 2958,
 		"snj_id": "29059-7-0",
 		"value": 11.0
+	},
+	{
+		"difficulty": "L",
+		"id": 2958,
+		"snj_id": "29059-9-0",
+		"value": 12.0
 	},
 	{
 		"difficulty": "H",
@@ -21087,7 +21111,7 @@
 		"difficulty": "L",
 		"id": 3202,
 		"snj_id": "32002-9-0",
-		"value": 11.0
+		"value": 11.4
 	},
 	{
 		"difficulty": "H",
@@ -21597,7 +21621,7 @@
 		"difficulty": "L",
 		"id": 3284,
 		"snj_id": "32089-9-0",
-		"value": 12.0
+		"value": 12.1
 	},
 	{
 		"difficulty": "H",
@@ -22011,7 +22035,7 @@
 		"difficulty": "L",
 		"id": 3237,
 		"snj_id": "32037-9-0",
-		"value": 11.0
+		"value": 11.8
 	},
 	{
 		"difficulty": "H",

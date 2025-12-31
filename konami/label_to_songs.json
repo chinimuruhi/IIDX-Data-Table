@@ -306,7 +306,7 @@
 		},
 		{
 			"id": 1730,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 1732,
@@ -2098,7 +2098,7 @@
 		},
 		{
 			"id": 1628,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 1631,
@@ -2885,11 +2885,19 @@
 			"in_leggendaria": false
 		},
 		{
+			"id": 2904,
+			"in_leggendaria": false
+		},
+		{
 			"id": 2926,
 			"in_leggendaria": false
 		},
 		{
 			"id": 2985,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3087,
 			"in_leggendaria": false
 		},
 		{
@@ -3054,7 +3062,7 @@
 		},
 		{
 			"id": 1925,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 1926,
@@ -3334,7 +3342,7 @@
 		},
 		{
 			"id": 2037,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 4019,
@@ -3554,7 +3562,7 @@
 		},
 		{
 			"id": 2174,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 2119,
@@ -4222,7 +4230,7 @@
 	"14": [
 		{
 			"id": 2442,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 2401,
@@ -5164,7 +5172,7 @@
 		},
 		{
 			"id": 2694,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 2639,
@@ -5336,7 +5344,7 @@
 		},
 		{
 			"id": 4048,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 2866,
@@ -6918,7 +6926,7 @@
 		},
 		{
 			"id": 3118,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 3158,
@@ -7022,6 +7030,48 @@
 		},
 		{
 			"id": 73,
+			"in_leggendaria": false
+		}
+	],
+	"43": [
+		{
+			"id": 74,
+			"in_leggendaria": false
+		},
+		{
+			"id": -1,
+			"in_leggendaria": false
+		},
+		{
+			"id": 76,
+			"in_leggendaria": false
+		},
+		{
+			"id": 77,
+			"in_leggendaria": false
+		},
+		{
+			"id": 78,
+			"in_leggendaria": false
+		},
+		{
+			"id": 79,
+			"in_leggendaria": false
+		},
+		{
+			"id": 80,
+			"in_leggendaria": false
+		},
+		{
+			"id": 81,
+			"in_leggendaria": false
+		},
+		{
+			"id": 82,
+			"in_leggendaria": false
+		},
+		{
+			"id": 83,
 			"in_leggendaria": false
 		}
 	]
