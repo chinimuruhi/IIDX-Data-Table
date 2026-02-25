@@ -1,0 +1,16 @@
+2026-02-25 03:35:29,630 weekly:114 _init_titletbl [INFO]: Success in loading actbl.
+2026-02-25 03:35:29,631 weekly:262 _init_titletbl [INFO]: Titletbl was not modified.
+2026-02-25 03:35:30,335 weekly:312 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-02-25 03:35:30,816 weekly:354 _fetch_datatbl [INFO]: Success in loading datatbl.
+2026-02-25 03:35:33,570 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-02-25 03:35:33,603 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2026-02-25 03:35:33,655 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-02-25 03:35:33,800 weekly:53 update [INFO]: bpi was not modified.
+2026-02-25 03:35:34,055 weekly:54 update [INFO]: notes_radar was not modified.
+2026-02-25 03:35:35,070 weekly:418 get_song_id [ERROR]: DestinyLovers(DestinyLovers) is not found.
+2026-02-25 03:35:35,070 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Destiny Lovers
+2026-02-25 03:35:35,103 weekly:76 update [INFO]: Success in loading konami.
+2026-02-25 03:35:36,343 weekly:122 update [INFO]: Success in loading cpi.
+2026-02-25 03:35:36,932 weekly:418 get_song_id [ERROR]: Recorrection(Recorrection) is not found.
+2026-02-25 03:35:36,932 weekly:78 _html_to_json [ERROR]: [dp]:Recorrection
+2026-02-25 03:35:36,949 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
