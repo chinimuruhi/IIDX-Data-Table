@@ -10324,6 +10324,36 @@
 		"genre": "ガールズティーパーティー",
 		"version": 33
 	},
+	"3371": {
+		"artist": "ネオン(CV:藤川茜)、芽兎めう(CV:五十嵐裕美)",
+		"genre": "PROJECT ZIRCON",
+		"version": 33
+	},
+	"3372": {
+		"artist": "MK&Kanae Asaba",
+		"genre": "HYBRID JERSEY CLUB",
+		"version": 33
+	},
+	"3373": {
+		"artist": "TAN1CHU",
+		"genre": "EMOTIONAL FUTURE RIDDIM",
+		"version": 33
+	},
+	"3374": {
+		"artist": "葛城ユイ feat. Command (Eurobeat Union)",
+		"genre": "EUROBEAT",
+		"version": 33
+	},
+	"3375": {
+		"artist": "Zekk",
+		"genre": "SUPER ULTRA MIRACLE HAPPY HARDCORE",
+		"version": 33
+	},
+	"3376": {
+		"artist": "BlackY",
+		"genre": "PIANO DANCE APPASSIONTO",
+		"version": 33
+	},
 	"34": {
 		"artist": "nite system",
 		"genre": "HOUSE",
@@ -11702,7 +11732,7 @@
 	"59": {
 		"artist": "豚乙女",
 		"genre": "ROCK",
-		"version": -1
+		"version": 33
 	},
 	"6": {
 		"artist": "m-flo",
