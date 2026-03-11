@@ -1,0 +1,26 @@
+2026-03-11 03:25:47,997 weekly:114 _init_titletbl [INFO]: Success in loading actbl.
+2026-03-11 03:25:47,997 weekly:262 _init_titletbl [INFO]: Titletbl was not modified.
+2026-03-11 03:25:48,903 weekly:312 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-03-11 03:25:49,267 weekly:354 _fetch_datatbl [INFO]: Success in loading datatbl.
+2026-03-11 03:25:51,968 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-03-11 03:25:52,009 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-03-11 03:25:52,013 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2026-03-11 03:25:52,189 weekly:53 update [INFO]: bpi was not modified.
+2026-03-11 03:25:52,454 weekly:54 update [INFO]: notes_radar was not modified.
+2026-03-11 03:25:53,720 weekly:122 update [INFO]: Success in loading cpi.
+2026-03-11 03:25:53,977 weekly:418 get_song_id [ERROR]: CARNIVOROUS(CARNIVOROUS) is not found.
+2026-03-11 03:25:53,978 weekly:164 _table_to_music_id_list [ERROR]: [konami]:CARNIVOROUS
+2026-03-11 03:25:53,978 weekly:418 get_song_id [ERROR]: Chronoxia(Chronoxia) is not found.
+2026-03-11 03:25:53,978 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Chronoxia
+2026-03-11 03:25:53,978 weekly:418 get_song_id [ERROR]: IWantToDoThisKeep(IWantToDoThisKeep) is not found.
+2026-03-11 03:25:53,978 weekly:164 _table_to_music_id_list [ERROR]: [konami]:I Want To Do This Keep
+2026-03-11 03:25:53,978 weekly:418 get_song_id [ERROR]: PaleGarden(PaleGarden) is not found.
+2026-03-11 03:25:53,978 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Pale Garden
+2026-03-11 03:25:53,978 weekly:418 get_song_id [ERROR]: ポチコの幸せな日常(\u30dd\u30c1\u30b3\u306e\u5e78\u305b\u306a\u65e5\u5e38) is not found.
+2026-03-11 03:25:53,978 weekly:164 _table_to_music_id_list [ERROR]: [konami]:ポチコの幸せな日常
+2026-03-11 03:25:53,979 weekly:418 get_song_id [ERROR]: DestinyLovers(DestinyLovers) is not found.
+2026-03-11 03:25:53,979 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Destiny Lovers
+2026-03-11 03:25:54,013 weekly:76 update [INFO]: Success in loading konami.
+2026-03-11 03:25:54,780 weekly:418 get_song_id [ERROR]: Recorrection(Recorrection) is not found.
+2026-03-11 03:25:54,780 weekly:78 _html_to_json [ERROR]: [dp]:Recorrection
+2026-03-11 03:25:54,800 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.

@@ -22633,6 +22633,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3377,
+		"snj_id": "33077-5-0",
+		"value": 10.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3377,
+		"snj_id": "33077-7-0",
+		"value": 12.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3353,
 		"snj_id": "33053-5-0",
 		"value": 8.0
