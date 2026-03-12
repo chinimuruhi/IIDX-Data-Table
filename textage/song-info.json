@@ -12509,6 +12509,11 @@
 		"genre": "JAZZ FUNK",
 		"version": 8
 	},
+	"84": {
+		"artist": "SOUND HOLIC feat. Nana Takahashi",
+		"genre": "",
+		"version": -1
+	},
 	"840": {
 		"artist": "Aya",
 		"genre": "NU-FUSION",
@@ -12559,6 +12564,11 @@
 		"genre": "POPS",
 		"version": 8
 	},
+	"85": {
+		"artist": "DJ Totoriott",
+		"genre": "",
+		"version": -1
+	},
 	"850": {
 		"artist": "Mr.T",
 		"genre": "ELECTROSHOCK",
@@ -12588,6 +12598,21 @@
 		"artist": "L.E.D. LIGHT",
 		"genre": "GOA TRANCE",
 		"version": 8
+	},
+	"86": {
+		"artist": "KOTONOHOUSE",
+		"genre": "",
+		"version": -1
+	},
+	"87": {
+		"artist": "Dirty Androids",
+		"genre": "",
+		"version": -1
+	},
+	"88": {
+		"artist": "NU-KO",
+		"genre": "",
+		"version": -1
 	},
 	"9": {
 		"artist": "QUADRA",
