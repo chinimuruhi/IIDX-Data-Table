@@ -10359,6 +10359,26 @@
 		"genre": "HARD MIXTURE",
 		"version": 33
 	},
+	"3378": {
+		"artist": "OSTER project",
+		"genre": "BOLLYWOOD CORE",
+		"version": 33
+	},
+	"3379": {
+		"artist": "cosMo@暴走P & L.E.D.-G",
+		"genre": "Hi-ROM COM",
+		"version": 33
+	},
+	"3380": {
+		"artist": "Remixed by Pizuya's Cell",
+		"genre": "IIDX EDITION",
+		"version": 33
+	},
+	"3381": {
+		"artist": "ピノキオピー",
+		"genre": "ボカロ",
+		"version": 33
+	},
 	"34": {
 		"artist": "nite system",
 		"genre": "HOUSE",
@@ -11950,7 +11970,7 @@
 		"version": 6
 	},
 	"64": {
-		"artist": "cosMo＠暴走P",
+		"artist": "cosMo@暴走P",
 		"genre": "CHIPTUNE FUSION",
 		"version": -1
 	},
