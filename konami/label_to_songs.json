@@ -2893,6 +2893,10 @@
 			"in_leggendaria": false
 		},
 		{
+			"id": 2963,
+			"in_leggendaria": false
+		},
+		{
 			"id": 2904,
 			"in_leggendaria": false
 		},
@@ -2913,11 +2917,15 @@
 			"in_leggendaria": false
 		},
 		{
-			"id": 3087,
+			"id": 2986,
 			"in_leggendaria": false
 		},
 		{
-			"id": 2986,
+			"id": 1093,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3087,
 			"in_leggendaria": false
 		}
 	],
