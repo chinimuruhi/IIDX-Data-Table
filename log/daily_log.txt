@@ -1,5 +1,0 @@
-2026-04-21 16:09:25,752 daily:125 _init_titletbl [ERROR]: Failed to fetch actbl.
-2026-04-21 16:09:25,752 daily:265 _init_titletbl [ERROR]: Failed to fetch titletbl.
-2026-04-21 16:09:46,752 daily:315 _fetch_scrlist [ERROR]: Failed to fetch scrtbl.
-2026-04-21 16:09:46,753 daily:360 _fetch_datatbl [ERROR]: Failed to fetch datatbl.
-2026-04-21 16:09:47,065 daily:409 update [INFO]: No Change.
