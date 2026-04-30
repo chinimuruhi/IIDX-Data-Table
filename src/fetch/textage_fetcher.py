@@ -49,6 +49,7 @@ class textage_data:
         re.compile(r'//.*?\n'),
     ]
     _REPLACE_TITLETBL = [
+        [re.compile(r'/\*.*?\*/'), ''],
         [re.compile(r':\[SS,'), ':[-1,'],
         [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]'],
     ]
