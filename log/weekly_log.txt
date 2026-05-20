@@ -1,0 +1,18 @@
+2026-05-20 05:05:18,049 weekly:126 _init_titletbl [ERROR]: Failed to fetch actbl.
+2026-05-20 05:05:18,049 weekly:266 _init_titletbl [ERROR]: Failed to fetch titletbl.
+2026-05-20 05:05:39,049 weekly:316 _fetch_scrlist [ERROR]: Failed to fetch scrtbl.
+2026-05-20 05:05:39,050 weekly:361 _fetch_datatbl [ERROR]: Failed to fetch datatbl.
+2026-05-20 05:05:39,339 weekly:410 update [INFO]: No Change.
+2026-05-20 05:05:41,898 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-05-20 05:05:41,927 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2026-05-20 05:05:41,932 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-05-20 05:05:41,939 weekly:180 _is_latest [ERROR]: Failed to fetch bpi
+2026-05-20 05:05:42,003 weekly:153 update [ERROR]: Failed to fetch bpi.
+2026-05-20 05:05:42,399 weekly:54 update [INFO]: notes_radar was not modified.
+2026-05-20 05:05:43,514 weekly:122 update [INFO]: Success in loading cpi.
+2026-05-20 05:05:43,725 weekly:419 get_song_id [ERROR]: DestinyLovers(DestinyLovers) is not found.
+2026-05-20 05:05:43,725 weekly:164 _table_to_music_id_list [ERROR]: [konami]:Destiny Lovers
+2026-05-20 05:05:43,749 weekly:419 get_song_id [ERROR]: onlyfornow(onlyfornow) is not found.
+2026-05-20 05:05:43,749 weekly:164 _table_to_music_id_list [ERROR]: [konami]:only for now
+2026-05-20 05:05:43,755 weekly:76 update [INFO]: Success in loading konami.
+2026-05-20 05:05:45,065 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
