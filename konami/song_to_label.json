@@ -6131,6 +6131,10 @@
 		"in_leggendaria": false,
 		"label": 39
 	},
+	"3019": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"3020": {
 		"in_leggendaria": false,
 		"label": 39
@@ -6352,6 +6356,10 @@
 		"label": 36
 	},
 	"3087": {
+		"in_leggendaria": false,
+		"label": 2
+	},
+	"3088": {
 		"in_leggendaria": false,
 		"label": 2
 	},
@@ -6591,6 +6599,10 @@
 		"in_leggendaria": false,
 		"label": 42
 	},
+	"3167": {
+		"in_leggendaria": false,
+		"label": 45
+	},
 	"3170": {
 		"in_leggendaria": false,
 		"label": 40
@@ -6786,6 +6798,10 @@
 	"3256": {
 		"in_leggendaria": false,
 		"label": 44
+	},
+	"3264": {
+		"in_leggendaria": false,
+		"label": 45
 	},
 	"3268": {
 		"in_leggendaria": false,

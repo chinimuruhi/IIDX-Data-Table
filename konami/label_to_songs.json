@@ -2929,11 +2929,19 @@
 			"in_leggendaria": false
 		},
 		{
+			"id": 3019,
+			"in_leggendaria": false
+		},
+		{
 			"id": 1093,
 			"in_leggendaria": false
 		},
 		{
 			"id": 3087,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3088,
 			"in_leggendaria": false
 		}
 	],
@@ -7067,12 +7075,12 @@
 	],
 	"43": [
 		{
-			"id": 74,
-			"in_leggendaria": false
-		},
-		{
 			"id": -1,
 			"in_leggendaria": true
+		},
+		{
+			"id": 74,
+			"in_leggendaria": false
 		},
 		{
 			"id": 76,
@@ -7306,6 +7314,16 @@
 		},
 		{
 			"id": 88,
+			"in_leggendaria": false
+		}
+	],
+	"45": [
+		{
+			"id": 3167,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3264,
 			"in_leggendaria": false
 		}
 	]
