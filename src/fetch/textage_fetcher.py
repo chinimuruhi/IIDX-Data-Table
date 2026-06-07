@@ -127,6 +127,8 @@ class textage_data:
             # その他の場合
             actblRaw = None
             self._logging.error('Failed to fetch actbl.')
+            self._logging.error(actbl_res.status_code)
+            self._logging.error(actbl_res.text)
 
         # titletblのフェッチ結果に応じて登録処理を分ける
         if titletbl_res.status_code == 200:
