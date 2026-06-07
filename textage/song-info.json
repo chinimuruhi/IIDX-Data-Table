@@ -194,6 +194,16 @@
 		"genre": "MEDIUM WAVE",
 		"version": 10
 	},
+	"103098": {
+		"artist": "The 4th feat.TORIENA",
+		"genre": "HYPER CANDY RAVE",
+		"version": 33
+	},
+	"103099": {
+		"artist": "kors k Remixed by 青龍",
+		"genre": "HYPER DANCE SPEED",
+		"version": 33
+	},
 	"1031": {
 		"artist": "SLAKE",
 		"genre": "TECHNO",
@@ -8889,6 +8899,11 @@
 		"genre": "DRUM'N'BASS",
 		"version": 3
 	},
+	"3100": {
+		"artist": "Ryu☆ Remixed by Mamonis",
+		"genre": "HYPER BUCHIAGE TRANCE",
+		"version": 33
+	},
 	"3101": {
 		"artist": "COR!S",
 		"genre": "CYBER BREAKCORE",
@@ -12724,10 +12739,20 @@
 		"genre": "わんわんコア",
 		"version": -1
 	},
+	"89": {
+		"artist": "kors k",
+		"genre": "チッピンレイヴ",
+		"version": -1
+	},
 	"9": {
 		"artist": "QUADRA",
 		"genre": "AMBIENT",
 		"version": 0
+	},
+	"90": {
+		"artist": "kors k",
+		"genre": "TRANCECORE",
+		"version": -1
 	},
 	"901": {
 		"artist": "dj TAKA Remixed by Ryu☆",
@@ -12773,6 +12798,11 @@
 		"artist": "SPARKER",
 		"genre": "ROCOCO TEK",
 		"version": 9
+	},
+	"91": {
+		"artist": "kors k Lovers DJ Yoshitaka",
+		"genre": "ELECTRO POP",
+		"version": -1
 	},
 	"910": {
 		"artist": "Db.saka feat. Piasa",
@@ -12824,6 +12854,11 @@
 		"genre": "POPS",
 		"version": 9
 	},
+	"92": {
+		"artist": "kors k feat.吉河順央",
+		"genre": "BEAT ROCK",
+		"version": -1
+	},
 	"920": {
 		"artist": "NAOKI feat.PAULA TERRY",
 		"genre": "EUROBEAT",
@@ -12874,6 +12909,11 @@
 		"genre": "FORKTRONICA",
 		"version": 9
 	},
+	"93": {
+		"artist": "Another Infinity feat. Mayumi Morinaga",
+		"genre": "MIRACLE DANCE POP",
+		"version": -1
+	},
 	"930": {
 		"artist": "小坂りゆ",
 		"genre": "J-HAPPY HARDCORE",
@@ -12918,6 +12958,11 @@
 		"artist": "PINK PONG",
 		"genre": "TRANCE",
 		"version": 9
+	},
+	"94": {
+		"artist": "tūmahaB",
+		"genre": "TRANCE CORE",
+		"version": -1
 	},
 	"940": {
 		"artist": "NAOKI underground",
@@ -12969,6 +13014,11 @@
 		"genre": "TRANCE",
 		"version": 9
 	},
+	"95": {
+		"artist": "Ryu☆",
+		"genre": "HAPPY HARDCORE",
+		"version": -1
+	},
 	"950": {
 		"artist": "jun",
 		"genre": "HAPPY HARDCORE",
@@ -13018,6 +13068,11 @@
 		"artist": "dj nagureo Remixed by Mr.T",
 		"genre": "EPIC HOUSE",
 		"version": 9
+	},
+	"96": {
+		"artist": "Ryu☆ feat.青龍",
+		"genre": "DANCE SPEED",
+		"version": -1
 	},
 	"960": {
 		"artist": "SADA",
