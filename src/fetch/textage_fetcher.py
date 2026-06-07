@@ -60,7 +60,10 @@ class textage_data:
         [re.compile(r'D'), '13'],
         [re.compile(r'E'), '14'],
         [re.compile(r'F'), '15'],
-        [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
+        [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]'],
+        # 不正な配列の一時対応
+        [re.compile(r'"inyreyes":\[,'), '"inyreyes":[2,'],
+        [re.compile(r'"its_mrcl":\[,'), '"its_mrcl":[2,']
     ]
     _REPLACE_OTHERTBL = [
         [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
