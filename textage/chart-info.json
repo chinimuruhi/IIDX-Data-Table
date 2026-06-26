@@ -32903,7 +32903,7 @@
 	"2193": {
 		"bpm": 192,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -32940,7 +32940,7 @@
 	"2194": {
 		"bpm": 160,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -32977,7 +32977,7 @@
 	"2195": {
 		"bpm": 170,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -33014,7 +33014,7 @@
 	"2196": {
 		"bpm": 140,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -33051,7 +33051,7 @@
 	"2197": {
 		"bpm": 205,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -33088,7 +33088,7 @@
 	"2198": {
 		"bpm": 165,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -33125,7 +33125,7 @@
 	"2199": {
 		"bpm": 154,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -47662,7 +47662,7 @@
 		"level": {
 			"dp": [
 				0,
-				7,
+				6,
 				10,
 				12,
 				0
@@ -47726,7 +47726,7 @@
 			"sp": [
 				0,
 				0,
-				0,
+				1120,
 				1823,
 				0
 			]
@@ -47803,7 +47803,7 @@
 			"sp": [
 				0,
 				0,
-				0,
+				761,
 				1126,
 				0
 			]
@@ -69526,7 +69526,7 @@
 			160
 		],
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -73515,7 +73515,7 @@
 			280
 		],
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77008,7 +77008,7 @@
 	"3350": {
 		"bpm": 170,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77045,7 +77045,7 @@
 	"3351": {
 		"bpm": 168,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77082,7 +77082,7 @@
 	"3352": {
 		"bpm": 128,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77119,7 +77119,7 @@
 	"3353": {
 		"bpm": 152,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77156,7 +77156,7 @@
 	"3354": {
 		"bpm": 200,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77193,7 +77193,7 @@
 	"3355": {
 		"bpm": 177,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77230,7 +77230,7 @@
 	"3356": {
 		"bpm": 165,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -77267,7 +77267,7 @@
 	"3357": {
 		"bpm": 178,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
@@ -88936,7 +88936,7 @@
 	"59": {
 		"bpm": 206,
 		"in_ac": true,
-		"in_inf": false,
+		"in_inf": true,
 		"level": {
 			"dp": [
 				0,
