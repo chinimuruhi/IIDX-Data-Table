@@ -2572,7 +2572,7 @@
 		"label": 3
 	},
 	"1915": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 3
 	},
 	"1916": {
@@ -3200,7 +3200,7 @@
 		"label": 9
 	},
 	"2119": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 8
 	},
 	"2120": {
@@ -3422,6 +3422,34 @@
 	"2187": {
 		"in_leggendaria": false,
 		"label": 9
+	},
+	"2193": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"2194": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"2195": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"2196": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"2197": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"2198": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"2199": {
+		"in_leggendaria": false,
+		"label": 46
 	},
 	"2201": {
 		"in_leggendaria": false,
@@ -4696,7 +4724,7 @@
 		"label": 2
 	},
 	"2576": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 2
 	},
 	"2577": {
@@ -6491,6 +6519,10 @@
 		"in_leggendaria": false,
 		"label": 40
 	},
+	"3121": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"3122": {
 		"in_leggendaria": false,
 		"label": 40
@@ -6691,6 +6723,10 @@
 		"in_leggendaria": false,
 		"label": 42
 	},
+	"3190": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"3191": {
 		"in_leggendaria": false,
 		"label": 40
@@ -6859,6 +6895,38 @@
 		"in_leggendaria": false,
 		"label": 0
 	},
+	"3350": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3351": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3352": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3353": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3354": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3355": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3356": {
+		"in_leggendaria": false,
+		"label": 46
+	},
+	"3357": {
+		"in_leggendaria": false,
+		"label": 46
+	},
 	"3910": {
 		"in_leggendaria": false,
 		"label": 12
@@ -6896,7 +6964,7 @@
 		"label": 20
 	},
 	"3950": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 11
 	},
 	"3957": {
