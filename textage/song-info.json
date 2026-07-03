@@ -10514,6 +10514,26 @@
 		"genre": "SYMPHONIC HARD TECHNO",
 		"version": 33
 	},
+	"3393": {
+		"artist": "TORIENA",
+		"genre": "HAPPY HARDCORE",
+		"version": 33
+	},
+	"3394": {
+		"artist": "RoughSketch",
+		"genre": "HARDCORE",
+		"version": 33
+	},
+	"3395": {
+		"artist": "Maozon",
+		"genre": "CYBER LIQUID FUNK",
+		"version": 33
+	},
+	"3396": {
+		"artist": "lapix",
+		"genre": "AQUA FRONTIER",
+		"version": 33
+	},
 	"34": {
 		"artist": "nite system",
 		"genre": "HOUSE",
@@ -11332,7 +11352,7 @@
 	"4072": {
 		"artist": "HHH",
 		"genre": "HEAT UP",
-		"version": -1
+		"version": 33
 	},
 	"4073": {
 		"artist": "kors k",
