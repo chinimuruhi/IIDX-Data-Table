@@ -7879,10 +7879,20 @@
 		"genre": "HAPPY BISTRO CORE",
 		"version": 28
 	},
+	"2899": {
+		"artist": "ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫!",
+		"genre": "アニメ",
+		"version": 33
+	},
 	"29": {
 		"artist": "tigerYAMATO",
 		"genre": "EURO BEAT",
 		"version": 0
+	},
+	"2900": {
+		"artist": "ryo (supercell)",
+		"genre": "アニメ／ボーカロイド／J-POP",
+		"version": 33
 	},
 	"2901": {
 		"artist": "xi",
@@ -10526,7 +10536,7 @@
 	},
 	"3395": {
 		"artist": "Maozon",
-		"genre": "CYBER LIQUID FUNK",
+		"genre": "CYBER LIQUIDFUNK",
 		"version": 33
 	},
 	"3396": {
