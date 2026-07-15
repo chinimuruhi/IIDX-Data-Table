@@ -13044,6 +13044,12 @@
 		"value": 9.3
 	},
 	{
+		"difficulty": "L",
+		"id": 2505,
+		"snj_id": "25005-9-0",
+		"value": 11.0
+	},
+	{
 		"difficulty": "H",
 		"id": 2506,
 		"snj_id": "25006-5-0",
@@ -14824,6 +14830,12 @@
 		"id": 2631,
 		"snj_id": "26031-7-0",
 		"value": 11.8
+	},
+	{
+		"difficulty": "L",
+		"id": 2631,
+		"snj_id": "26031-9-0",
+		"value": 12.0
 	},
 	{
 		"difficulty": "H",
