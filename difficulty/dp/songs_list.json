@@ -20946,6 +20946,12 @@
 		"value": 10.7
 	},
 	{
+		"difficulty": "L",
+		"id": 3133,
+		"snj_id": "31035-9-0",
+		"value": 12.0
+	},
+	{
 		"difficulty": "H",
 		"id": 3177,
 		"snj_id": "31079-5-0",
@@ -22024,6 +22030,12 @@
 		"id": 3231,
 		"snj_id": "32031-7-0",
 		"value": 9.0
+	},
+	{
+		"difficulty": "L",
+		"id": 3231,
+		"snj_id": "32031-9-0",
+		"value": 11.0
 	},
 	{
 		"difficulty": "H",
@@ -23488,6 +23500,12 @@
 		"id": 3327,
 		"snj_id": "33027-7-0",
 		"value": 9.6
+	},
+	{
+		"difficulty": "L",
+		"id": 3327,
+		"snj_id": "33027-9-0",
+		"value": 12.0
 	},
 	{
 		"difficulty": "H",
