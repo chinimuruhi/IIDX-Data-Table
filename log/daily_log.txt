@@ -1,0 +1,7 @@
+2026-08-05 16:40:14,511 daily:129 _init_titletbl [ERROR]: Failed to fetch actbl.
+2026-08-05 16:40:14,511 daily:130 _init_titletbl [ERROR]: 500
+2026-08-05 16:40:14,511 daily:131 _init_titletbl [ERROR]: 
+2026-08-05 16:40:14,511 daily:271 _init_titletbl [ERROR]: Failed to fetch titletbl.
+2026-08-05 16:40:35,518 daily:321 _fetch_scrlist [ERROR]: Failed to fetch scrtbl.
+2026-08-05 16:40:35,519 daily:366 _fetch_datatbl [ERROR]: Failed to fetch datatbl.
+2026-08-05 16:40:35,785 daily:415 update [INFO]: No Change.
