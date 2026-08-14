@@ -1,8 +1,4 @@
 {
-	"-1": {
-		"in_leggendaria": true,
-		"label": 43
-	},
 	"3": {
 		"in_leggendaria": false,
 		"label": 0
@@ -116,6 +112,10 @@
 		"label": 42
 	},
 	"74": {
+		"in_leggendaria": false,
+		"label": 43
+	},
+	"75": {
 		"in_leggendaria": false,
 		"label": 43
 	},
@@ -4564,7 +4564,7 @@
 		"label": 20
 	},
 	"2530": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 20
 	},
 	"2531": {
