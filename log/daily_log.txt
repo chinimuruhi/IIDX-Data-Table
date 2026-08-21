@@ -1,7 +1,4 @@
-2026-08-20 15:31:04,325 daily:129 _init_titletbl [ERROR]: Failed to fetch actbl.
-2026-08-20 15:31:04,325 daily:130 _init_titletbl [ERROR]: 500
-2026-08-20 15:31:04,325 daily:131 _init_titletbl [ERROR]: 
-2026-08-20 15:31:04,325 daily:271 _init_titletbl [ERROR]: Failed to fetch titletbl.
-2026-08-20 15:31:25,323 daily:321 _fetch_scrlist [ERROR]: Failed to fetch scrtbl.
-2026-08-20 15:31:25,325 daily:366 _fetch_datatbl [ERROR]: Failed to fetch datatbl.
-2026-08-20 15:31:25,593 daily:415 update [INFO]: No Change.
+2026-08-21 15:29:57,313 daily:118 _init_titletbl [INFO]: Success in loading actbl.
+2026-08-21 15:29:57,313 daily:268 _init_titletbl [INFO]: Titletbl was not modified.
+2026-08-21 15:29:58,153 daily:318 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-08-21 15:29:58,404 daily:360 _fetch_datatbl [INFO]: Success in loading datatbl.
