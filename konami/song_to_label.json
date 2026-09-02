@@ -5515,6 +5515,10 @@
 		"in_leggendaria": false,
 		"label": 30
 	},
+	"2815": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"2816": {
 		"in_leggendaria": false,
 		"label": 32
@@ -6542,6 +6546,10 @@
 	"3122": {
 		"in_leggendaria": false,
 		"label": 40
+	},
+	"3123": {
+		"in_leggendaria": false,
+		"label": 2
 	},
 	"3124": {
 		"in_leggendaria": false,
