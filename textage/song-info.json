@@ -219,6 +219,11 @@
 		"genre": "BLUE CORE",
 		"version": 33
 	},
+	"103386": {
+		"artist": "BEMANI Sound Team \"HuΣeR\" feat.ゆきまめ",
+		"genre": "幻想音樂",
+		"version": 33
+	},
 	"1034": {
 		"artist": "RAM",
 		"genre": "RAVE",
@@ -7897,7 +7902,7 @@
 	"2899": {
 		"artist": "ryo (supercell) / かぐや(cv.夏吉ゆうこ) & 月見ヤチヨ(cv.早見沙織) from 超かぐや姫!",
 		"genre": "アニメ",
-		"version": 33
+		"version": 34
 	},
 	"29": {
 		"artist": "tigerYAMATO",
@@ -7907,7 +7912,7 @@
 	"2900": {
 		"artist": "ryo (supercell)",
 		"genre": "アニメ／ボーカロイド／J-POP",
-		"version": 33
+		"version": 34
 	},
 	"2901": {
 		"artist": "xi",
@@ -10582,12 +10587,172 @@
 	"3401": {
 		"artist": "めめめ",
 		"genre": "HARD DANCE",
-		"version": 33
+		"version": 34
 	},
 	"3402": {
 		"artist": "Yuta Imai",
 		"genre": "EUPHORIC HARDSTYLE",
-		"version": 33
+		"version": 34
+	},
+	"3403": {
+		"artist": "BlackY",
+		"genre": "ENERGETIC JAPANESQUE",
+		"version": 34
+	},
+	"3404": {
+		"artist": "REMO-CON",
+		"genre": "HYPERTRANCE",
+		"version": 34
+	},
+	"3405": {
+		"artist": "Hylen feat.DJ14 (SCRATCHING)",
+		"genre": "DJENTLE ZAAGBREAKSTEP",
+		"version": 34
+	},
+	"3406": {
+		"artist": "Zekk",
+		"genre": "BREAKCORE",
+		"version": 34
+	},
+	"3407": {
+		"artist": "EmoCosine",
+		"genre": "JERSEY FUTURE CORE",
+		"version": 34
+	},
+	"3408": {
+		"artist": "Sota Fujimori",
+		"genre": "TECH CORE",
+		"version": 34
+	},
+	"3409": {
+		"artist": "YUC'e",
+		"genre": "IVORY BASS",
+		"version": 34
+	},
+	"3410": {
+		"artist": "nora2r",
+		"genre": "HARDCORE",
+		"version": 34
+	},
+	"3411": {
+		"artist": "魂音泉",
+		"genre": "HIPHOP",
+		"version": 34
+	},
+	"3412": {
+		"artist": "影虎。",
+		"genre": "ORIENTAL HARDPSY",
+		"version": 34
+	},
+	"3413": {
+		"artist": "KARUT",
+		"genre": "HYBRID BREAKS",
+		"version": 34
+	},
+	"3414": {
+		"artist": "Taishi",
+		"genre": "TRANCE",
+		"version": 34
+	},
+	"3415": {
+		"artist": "Dubscribe",
+		"genre": "DUBSTEP",
+		"version": 34
+	},
+	"3416": {
+		"artist": "Xceon",
+		"genre": "HYPER ENKA POP",
+		"version": 34
+	},
+	"3417": {
+		"artist": "HuΣeR",
+		"genre": "STYLISH FUTURE",
+		"version": 34
+	},
+	"3418": {
+		"artist": "Nhato",
+		"genre": "TECH TRANCE",
+		"version": 34
+	},
+	"3419": {
+		"artist": "STEVIE(Trymatic)/Nana Takahashi Prod. by L.E.D.",
+		"genre": "DEATH TEKNO",
+		"version": 34
+	},
+	"3420": {
+		"artist": "Yvya",
+		"genre": "PROGRESSIVE METAL",
+		"version": 34
+	},
+	"3421": {
+		"artist": "RoughSkreamZ feat. Fra",
+		"genre": "DJENT/UK INDUSTRIAL/RAP",
+		"version": 34
+	},
+	"3422": {
+		"artist": "xi feat. Risa Yuzuki",
+		"genre": "JAPANESE PIANO ROCK",
+		"version": 34
+	},
+	"3423": {
+		"artist": "めと (Metomate)",
+		"genre": "EPHEMERAL ROCK",
+		"version": 34
+	},
+	"3424": {
+		"artist": "U1 overground",
+		"genre": "ORBITALIC MOON REQUIEM",
+		"version": 34
+	},
+	"3425": {
+		"artist": "satella",
+		"genre": "ORIENTAL",
+		"version": 34
+	},
+	"3426": {
+		"artist": "雨良 Amala",
+		"genre": "エレクトロ",
+		"version": 34
+	},
+	"3427": {
+		"artist": "irucaice feat. あやぽんず＊(森羅万象)",
+		"genre": "和風歌謡電子恋歌",
+		"version": 34
+	},
+	"3428": {
+		"artist": "ナユタン星人",
+		"genre": "ボカロ",
+		"version": 34
+	},
+	"3429": {
+		"artist": "デラむぅとのらつーあーる",
+		"genre": "ぽっぷむぅ～じっく",
+		"version": 34
+	},
+	"3430": {
+		"artist": "Remixed by L.E.D.-G feat.佐伯伊織",
+		"genre": "IIDX EDITION",
+		"version": 34
+	},
+	"3431": {
+		"artist": "HIMEHINA",
+		"genre": "J-POP",
+		"version": 34
+	},
+	"3432": {
+		"artist": "dj TAKA",
+		"genre": "TECHSPEED",
+		"version": 34
+	},
+	"3433": {
+		"artist": "DECO*27",
+		"genre": "J-POP・VOCALOID",
+		"version": 34
+	},
+	"3434": {
+		"artist": "劇団レコード feat.T4K",
+		"genre": "BATTLE SWORD",
+		"version": 34
 	},
 	"35": {
 		"artist": "SPIRITUAL RIDE",
