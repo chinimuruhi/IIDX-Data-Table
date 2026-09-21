@@ -68370,7 +68370,7 @@
 				0
 			],
 			"sp": [
-				0,
+				87,
 				0,
 				487,
 				800,
@@ -87591,7 +87591,7 @@
 				0
 			],
 			"sp": [
-				0,
+				179,
 				0,
 				778,
 				1128,
@@ -87930,7 +87930,7 @@
 			],
 			"sp": [
 				0,
-				0,
+				437,
 				789,
 				1243,
 				0
@@ -88313,7 +88313,7 @@
 				1737
 			],
 			"sp": [
-				0,
+				110,
 				469,
 				804,
 				1070,
@@ -88743,7 +88743,7 @@
 				0
 			],
 			"sp": [
-				0,
+				272,
 				602,
 				1062,
 				1896,
@@ -90733,7 +90733,7 @@
 				0
 			],
 			"sp": [
-				0,
+				134,
 				482,
 				752,
 				1292,
@@ -92222,7 +92222,7 @@
 				0
 			]
 		},
-		"normalized_title": "Shogun'sLastDawnfeat.KanaeAsaba",
+		"normalized_title": "Shogun'sLastDawnft.KanaeAsaba",
 		"notes": {
 			"dp": [
 				0,
@@ -92240,7 +92240,7 @@
 			]
 		},
 		"textage_tag": "shogunld",
-		"title": "Shogun's Last Dawn feat. Kanae Asaba",
+		"title": "Shogun's Last Dawn ft. Kanae Asaba",
 		"version": 34
 	},
 	"3417": {
@@ -92450,7 +92450,7 @@
 				0,
 				0,
 				0,
-				0,
+				1346,
 				0
 			]
 		},
@@ -92799,7 +92799,7 @@
 			]
 		},
 		"textage_tag": "_derakrt",
-		"title": "デラむぅのでらっくす☆かるた～NOTES・CHORD・PEAK編～",
+		"title": "デラむぅのでらっくす☆かるた　～NOTES・CHORD・PEAK編～",
 		"version": 34
 	},
 	"3430": {
@@ -92891,7 +92891,7 @@
 	"3432": {
 		"artist": "dj TAKA",
 		"bpm": 162,
-		"genre": "TECHSPEED",
+		"genre": "TECH SPEED",
 		"in_ac": true,
 		"in_inf": false,
 		"level": {
@@ -92923,7 +92923,7 @@
 				0,
 				0,
 				0,
-				0,
+				1547,
 				0
 			]
 		},
@@ -93029,16 +93029,16 @@
 		"level": {
 			"dp": [
 				0,
-				0,
-				0,
-				0,
+				5,
+				7,
+				10,
 				0
 			],
 			"sp": [
-				0,
-				0,
-				0,
-				0,
+				3,
+				5,
+				7,
+				10,
 				0
 			]
 		},
