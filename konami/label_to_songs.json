@@ -1006,7 +1006,7 @@
 		},
 		{
 			"id": 608,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 609,
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"id": 1806,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 1807,
@@ -3288,7 +3288,7 @@
 		},
 		{
 			"id": 2071,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 2083,
@@ -5724,7 +5724,7 @@
 		},
 		{
 			"id": 2754,
-			"in_leggendaria": false
+			"in_leggendaria": true
 		},
 		{
 			"id": 2750,

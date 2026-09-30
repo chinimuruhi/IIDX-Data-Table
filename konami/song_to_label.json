@@ -476,7 +476,7 @@
 		"label": 2
 	},
 	"608": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 2
 	},
 	"609": {
@@ -2284,7 +2284,7 @@
 		"label": 2
 	},
 	"1806": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 2
 	},
 	"1807": {
@@ -3064,7 +3064,7 @@
 		"label": 5
 	},
 	"2071": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 5
 	},
 	"2072": {
@@ -5304,7 +5304,7 @@
 		"label": 28
 	},
 	"2754": {
-		"in_leggendaria": false,
+		"in_leggendaria": true,
 		"label": 29
 	},
 	"2755": {
