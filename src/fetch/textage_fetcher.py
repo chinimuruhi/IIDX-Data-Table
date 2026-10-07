@@ -66,7 +66,8 @@ class textage_data:
         [re.compile(r'"its_mrcl":\[,'), '"its_mrcl":[2,']
     ]
     _REPLACE_OTHERTBL = [
-        [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]']
+        [re.compile(r"'(.*?)'(.*?):(.*?)\[(.*?)\]"), r'"\1":[\4]'],
+        [re.compile(r',(\s*[}\]])'), r'\1']
     ]
     _BPM_SPLIT = '～'
     _TITLE_REPLACE_LIST = [

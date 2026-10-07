@@ -1,3 +1,4 @@
+import sys
 from dotenv import load_dotenv
 import json
 import asyncio
@@ -14,6 +15,9 @@ from fetch.bpi_fetcher import bpi_data
 from fetch.notes_radar_fetcher import notes_radar_data
 from fetch.difficulty_dp_fetcher import difficulty_dp_data
 from fetch.ereter_fetcher import ereter_data
+
+# コンソール(cp932)で出力できない文字によるログ出力エラーを防ぐ
+sys.stdout.reconfigure(encoding='utf-8', errors='backslashreplace')
 
 async def main():
     # 検証環境の.envを読み込み

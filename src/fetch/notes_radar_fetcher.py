@@ -15,12 +15,27 @@ class notes_radar_data:
     }
     # データ取得先
     _URLS= {
-        'songs':'https://bm2dx.com/IIDX/notes_radar/notes_radar.json.gz'
+        'songs':'https://bm2dx.com/IIDX/notes_radar/notes_radar_data.json.gz'
     }
     # Skipする曲
     _SKIP_MID = [
         81502,
     ]
+
+    # 新形式のキーとモードの対応
+    _MODES = {
+        'radar_sp': 'SP',
+        'radar_dp': 'DP',
+    }
+    # 各行の値の列番号
+    _VALUE_TYPES = {
+        'NOTES': 4,
+        'CHORD': 5,
+        'PEAK': 6,
+        'CHARGE': 7,
+        'SCRATCH': 8,
+        'SOFLAN': 9,
+    }
 
     # コンストラクタ
     def __init__(self, logging):
@@ -37,9 +52,8 @@ class notes_radar_data:
         if res.status_code == 200:
             json_data = utility.load_from_gz(res.read())
             self._register_mid(json_data['mid'], textage_data)
-            for mode in json_data['notes_radar'].keys():
-                for value_type in json_data['notes_radar'][mode].keys():
-                    self._register_songlist(json_data['notes_radar'][mode][value_type], mode, value_type)
+            for key, mode in self._MODES.items():
+                self._register_songlist(json_data[key], mode)
         # ファイルへ保存
             await asyncio.gather(
                 utility.save_to_file(self._songs['SP'] , os.path.join(self._FILE_PATH, self._FILES['sp'])),
@@ -68,20 +82,20 @@ class notes_radar_data:
             self._mids[mid] = id
 
     # 曲情報の登録
-    def _register_songlist(self, raw_list, mode, value_type):
+    # 各行: [mid, 難易度, レベル, ノーツ数, NOTES, CHORD, PEAK, CHARGE, SCRATCH, SOFLAN]
+    def _register_songlist(self, raw_list, mode):
         if not mode in self._songs:
             self._songs[mode] = {}
         for song in raw_list:
-            mid = song['mid']
-            difficulty = song['difficult']
-            id = self._mids[mid]
-            str_id = str(id)
+            mid = song[0]
+            difficulty = song[1]
+            str_id = str(self._mids[mid])
             if not str_id in self._songs[mode]:
-                self._songs[mode][str_id] = {
-                    'notes': [0] * 5
-                }
-            if not value_type in self._songs[mode][str_id]:
-                self._songs[mode][str_id][value_type] = [0.0] * 5
-            self._songs[mode][str_id][value_type][difficulty] = song['value']
-            self._songs[mode][str_id]['notes'][difficulty] = song['note']
+                self._songs[mode][str_id] = {'notes': [0] * 5}
+                for value_type in self._VALUE_TYPES:
+                    self._songs[mode][str_id][value_type] = [0.0] * 5
+            for value_type, index in self._VALUE_TYPES.items():
+                self._songs[mode][str_id][value_type][difficulty] = song[index]
+            self._songs[mode][str_id]['notes'][difficulty] = song[3]
+
             
