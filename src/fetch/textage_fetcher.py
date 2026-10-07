@@ -425,6 +425,12 @@ class textage_data:
             self._logging.error(title + '(' + ascii_title + ')' + ' is not found.')
             return -1
     
+    # textageのtagからidを取得する
+    def get_song_id_by_textage_tag(self, tag):
+        if tag in self._reverse_textage_tag_dict:
+            return self._reverse_textage_tag_dict[tag]
+        return -1
+
     # 指定した曲名の曲が存在するか確認
     def is_contain_song(self, title):
         title = manualdata_loader.normalize_title(title)

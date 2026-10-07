@@ -11,7 +11,8 @@ from fetch.difficulty_sp12_fetcher import difficulty_sp12_data
 from fetch.difficulty_sp11_fetcher import difficulty_sp11_data
 from fetch.cpi_fetcher import cpi_data
 from fetch.konami_fetcher import konami_data
-from fetch.bpi_fetcher import bpi_data
+# from fetch.bpi_fetcher import bpi_data
+from fetch.bpim2_fetcher import bpim2_data
 from fetch.notes_radar_fetcher import notes_radar_data
 from fetch.difficulty_dp_fetcher import difficulty_dp_data
 from fetch.ereter_fetcher import ereter_data
@@ -38,7 +39,8 @@ async def main():
     sp11 = difficulty_sp11_data(logging)
     cpi = cpi_data(logging)
     konami = konami_data(logging)
-    bpi  = bpi_data(logging)
+    # bpi  = bpi_data(logging)
+    bpim2 = bpim2_data(logging)
     notes_radar = notes_radar_data(logging)
     dp = difficulty_dp_data(logging)
     ereter = ereter_data(logging)
@@ -48,7 +50,8 @@ async def main():
         sp11.update(textage),
         cpi.update(textage),
         konami.update(textage),
-        bpi.update(textage),
+        # bpi.update(textage),
+        bpim2.update(textage),
         notes_radar.update(textage),
         dp.update(textage),
         ereter.update(textage)
