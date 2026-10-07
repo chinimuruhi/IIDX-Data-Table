@@ -1,0 +1,47 @@
+2026-10-07 14:57:46,280 weekly:119 _init_titletbl [INFO]: Success in loading actbl.
+2026-10-07 14:57:46,395 weekly:262 _init_titletbl [INFO]: Success in loading titletbl.
+2026-10-07 14:57:47,003 weekly:319 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-10-07 14:57:47,292 weekly:361 _fetch_datatbl [INFO]: Success in loading datatbl.
+2026-10-07 14:57:50,067 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-10-07 14:57:50,112 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-10-07 14:57:50,170 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2026-10-07 14:57:50,795 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Beast mode[ANOTHER]
+2026-10-07 14:57:50,796 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Brahma[ANOTHER]
+2026-10-07 14:57:50,796 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Breakin' Rules[ANOTHER]
+2026-10-07 14:57:50,796 weekly:88 update [ERROR]: BPIM2 Load Skip(1): CONNECT-[ANOTHER]
+2026-10-07 14:57:50,797 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Dark Fall[ANOTHER]
+2026-10-07 14:57:50,797 weekly:88 update [ERROR]: BPIM2 Load Skip(1): DIAMOND JACKAL[ANOTHER]
+2026-10-07 14:57:50,798 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Drop It[ANOTHER]
+2026-10-07 14:57:50,799 weekly:88 update [ERROR]: BPIM2 Load Skip(1): ILAYZA[ANOTHER]
+2026-10-07 14:57:50,800 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Legendary Treasures[ANOTHER]
+2026-10-07 14:57:50,801 weekly:88 update [ERROR]: BPIM2 Load Skip(1): LIKE A VAMPIRE[ANOTHER]
+2026-10-07 14:57:50,801 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Move UR Body[ANOTHER]
+2026-10-07 14:57:50,802 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Ohayo![ANOTHER]
+2026-10-07 14:57:50,803 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Raspberry Potion (feat.あれたん &amp; ぎゃるのしん☆)[ANOTHER]
+2026-10-07 14:57:50,803 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Raspberry Potion(feat.あれたん♡ & ぎゃるのしん☆)[ANOTHER]
+2026-10-07 14:57:50,803 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Rave lithosphere[ANOTHER]
+2026-10-07 14:57:50,803 weekly:88 update [ERROR]: BPIM2 Load Skip(1): RISING FIRE HAWK[ANOTHER]
+2026-10-07 14:57:50,804 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Scandal[ANOTHER]
+2026-10-07 14:57:50,804 weekly:88 update [ERROR]: BPIM2 Load Skip(1): SEITEN NO TERIYAKI[ANOTHER]
+2026-10-07 14:57:50,805 weekly:88 update [ERROR]: BPIM2 Load Skip(1): Six String Proof[ANOTHER]
+2026-10-07 14:57:50,805 weekly:88 update [ERROR]: BPIM2 Load Skip(1): SUNLiGHT (IIDX Mix)[ANOTHER]
+2026-10-07 14:57:50,806 weekly:88 update [ERROR]: BPIM2 Load Skip(1): U.S.A.[ANOTHER]
+2026-10-07 14:57:50,808 weekly:88 update [ERROR]: BPIM2 Load Skip(1): ガヴリールドロップキック[ANOTHER]
+2026-10-07 14:57:50,808 weekly:88 update [ERROR]: BPIM2 Load Skip(1): ぐだふわエブリデー[ANOTHER]
+2026-10-07 14:57:50,808 weekly:88 update [ERROR]: BPIM2 Load Skip(1): マツケンサンバII[ANOTHER]
+2026-10-07 14:57:50,809 weekly:88 update [ERROR]: BPIM2 Load Skip(1): 令和(1991RAVE REMIX)[ANOTHER]
+2026-10-07 14:57:50,822 weekly:123 update [INFO]: Success in loading bpim2.
+2026-10-07 14:57:51,557 weekly:425 get_song_id [ERROR]: PASTELISM(PASTELISM) is not found.
+2026-10-07 14:57:51,557 weekly:81 _register_mid [ERROR]: [notes_radar]:PASTELISM
+2026-10-07 14:57:51,559 weekly:425 get_song_id [ERROR]: FlyAbove-2OthAnnivisaryMix-(FlyAbove-2OthAnnivisaryMix-) is not found.
+2026-10-07 14:57:51,559 weekly:81 _register_mid [ERROR]: [notes_radar]:Fly Above -20th Annivisary Mix-
+2026-10-07 14:57:51,560 weekly:425 get_song_id [ERROR]: I'msohappy(2OthAnniv.Mix)(I'msohappy(2OthAnniv.Mix)) is not found.
+2026-10-07 14:57:51,560 weekly:81 _register_mid [ERROR]: [notes_radar]:I'm so happy (20th Anniv.Mix)
+2026-10-07 14:57:51,560 weekly:425 get_song_id [ERROR]: gigadelic(WILDSTYLE)(gigadelic(WILDSTYLE)) is not found.
+2026-10-07 14:57:51,560 weekly:81 _register_mid [ERROR]: [notes_radar]:gigadelic (WILD STYLE)
+2026-10-07 14:57:51,561 weekly:425 get_song_id [ERROR]: 恋する宇宙戦争っ!!(恋するハードコアRemix)(\u604b\u3059\u308b\u5b87\u5b99\u6226\u4e89\u3063!!(\u604b\u3059\u308b\u30cf\u30fc\u30c9\u30b3\u30a2Remix)) is not found.
+2026-10-07 14:57:51,561 weekly:81 _register_mid [ERROR]: [notes_radar]:恋する☆宇宙戦争っ!!(恋する★ハードコアRemix)
+2026-10-07 14:57:51,911 weekly:122 update [INFO]: Success in loading cpi.
+2026-10-07 14:57:51,913 weekly:65 update [INFO]: Success in loading konami.
+2026-10-07 14:57:52,146 weekly:76 update [INFO]: Success in loading konami.
+2026-10-07 14:57:53,240 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
