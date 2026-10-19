@@ -2979,6 +2979,14 @@
 		{
 			"id": 3190,
 			"in_leggendaria": false
+		},
+		{
+			"id": 2841,
+			"in_leggendaria": false
+		},
+		{
+			"id": 2996,
+			"in_leggendaria": false
 		}
 	],
 	"3": [
@@ -7616,6 +7624,12 @@
 		},
 		{
 			"id": 3168,
+			"in_leggendaria": false
+		}
+	],
+	"48": [
+		{
+			"id": -1,
 			"in_leggendaria": false
 		}
 	]

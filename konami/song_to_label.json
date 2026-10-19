@@ -1,4 +1,8 @@
 {
+	"-1": {
+		"in_leggendaria": false,
+		"label": 48
+	},
 	"3": {
 		"in_leggendaria": false,
 		"label": 0
@@ -5603,6 +5607,10 @@
 		"in_leggendaria": false,
 		"label": 30
 	},
+	"2841": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"2842": {
 		"in_leggendaria": false,
 		"label": 30
@@ -6128,6 +6136,10 @@
 		"label": 34
 	},
 	"2995": {
+		"in_leggendaria": false,
+		"label": 2
+	},
+	"2996": {
 		"in_leggendaria": false,
 		"label": 2
 	},
