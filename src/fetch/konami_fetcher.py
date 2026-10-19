@@ -23,7 +23,9 @@ class konami_data:
         'bit',
     ]
     _PACK_MUSIC_LIST = 'pac'
+    _PACK_HEADER = '楽曲パック'
     _LEGGENDARIA_MUSIC_LIST = 'leg'
+    _NEWSONG_MUSIC_LIST = 'newsong'
     _PACK_PREFIX = 'beatmania IIDX INFINITAS '
 
 
@@ -48,7 +50,11 @@ class konami_data:
             label_to_songs = {}
             for id in data.keys():
                 id_str = id
-                label = self._get_label_id(data[id]['label'])
+                # 解禁種別が取得できなかった曲はスキップ
+                if not 'label' in data[id]:
+                    self._logging.error('[konami]Label not found: ' + str(id))
+                    continue
+                label =self._get_label_id(data[id]['label'])
                 label_str = label
                 if 'in_leggendaria' in data[id]:
                     in_leggendaria = data[id]['in_leggendaria']
@@ -85,11 +91,15 @@ class konami_data:
     def _html_to_json(self, html, textage_data):
         music_list_divs = html.find_all('div', id='music-list')
         result = {}
+        newsong_divs = []
         for music_list_div in music_list_divs:
             # 解禁種別を取得
             label = self._get_label(music_list_div)
             if label:
-                if label == self._PACK_MUSIC_LIST:
+                if label == self._NEWSONG_MUSIC_LIST:
+                    # 新規追加曲はラベルの並び順を崩さないよう最後に処理
+                    newsong_divs.append(music_list_div)
+                elif label == self._PACK_MUSIC_LIST:
                     # パック解禁の場合
                     elements = music_list_div.find_all(['div', 'table'])
                     label = ''
@@ -119,19 +129,41 @@ class konami_data:
                             result[id] = {}
                         self._register_label(label, False)
                         result[id]['label'] = label
+        # 新規追加曲の場合(他の一覧に未掲載の曲があるため、見出しに記載された解禁種別で登録)
+        for music_list_div in newsong_divs:
+            elements = music_list_div.find_all(['div', 'table'])
+            label = ''
+            for element in elements:
+                if element.name == 'div':
+                    # 見出しは「<strong>日付追加</strong> 解禁種別」の形式
+                    label = ''.join(element.find_all(string=True, recursive=False)).strip()
+                    label = label.replace(self._PACK_PREFIX, '')
+                elif element.name == 'table' and label:
+                    songs = self._table_to_music_id_list(element, textage_data)
+                    for id in songs:
+                        if not id in result:
+                            result[id] = {}
+                        if 'label' in result[id]:
+                            continue
+                        # 既存にない解禁種別は楽曲パックとして登録
+                        self._register_label(label, True)
+                        result[id]['label'] = label
         return result
         
     # music-listのdivから解禁種別を取得する
     def _get_label(self, music_list_div):
+        # newsong
+        if music_list_div.find('div', id=self._NEWSONG_MUSIC_LIST):
+            return self._NEWSONG_MUSIC_LIST
         # normal
         for label in self._NORMAL_MUSIC_LIST:
             cat_div = music_list_div.find('div', id=label)
             if cat_div:
                 label_name = cat_div.find('strong').get_text(strip=True)
                 return label_name
-        # pack
-        pack = music_list_div.find('div', id=self._PACK_MUSIC_LIST)
-        if pack:
+        # pack(パックごとのidは付いていないものがあるため、欄の見出しで判定)
+        header = music_list_div.find('div', class_='cat')
+        if header and header.find('strong') and header.find('strong').get_text(strip=True) == self._PACK_HEADER:
             return self._PACK_MUSIC_LIST
         # leg
         leg = music_list_div.find('div', id=self._LEGGENDARIA_MUSIC_LIST)
