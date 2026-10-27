@@ -11,7 +11,12 @@ class notes_radar_data:
         'sp-gz':'sp.json.gz',
         'dp':'dp.json',
         'dp-gz': 'dp.json.gz',
-        'last_modified': 'last_modified.txt'
+        'last_modified': 'last_modified.txt',
+        'category_genre': 'category/genre.json',
+        'category_sp_dict': 'category/sp_dict.json',
+        'category_sp_list': 'category/sp_list.json',
+        'category_dp_dict': 'category/dp_dict.json',
+        'category_dp_list': 'category/dp_list.json'
     }
     # データ取得先
     _URLS= {
@@ -36,6 +41,17 @@ class notes_radar_data:
         'SCRATCH': 8,
         'SOFLAN': 9,
     }
+    # カテゴリ(最大値のジャンル)の並び
+    _CATEGORY_GENRES = [
+        'CHARGE',
+        'CHORD',
+        'NOTES',
+        'PEAK',
+        'SCRATCH',
+        'SOFLAN'
+    ]
+    # 難易度のindexと表記の対応
+    _DIFFICULTIES = ['B', 'N', 'H', 'A', 'L']
 
     # コンストラクタ
     def __init__(self, logging):
@@ -54,8 +70,16 @@ class notes_radar_data:
             self._register_mid(json_data['mid'], textage_data)
             for key, mode in self._MODES.items():
                 self._register_songlist(json_data[key], mode)
+            sp_category_dict, sp_category_list = self._create_category(self._songs['SP'])
+            dp_category_dict, dp_category_list = self._create_category(self._songs['DP'])
         # ファイルへ保存
+            os.makedirs(os.path.join(self._FILE_PATH, 'category'), exist_ok=True)
             await asyncio.gather(
+                utility.save_to_file(self._CATEGORY_GENRES, os.path.join(self._FILE_PATH, self._FILES['category_genre'])),
+                utility.save_to_file(sp_category_dict, os.path.join(self._FILE_PATH, self._FILES['category_sp_dict'])),
+                utility.save_to_file(sp_category_list, os.path.join(self._FILE_PATH, self._FILES['category_sp_list'])),
+                utility.save_to_file(dp_category_dict, os.path.join(self._FILE_PATH, self._FILES['category_dp_dict'])),
+                utility.save_to_file(dp_category_list, os.path.join(self._FILE_PATH, self._FILES['category_dp_list'])),
                 utility.save_to_file(self._songs['SP'] , os.path.join(self._FILE_PATH, self._FILES['sp'])),
                 utility.save_to_file_gz(self._songs['SP'] , os.path.join(self._FILE_PATH, self._FILES['sp-gz'])),
                 utility.save_to_file(self._songs['DP'] , os.path.join(self._FILE_PATH, self._FILES['dp'])),
@@ -98,4 +122,27 @@ class notes_radar_data:
                 self._songs[mode][str_id][value_type][difficulty] = song[index]
             self._songs[mode][str_id]['notes'][difficulty] = song[3]
 
-            
+    # カテゴリ(ノーツレーダー値が最大のジャンル)の作成
+    def _create_category(self, songs):
+        category_dict = {}
+        category_list = []
+        for str_id, song in songs.items():
+            # 曲が特定できないものはスキップ
+            if str_id == '-1':
+                continue
+            for index, difficulty in enumerate(self._DIFFICULTIES):
+                values = [song[genre][index] for genre in self._CATEGORY_GENRES]
+                # 値が全て0の譜面はスキップ
+                if max(values) <= 0:
+                    continue
+                # 同値の場合はgenre.jsonで先のジャンルを優先
+                genre = values.index(max(values))
+                if not str_id in category_dict:
+                    category_dict[str_id] = {}
+                category_dict[str_id][difficulty] = genre
+                category_list.append({
+                    'genre': genre,
+                    'difficulty': difficulty,
+                    'id': int(str_id)
+                })
+        return category_dict, category_list
