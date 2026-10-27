@@ -12,7 +12,7 @@ class notes_radar_data:
         'dp':'dp.json',
         'dp-gz': 'dp.json.gz',
         'last_modified': 'last_modified.txt',
-        'category_genre': 'category/genre.json',
+        'category_genre': 'category/category.json',
         'category_sp_dict': 'category/sp_dict.json',
         'category_sp_list': 'category/sp_list.json',
         'category_dp_dict': 'category/dp_dict.json',
@@ -135,7 +135,7 @@ class notes_radar_data:
                 # 値が全て0の譜面はスキップ
                 if max(values) <= 0:
                     continue
-                # 同値の場合はgenre.jsonで先のジャンルを優先
+                # 同値の場合はcategory.jsonで先のジャンルを優先
                 genre = values.index(max(values))
                 if not str_id in category_dict:
                     category_dict[str_id] = {}
