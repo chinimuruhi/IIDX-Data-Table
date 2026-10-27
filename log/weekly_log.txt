@@ -1,0 +1,42 @@
+2026-10-27 14:19:22,817 weekly:119 _init_titletbl [INFO]: Success in loading actbl.
+2026-10-27 14:19:22,817 weekly:269 _init_titletbl [INFO]: Titletbl was not modified.
+2026-10-27 14:19:23,373 weekly:319 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-10-27 14:19:23,636 weekly:361 _fetch_datatbl [INFO]: Success in loading datatbl.
+2026-10-27 14:19:26,814 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-10-27 14:19:26,940 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-10-27 14:19:26,955 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2026-10-27 14:19:27,156 weekly:126 update [INFO]: bpim2 was not modified.
+2026-10-27 14:19:27,631 weekly:425 get_song_id [ERROR]: PASTELISM(PASTELISM) is not found.
+2026-10-27 14:19:27,632 weekly:105 _register_mid [ERROR]: [notes_radar]:PASTELISM
+2026-10-27 14:19:27,634 weekly:425 get_song_id [ERROR]: FlyAbove-2OthAnnivisaryMix-(FlyAbove-2OthAnnivisaryMix-) is not found.
+2026-10-27 14:19:27,634 weekly:105 _register_mid [ERROR]: [notes_radar]:Fly Above -20th Annivisary Mix-
+2026-10-27 14:19:27,634 weekly:425 get_song_id [ERROR]: I'msohappy(2OthAnniv.Mix)(I'msohappy(2OthAnniv.Mix)) is not found.
+2026-10-27 14:19:27,634 weekly:105 _register_mid [ERROR]: [notes_radar]:I'm so happy (20th Anniv.Mix)
+2026-10-27 14:19:27,907 weekly:89 update [INFO]: Success in loading konami.
+2026-10-27 14:19:28,378 weekly:122 update [INFO]: Success in loading cpi.
+2026-10-27 14:19:28,510 weekly:425 get_song_id [ERROR]: BangPad(WerkMix)(BangPad(WerkMix)) is not found.
+2026-10-27 14:19:28,510 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Bang Pad(Werk Mix)
+2026-10-27 14:19:28,510 weekly:425 get_song_id [ERROR]: CometoLife(CometoLife) is not found.
+2026-10-27 14:19:28,510 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Come to Life
+2026-10-27 14:19:28,510 weekly:425 get_song_id [ERROR]: ComeTom1dy(ComeTom1dy) is not found.
+2026-10-27 14:19:28,510 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Come To m1dy
+2026-10-27 14:19:28,510 weekly:425 get_song_id [ERROR]: DeeptenDonReflex(DeeptenDonReflex) is not found.
+2026-10-27 14:19:28,510 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Deep tenDon Reflex
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: DinDonDan(DinDonDan) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Din Don Dan
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: EuphoricFragmentation(EuphoricFragmentation) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Euphoric Fragmentation
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: GlitchAngel(GlitchAngel) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Glitch Angel
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: JungleDance(JungleDance) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Jungle Dance
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: NEPHILIMDELTA(NEPHILIMDELTA) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:NEPHILIM DELTA
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: Sector(Sector) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Sector
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: The88'sInstigation(The88'sInstigation) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:The 88's Instigation
+2026-10-27 14:19:28,511 weekly:425 get_song_id [ERROR]: TheAshesofBoreas(TheAshesofBoreas) is not found.
+2026-10-27 14:19:28,511 weekly:196 _table_to_music_id_list [ERROR]: [konami]:The Ashes of Boreas
+2026-10-27 14:19:28,539 weekly:82 update [INFO]: Success in loading konami.
+2026-10-27 14:19:29,363 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
