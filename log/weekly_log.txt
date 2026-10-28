@@ -1,0 +1,37 @@
+2026-10-28 06:39:12,968 weekly:126 _init_titletbl [INFO]: actbl was not modified.
+2026-10-28 06:39:12,968 weekly:269 _init_titletbl [INFO]: Titletbl was not modified.
+2026-10-28 06:39:13,623 weekly:319 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-10-28 06:39:13,630 weekly:364 _fetch_datatbl [INFO]: Datatbl was not modified.
+2026-10-28 06:39:13,859 weekly:416 update [INFO]: No Change.
+2026-10-28 06:39:16,979 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-10-28 06:39:17,072 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-10-28 06:39:17,104 weekly:119 update [INFO]: difficulty_sp12 was not modified.
+2026-10-28 06:39:17,311 weekly:126 update [INFO]: bpim2 was not modified.
+2026-10-28 06:39:17,323 weekly:92 update [INFO]: notes_radar was not modified.
+2026-10-28 06:39:18,187 weekly:122 update [INFO]: Success in loading cpi.
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: BangPad(WerkMix)(BangPad(WerkMix)) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Bang Pad(Werk Mix)
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: CometoLife(CometoLife) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Come to Life
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: ComeTom1dy(ComeTom1dy) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Come To m1dy
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: DeeptenDonReflex(DeeptenDonReflex) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Deep tenDon Reflex
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: DinDonDan(DinDonDan) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Din Don Dan
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: EuphoricFragmentation(EuphoricFragmentation) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Euphoric Fragmentation
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: GlitchAngel(GlitchAngel) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Glitch Angel
+2026-10-28 06:39:18,366 weekly:425 get_song_id [ERROR]: JungleDance(JungleDance) is not found.
+2026-10-28 06:39:18,366 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Jungle Dance
+2026-10-28 06:39:18,367 weekly:425 get_song_id [ERROR]: NEPHILIMDELTA(NEPHILIMDELTA) is not found.
+2026-10-28 06:39:18,367 weekly:196 _table_to_music_id_list [ERROR]: [konami]:NEPHILIM DELTA
+2026-10-28 06:39:18,367 weekly:425 get_song_id [ERROR]: Sector(Sector) is not found.
+2026-10-28 06:39:18,367 weekly:196 _table_to_music_id_list [ERROR]: [konami]:Sector
+2026-10-28 06:39:18,367 weekly:425 get_song_id [ERROR]: The88'sInstigation(The88'sInstigation) is not found.
+2026-10-28 06:39:18,367 weekly:196 _table_to_music_id_list [ERROR]: [konami]:The 88's Instigation
+2026-10-28 06:39:18,367 weekly:425 get_song_id [ERROR]: TheAshesofBoreas(TheAshesofBoreas) is not found.
+2026-10-28 06:39:18,367 weekly:196 _table_to_music_id_list [ERROR]: [konami]:The Ashes of Boreas
+2026-10-28 06:39:18,393 weekly:82 update [INFO]: Success in loading konami.
+2026-10-28 06:39:18,783 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
