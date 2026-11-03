@@ -804,6 +804,11 @@
 		"genre": "HYPER J-POP SIX",
 		"version": 12
 	},
+	"121": {
+		"artist": "Oyubi",
+		"genre": "JUKE/FOOTWORK",
+		"version": -1
+	},
 	"1210": {
 		"artist": "AKIRA YAMAOKA",
 		"genre": "E-ROCK",
@@ -854,6 +859,11 @@
 		"genre": "TRANCE",
 		"version": 12
 	},
+	"122": {
+		"artist": "ARM(IOSYS) feat.Nicole Curry",
+		"genre": "UK HARDCORE",
+		"version": -1
+	},
 	"1220": {
 		"artist": "Risk Junk feat.Erika Mochizuki",
 		"genre": "HAPPY EXTREME",
@@ -898,6 +908,11 @@
 		"artist": "Sota Fujimori",
 		"genre": "SYNTHESIZED TECHNO",
 		"version": 12
+	},
+	"123": {
+		"artist": "m1dy",
+		"genre": "TOKYO STYLE SPEEDCORE",
+		"version": -1
 	},
 	"1230": {
 		"artist": "dj REMO-CON",
@@ -949,6 +964,11 @@
 		"genre": "BIG BEAT",
 		"version": 12
 	},
+	"124": {
+		"artist": "BEMANI Sound Team \"Coyaan\"",
+		"genre": "丼ベース",
+		"version": -1
+	},
 	"1240": {
 		"artist": "kors k",
 		"genre": "MAKINA",
@@ -999,6 +1019,11 @@
 		"genre": "DISCO",
 		"version": 12
 	},
+	"125": {
+		"artist": "Ryu☆ feat.Mayumi Morinaga",
+		"genre": "BUBBLEGUM DANCE",
+		"version": -1
+	},
 	"1250": {
 		"artist": "Tatsh",
 		"genre": "MEDIEVAL CHOIR",
@@ -1044,6 +1069,11 @@
 		"genre": "HUMAN SEQUENCER",
 		"version": 12
 	},
+	"126": {
+		"artist": "DC Mizey",
+		"genre": "HYBRID RAVE",
+		"version": -1
+	},
 	"1261": {
 		"artist": "ウッチーズ",
 		"genre": "J-POP REMIX",
@@ -1054,10 +1084,30 @@
 		"genre": "UK PROGRESSIVE",
 		"version": 12
 	},
+	"127": {
+		"artist": "lapix",
+		"genre": "ABSTRACT NEUROFUNK",
+		"version": -1
+	},
+	"128": {
+		"artist": "NATSUMI",
+		"genre": "JUNGLE TERROR",
+		"version": -1
+	},
+	"129": {
+		"artist": "L.E.D.-G",
+		"genre": "HARDCORE",
+		"version": -1
+	},
 	"13": {
 		"artist": "QUADRA",
 		"genre": "DRUMN BASS",
 		"version": 0
+	},
+	"130": {
+		"artist": "RYOQUCHA",
+		"genre": "HiTECH",
+		"version": -1
 	},
 	"1301": {
 		"artist": "TЁЯRA",
@@ -1104,6 +1154,11 @@
 		"genre": "TRANCE",
 		"version": 13
 	},
+	"131": {
+		"artist": "MYUKKE.",
+		"genre": "NU DISCO HOUSE",
+		"version": -1
+	},
 	"1310": {
 		"artist": "佐々木博史",
 		"genre": "PROGRESSIVE",
@@ -1148,6 +1203,11 @@
 		"artist": "K-MASERA",
 		"genre": "80's TECHNO",
 		"version": 13
+	},
+	"132": {
+		"artist": "Se-U-Ra",
+		"genre": "CELTIC ELECTRO TECH",
+		"version": -1
 	},
 	"1320": {
 		"artist": "玄武",
