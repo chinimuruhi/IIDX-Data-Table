@@ -1,8 +1,4 @@
 {
-	"-1": {
-		"in_leggendaria": false,
-		"label": 48
-	},
 	"3": {
 		"in_leggendaria": false,
 		"label": 0
@@ -230,6 +226,54 @@
 	"114": {
 		"in_leggendaria": false,
 		"label": 2
+	},
+	"121": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"122": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"123": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"124": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"125": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"126": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"127": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"128": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"129": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"130": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"131": {
+		"in_leggendaria": false,
+		"label": 48
+	},
+	"132": {
+		"in_leggendaria": false,
+		"label": 48
 	},
 	"201": {
 		"in_leggendaria": false,

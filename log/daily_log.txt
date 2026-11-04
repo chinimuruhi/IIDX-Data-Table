@@ -1,4 +1,0 @@
-2026-11-03 20:46:02,161 daily:119 _init_titletbl [INFO]: Success in loading actbl.
-2026-11-03 20:46:02,226 daily:262 _init_titletbl [INFO]: Success in loading titletbl.
-2026-11-03 20:46:02,932 daily:319 _fetch_scrlist [INFO]: Scrtbl was not modified.
-2026-11-03 20:46:03,290 daily:361 _fetch_datatbl [INFO]: Success in loading datatbl.

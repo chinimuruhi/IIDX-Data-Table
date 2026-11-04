@@ -7637,7 +7637,51 @@
 	],
 	"48": [
 		{
-			"id": -1,
+			"id": 121,
+			"in_leggendaria": false
+		},
+		{
+			"id": 122,
+			"in_leggendaria": false
+		},
+		{
+			"id": 123,
+			"in_leggendaria": false
+		},
+		{
+			"id": 124,
+			"in_leggendaria": false
+		},
+		{
+			"id": 125,
+			"in_leggendaria": false
+		},
+		{
+			"id": 126,
+			"in_leggendaria": false
+		},
+		{
+			"id": 127,
+			"in_leggendaria": false
+		},
+		{
+			"id": 128,
+			"in_leggendaria": false
+		},
+		{
+			"id": 129,
+			"in_leggendaria": false
+		},
+		{
+			"id": 130,
+			"in_leggendaria": false
+		},
+		{
+			"id": 131,
+			"in_leggendaria": false
+		},
+		{
+			"id": 132,
 			"in_leggendaria": false
 		}
 	]
