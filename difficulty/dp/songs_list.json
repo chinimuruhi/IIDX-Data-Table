@@ -24241,6 +24241,18 @@
 	},
 	{
 		"difficulty": "H",
+		"id": 3448,
+		"snj_id": "34050-5-0",
+		"value": 8.0
+	},
+	{
+		"difficulty": "A",
+		"id": 3448,
+		"snj_id": "34050-7-0",
+		"value": 10.0
+	},
+	{
+		"difficulty": "H",
 		"id": 3446,
 		"snj_id": "34048-5-0",
 		"value": 10.0
