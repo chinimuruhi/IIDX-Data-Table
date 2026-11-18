@@ -1,0 +1,17 @@
+2026-11-18 08:13:51,015 weekly:119 _init_titletbl [INFO]: Success in loading actbl.
+2026-11-18 08:13:51,015 weekly:269 _init_titletbl [INFO]: Titletbl was not modified.
+2026-11-18 08:13:51,992 weekly:319 _fetch_scrlist [INFO]: Scrtbl was not modified.
+2026-11-18 08:13:52,354 weekly:361 _fetch_datatbl [INFO]: Success in loading datatbl.
+2026-11-18 08:13:55,217 weekly:92 update [INFO]: Success in loading difficulty_sp11.
+2026-11-18 08:13:55,265 weekly:59 update [ERROR]: Failed to fetch ereter.
+2026-11-18 08:13:55,304 weekly:116 update [INFO]: Success in loading difficulty_sp12.
+2026-11-18 08:13:55,679 weekly:126 update [INFO]: bpim2 was not modified.
+2026-11-18 08:13:57,327 weekly:122 update [INFO]: Success in loading cpi.
+2026-11-18 08:13:57,328 weekly:89 update [INFO]: Success in loading konami.
+2026-11-18 08:13:57,562 weekly:425 get_song_id [ERROR]: ミラージュ.レジデンス(SPLEGGENDARIA)(\u30df\u30e9\u30fc\u30b8\u30e5.\u30ec\u30b8\u30c7\u30f3\u30b9(SPLEGGENDARIA)) is not found.
+2026-11-18 08:13:57,562 weekly:196 _table_to_music_id_list [ERROR]: [konami]:ミラージュ・レジデンス (SP LEGGENDARIA)
+2026-11-18 08:13:57,562 weekly:425 get_song_id [ERROR]: BITTERCHOCOLATESTRIKER(DPLEGGENDARIA)(BITTERCHOCOLATESTRIKER(DPLEGGENDARIA)) is not found.
+2026-11-18 08:13:57,562 weekly:196 _table_to_music_id_list [ERROR]: [konami]:BITTER CHOCOLATE STRIKER (DP LEGGENDARIA)
+2026-11-18 08:13:57,568 weekly:55 update [ERROR]: [konami]Label not found: -1
+2026-11-18 08:13:58,219 weekly:82 update [INFO]: Success in loading konami.
+2026-11-18 08:13:58,220 weekly:57 update [INFO]: Success in loading ＳＮＪ＠ＫＭＺＳ.
