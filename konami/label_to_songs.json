@@ -2981,11 +2981,11 @@
 			"in_leggendaria": false
 		},
 		{
-			"id": 3123,
+			"id": 3199,
 			"in_leggendaria": false
 		},
 		{
-			"id": 3190,
+			"id": 3123,
 			"in_leggendaria": false
 		},
 		{
@@ -2993,7 +2993,15 @@
 			"in_leggendaria": false
 		},
 		{
-			"id": 3199,
+			"id": 3190,
+			"in_leggendaria": false
+		},
+		{
+			"id": 3194,
+			"in_leggendaria": false
+		},
+		{
+			"id": 2806,
 			"in_leggendaria": false
 		}
 	],

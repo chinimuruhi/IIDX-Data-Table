@@ -26910,9 +26910,19 @@
 		"id": 2596
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3303
+	},
+	{
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3303
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3344
 	},
 	{
 		"difficulty": "A",
@@ -26955,14 +26965,29 @@
 		"id": 3304
 	},
 	{
-		"difficulty": "A",
+		"difficulty": "H",
 		"genre": 2,
 		"id": 3305
 	},
 	{
 		"difficulty": "A",
 		"genre": 2,
+		"id": 3305
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
 		"id": 3306
+	},
+	{
+		"difficulty": "A",
+		"genre": 2,
+		"id": 3306
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3394
 	},
 	{
 		"difficulty": "A",
@@ -26978,6 +27003,11 @@
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3397
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3307
 	},
 	{
 		"difficulty": "A",
@@ -27005,6 +27035,11 @@
 		"id": 3389
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 2195
+	},
+	{
 		"difficulty": "A",
 		"genre": 1,
 		"id": 2195
@@ -27013,6 +27048,11 @@
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3393
+	},
+	{
+		"difficulty": "H",
+		"genre": 3,
+		"id": 3308
 	},
 	{
 		"difficulty": "A",
@@ -27043,6 +27083,11 @@
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3309
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3390
 	},
 	{
 		"difficulty": "A",
@@ -27100,6 +27145,11 @@
 		"id": 3360
 	},
 	{
+		"difficulty": "H",
+		"genre": 4,
+		"id": 4072
+	},
+	{
 		"difficulty": "A",
 		"genre": 3,
 		"id": 4072
@@ -27143,6 +27193,11 @@
 		"difficulty": "A",
 		"genre": 1,
 		"id": 3311
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3364
 	},
 	{
 		"difficulty": "A",
@@ -27235,6 +27290,11 @@
 		"id": 3373
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3315
+	},
+	{
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3315
@@ -27253,6 +27313,11 @@
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3392
+	},
+	{
+		"difficulty": "H",
+		"genre": 3,
+		"id": 103316
 	},
 	{
 		"difficulty": "A",
@@ -27305,6 +27370,11 @@
 		"id": 3319
 	},
 	{
+		"difficulty": "H",
+		"genre": 3,
+		"id": 3322
+	},
+	{
 		"difficulty": "A",
 		"genre": 3,
 		"id": 3322
@@ -27328,6 +27398,11 @@
 		"difficulty": "A",
 		"genre": 3,
 		"id": 2597
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3320
 	},
 	{
 		"difficulty": "A",
@@ -27370,6 +27445,11 @@
 		"id": 2198
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3365
+	},
+	{
 		"difficulty": "A",
 		"genre": 2,
 		"id": 3365
@@ -27385,14 +27465,29 @@
 		"id": 3374
 	},
 	{
-		"difficulty": "A",
-		"genre": 3,
+		"difficulty": "H",
+		"genre": 2,
 		"id": 3324
 	},
 	{
 		"difficulty": "A",
 		"genre": 3,
+		"id": 3324
+	},
+	{
+		"difficulty": "H",
+		"genre": 3,
 		"id": 3358
+	},
+	{
+		"difficulty": "A",
+		"genre": 3,
+		"id": 3358
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 2199
 	},
 	{
 		"difficulty": "A",
@@ -27413,6 +27508,11 @@
 		"difficulty": "A",
 		"genre": 2,
 		"id": 2599
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 2194
 	},
 	{
 		"difficulty": "A",
@@ -27475,6 +27575,11 @@
 		"id": 3348
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3327
+	},
+	{
 		"difficulty": "A",
 		"genre": 1,
 		"id": 3327
@@ -27500,6 +27605,11 @@
 		"id": 2398
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3331
+	},
+	{
 		"difficulty": "A",
 		"genre": 3,
 		"id": 3331
@@ -27513,6 +27623,11 @@
 		"difficulty": "A",
 		"genre": 1,
 		"id": 3333
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3339
 	},
 	{
 		"difficulty": "A",
@@ -27640,6 +27755,11 @@
 		"id": 3381
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3334
+	},
+	{
 		"difficulty": "A",
 		"genre": 1,
 		"id": 3334
@@ -27663,6 +27783,11 @@
 		"difficulty": "A",
 		"genre": 3,
 		"id": 3347
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3385
 	},
 	{
 		"difficulty": "A",
@@ -27695,6 +27820,11 @@
 		"id": 3340
 	},
 	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3337
+	},
+	{
 		"difficulty": "A",
 		"genre": 1,
 		"id": 3337
@@ -27713,6 +27843,11 @@
 		"difficulty": "A",
 		"genre": 1,
 		"id": 3328
+	},
+	{
+		"difficulty": "H",
+		"genre": 2,
+		"id": 3330
 	},
 	{
 		"difficulty": "A",

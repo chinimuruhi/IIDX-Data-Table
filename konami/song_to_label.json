@@ -5531,6 +5531,10 @@
 		"in_leggendaria": false,
 		"label": 32
 	},
+	"2806": {
+		"in_leggendaria": false,
+		"label": 2
+	},
 	"2807": {
 		"in_leggendaria": false,
 		"label": 32
@@ -6826,6 +6830,10 @@
 	"3193": {
 		"in_leggendaria": false,
 		"label": 40
+	},
+	"3194": {
+		"in_leggendaria": false,
+		"label": 2
 	},
 	"3195": {
 		"in_leggendaria": false,
