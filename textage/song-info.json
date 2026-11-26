@@ -179,6 +179,11 @@
 		"genre": "HARDCORE",
 		"version": 29
 	},
+	"102886": {
+		"artist": "上ノ瀬つかさ",
+		"genre": "SPUKWALZER",
+		"version": 28
+	},
 	"1029": {
 		"artist": "TAKA with Junpei & 三上",
 		"genre": "J-REVIVAL",
@@ -10892,6 +10897,46 @@
 	"3448": {
 		"artist": "猫叉Master feat.Kanae Asaba",
 		"genre": "ECHO SONG",
+		"version": 34
+	},
+	"3449": {
+		"artist": "The 4th feat.TORIENA",
+		"genre": "HYPER THEME SONG",
+		"version": 34
+	},
+	"3450": {
+		"artist": "EmoCosine + DJ Genki",
+		"genre": "ANTHEM",
+		"version": 34
+	},
+	"3451": {
+		"artist": "Juggernaut. + しーけー",
+		"genre": "GGWP",
+		"version": 34
+	},
+	"3452": {
+		"artist": "xi",
+		"genre": "HARD RENASSIANCE",
+		"version": 34
+	},
+	"3453": {
+		"artist": "Kaname",
+		"genre": "HAT CORE",
+		"version": 34
+	},
+	"3454": {
+		"artist": "幸幸幸",
+		"genre": "HARDCORE, DRUM'N'BASS",
+		"version": 34
+	},
+	"3455": {
+		"artist": "Alkome",
+		"genre": "UK HARDCORE",
+		"version": 34
+	},
+	"3456": {
+		"artist": "あまみ×ひなみ",
+		"genre": "SAILING POP ROCK",
 		"version": 34
 	},
 	"35": {
